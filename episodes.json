@@ -222,7 +222,16 @@
     "duration_min": 214,
     "category": "ai",
     "description": "<p>Andrej Karpathy is a legendary AI researcher, engineer, and educator. He&#8217;s the former director of AI at Tesla, a founding member of OpenAI, and an educator at Stanford. Please support this podcast by checking out our sponsors:<br />\n&#8211; <b>Eight Sleep</b>: <a href=\"https://www.eightsleep.com/lex\">https://www.eightsleep.com/lex</a> to get special savings<br />\n&#8211; <b>BetterHelp</b>",
-    "source_show_url": "https://lexfridman.com/feed/podcast/"
+    "source_show_url": "https://lexfridman.com/feed/podcast/",
+    "compressed": {
+      "compressed_duration_s": 310,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Lex Fridman",
+        "Andrej Karpathy"
+      ],
+      "mp3_size_mb": 4.97
+    }
   },
   {
     "id": "ep_011",

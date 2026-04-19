@@ -1,0 +1,84 @@
+{
+  "id": "ep_010",
+  "source_url": "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrej_karpathy.mp3",
+  "source_title": "#333 \u2013 Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 310,
+  "speakers": [
+    "Lex Fridman",
+    "Andrej Karpathy"
+  ],
+  "audio_url": "/audio/ep_010.mp3",
+  "paragraphs": [
+    {
+      "speaker": "lex",
+      "name": "Lex Fridman",
+      "text": "What is a neural network? And why does it seem to do such a surprisingly good job of learning?",
+      "source_time_s": 341,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "A neural network is a mathematical abstraction of the brain. At the end of the day, it's a fairly simple mathematical expression\u2014basically a sequence of matrix multiplies, which are really dot products, and some nonlinearities thrown in. It's got knobs in it. Many knobs. And these knobs are loosely related to the synapses in your brain. They're trainable, modifiable. So the idea is we need to find the setting of the knobs that makes the neural net do whatever you want it to do, like classify images. You definitely do get very surprising emergent behaviors out of these neural nets when they're large enough and trained on complicated enough problems, like next word prediction in a massive dataset from the internet. These neural nets take on pretty surprising magical properties.",
+      "source_time_s": 343,
+      "compressed_time_s": 8
+    },
+    {
+      "speaker": "lex",
+      "name": "Lex Fridman",
+      "text": "When your brain right now is talking, is it doing next word prediction? Or is it doing something more interesting?",
+      "source_time_s": 427,
+      "compressed_time_s": 66
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "It's definitely some kind of a generative model that's GPT-like and prompted by you. So you're giving me a prompt, and I'm kind of responding to it in a generative way. It looks like you're referencing some kind of a declarative structure of memory and so on, and then you're putting that together with your prompt and giving away some answer.",
+      "source_time_s": 434,
+      "compressed_time_s": 75
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "I'm simultaneously underselling neural nets, but there's also an element where it's actually kind of incredible that you can get so much emergent, magical behavior out of them despite them being so simple mathematically. Those are two surprising statements that are juxtaposed together. Basically what it is is we are actually fairly good at optimizing these neural nets. And when you give them a hard enough problem, they are forced to learn very interesting solutions in the optimization. Those solutions have these emergent properties that are very interesting.",
+      "source_time_s": 489,
+      "compressed_time_s": 102
+    },
+    {
+      "speaker": "lex",
+      "name": "Lex Fridman",
+      "text": "So this representation that's in the knobs\u2014does it make sense to you intuitively that a large number of knobs can hold a representation that captures some deep wisdom about the data it has looked at?",
+      "source_time_s": 547,
+      "compressed_time_s": 141
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "It's a lot of knobs. Speaking concretely, one of the neural nets that people are very excited about right now are GPTs, which are basically just next word prediction networks. You consume a sequence of words from the internet and you try to predict the next word. Once you train these on a large enough dataset, you can basically prompt these neural nets in arbitrary ways and ask them to solve problems and they will. You can make it look like you're trying to solve some kind of a mathematical problem and they will continue what they think is the solution based on what they've seen on the internet. Very often those solutions look very remarkably consistent, look correct potentially even.",
+      "source_time_s": 561,
+      "compressed_time_s": 156
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "I'm much more hesitant with the analogies to the brain than you would see potentially in the field. Certainly the way neural networks started is everything stemmed from inspiration by the brain. But at the end of the day, the artifacts that you get after training\u2014they are arrived at by a very different optimization process than the optimization process that gave rise to the brain. I kind of think of it as a very complicated alien artifact. It's something different. I do not make analogies to the brain because the optimization process that gave rise to it is very different. There was no multi-agent self-play kind of setup and evolution. It was an optimization that amounts to a compression objective on a massive amount of data.",
+      "source_time_s": 654,
+      "compressed_time_s": 210
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "I've been preoccupied with this question quite a bit recently\u2014basically the Fermi paradox and thinking through the origin of life, trying to understand how common it is that there are technological societies out there in space. The more I study it, the more I think that there should be quite a lot. You read books like Nick Lane's The Vital Question, Life Ascending, and he really gets in and makes you believe that this is not that rare basic chemistry. You have an active Earth and your alkaline vents and proton gradients and the little porous pockets that concentrate chemistry\u2014basically as he steps through all of these little pieces you start to understand that this is not that crazy. And the origin of life was actually fairly fast after formation of Earth. Just a few hundred million years, when it was possible, life actually arose. That makes me feel like that is not the constraint, not the limiting variable.",
+      "source_time_s": 1008,
+      "compressed_time_s": 266
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "I currently think there's no major drop-offs, basically, and so there should be quite a lot of",
+      "source_time_s": 1258,
+      "compressed_time_s": 337
+    }
+  ]
+}
