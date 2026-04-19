@@ -1,0 +1,84 @@
+{
+  "id": "ep_029",
+  "source_url": "https://traffic.megaphone.fm/SCIM6217546049.mp3?updated=1752124321",
+  "source_title": "Essentials: Science of Stress, Testosterone, Aggression & Motivation | Dr. Robert Sapolsky",
+  "source_duration_s": 2225,
+  "compressed_duration_s": 295,
+  "speakers": [
+    "Andrew Huberman",
+    "Robert Sapolsky"
+  ],
+  "audio_url": "/audio/ep_029.mp3",
+  "paragraphs": [
+    {
+      "speaker": "andrew",
+      "name": "Andrew Huberman",
+      "text": "I'm Andrew Huberman, a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today I have the pleasure of introducing Dr. Robert Sapolsky. I want to return to a topic near and dear to your heart, which is stress. What is the difference between short and long-term stress in terms of their benefits and their drawbacks? How should we conceptualize stress?",
+      "source_time_s": 9,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "robert",
+      "name": "Robert Sapolsky",
+      "text": "Basically, sort of two graphs that one would draw. The first one is just all sorts of beneficial effects of stress short-term. And then once we get into chronicity, it's just downhill from there. The sorts of chronic stressors that most people deal with are just undeniably in the chronic range, like having spent the last 20 years in daily traffic jams or abusive boss or some such thing. The other curve is dealing with the fact that sometimes stress is a great thing. Our goal is not to cure people of stress, because if it's of our kind, we love it. We pay good money to be stressed that way by a scary movie or a rollercoaster ride. When it's the right amount of stress, it's what we call stimulation.",
+      "source_time_s": 38,
+      "compressed_time_s": 27
+    },
+    {
+      "speaker": "andrew",
+      "name": "Andrew Huberman",
+      "text": "What really creates this thing we call valence, that an experience can be terrible or feel awful, or it can feel wonderful, depending on this somewhat subjective feature we call valence?",
+      "source_time_s": 139,
+      "compressed_time_s": 85
+    },
+    {
+      "speaker": "robert",
+      "name": "Robert Sapolsky",
+      "text": "On a really mechanical level, if you're in a circumstance that is requiring that your heart races and your breathing is fast and you're using your muscles, you're gonna be having roughly the same brain activation profile, whether this is for something wonderful or something terrible, with the one exception being that if the amygdala is part of the activation, this is something that's gonna be counting as adverse. The amygdala in some ways is kind of the checkpoint as to whether we're talking about excitement or terror.",
+      "source_time_s": 148,
+      "compressed_time_s": 99
+    },
+    {
+      "speaker": "andrew",
+      "name": "Andrew Huberman",
+      "text": "How should we think about testosterone and its effects on the brain?",
+      "source_time_s": 195,
+      "compressed_time_s": 138
+    },
+    {
+      "speaker": "robert",
+      "name": "Robert Sapolsky",
+      "text": "Basically, almost everybody out there has a completely wrong idea as to what testosterone does, which is testosterone makes you aggressive. And the reality is, testosterone does no such thing. It doesn't cause aggression. It lowers the threshold for the sort of things that would normally provoke you into being aggressive, so that it happens more easily. It makes systems that are already turned on turn on louder rather than turning on aggressive music or some such thing. It's not creating aggression, it's just upping the volume of whatever aggression is already there.",
+      "source_time_s": 201,
+      "compressed_time_s": 144
+    },
+    {
+      "speaker": "robert",
+      "name": "Robert Sapolsky",
+      "text": "Higher levels of testosterone predict higher levels of aggression in humans and other animals. Higher levels of testosterone predict higher levels of sexual activity. And the correlation is there. And when you look closely, we've got cause and effect stuff. Sexual behavior raises testosterone levels. Aggression raises testosterone levels. Your levels beforehand are barely predictive of what's gonna happen. So it's a response rather than a cause. Just a great footnote. If you have the right type of willing to die in the trenches devotion sort of thing, watching your favorite team play a sport will raise your testosterone levels as you sit there with the potato chips in your armchair. So it's not the physicality of aggression, it's the psychological framing of it.",
+      "source_time_s": 282,
+      "compressed_time_s": 185
+    },
+    {
+      "speaker": "andrew",
+      "name": "Andrew Huberman",
+      "text": "Is there any truism about testosterone and its relationship to effort or its relationship to resilience?",
+      "source_time_s": 639,
+      "compressed_time_s": 240
+    },
+    {
+      "speaker": "robert",
+      "name": "Robert Sapolsky",
+      "text": "I think it's a fair summary to think that when it comes to motivated strong behaviors, what testosterone does is make you more of whatever you already are in that domain. Sexual arousal, libido, aggressiveness, spontaneous aggression, reactive aggression. It's upping the volume of things that are already strongly there. Here's my favorite finding about testosterone. This was some wonderful work by a guy, John Wingfield, who formulated what was called the challenge hypothesis of testosterone action. Testosterone is what you secrete when your status is being challenged. And it makes it more likely that you'll do the behaviors needed to hold onto your status.",
+      "source_time_s": 659,
+      "compressed_time_s": 247
+    },
+    {
+      "speaker": "robert",
+      "name": "Robert Sapolsky",
+      "text": "Humans have lots of different ways of achieving or maintaining status. If you have a species that hands out status in a very different sort of way, testosterone is going to boost that also. Take people in a circumstance, say playing an economic game, where you get status by being trustworthy and being generous in your interactions with the game. If you give people testosterone, does that make them more generous? And that's absolutely the case. If we have a societal problem with too much aggression, the first culprit to look at is not testosterone.",
+      "source_time_s": 748,
+      "compressed_time_s": 294
+    }
+  ]
+}

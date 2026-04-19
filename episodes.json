@@ -585,7 +585,15 @@
     "duration_min": 44,
     "category": "health",
     "description": "In this Huberman Lab Essentials episode, I explore intermittent fasting and time-restricted eating, highlighting the positive benefits for weight loss, metabolism, organ health, circadian rhythms and cellular repair.\n\nI explain a practical framework for designing a time-restricted eating window that aligns with your lifestyle, exercise schedule and social schedule. I also cover what breaks a fast,",
-    "source_show_url": "https://feeds.megaphone.fm/hubermanlab"
+    "source_show_url": "https://feeds.megaphone.fm/hubermanlab",
+    "compressed": {
+      "compressed_duration_s": 300,
+      "source_duration_s": 2666,
+      "speakers": [
+        "Andrew Huberman"
+      ],
+      "mp3_size_mb": 4.8
+    }
   },
   {
     "id": "ep_029",
@@ -597,7 +605,16 @@
     "duration_min": 37,
     "category": "health",
     "description": "In this Huberman Lab Essentials episode my guest is Dr. Robert Sapolsky, PhD, a professor of biology, neurology and neurological sciences at Stanford University. \u00a0\n\nWe discuss different types of stress and how our perception of stress as harmful or beneficial largely depends on context. He also explains how testosterone amplifies pre-existing behaviors and tendencies, and he highlights the crucial",
-    "source_show_url": "https://feeds.megaphone.fm/hubermanlab"
+    "source_show_url": "https://feeds.megaphone.fm/hubermanlab",
+    "compressed": {
+      "compressed_duration_s": 295,
+      "source_duration_s": 2225,
+      "speakers": [
+        "Andrew Huberman",
+        "Robert Sapolsky"
+      ],
+      "mp3_size_mb": 4.73
+    }
   },
   {
     "id": "ep_030",
@@ -609,7 +626,15 @@
     "duration_min": 57,
     "category": "health",
     "description": "Welcome to a special edition of the 18th Ask Me Anything (AMA) episode, part of Huberman Lab Premium. This episode is a recording of the live stream AMA, exclusive to our Premium members. We've decided to make the full-length version available to everyone, including non-members of Huberman Lab Premium.\nHuberman Lab Premium was launched for two main reasons. First, it was launched in order to raise",
-    "source_show_url": "https://feeds.megaphone.fm/hubermanlab"
+    "source_show_url": "https://feeds.megaphone.fm/hubermanlab",
+    "compressed": {
+      "compressed_duration_s": 305,
+      "source_duration_s": 3403,
+      "speakers": [
+        "Andrew Huberman"
+      ],
+      "mp3_size_mb": 4.89
+    }
   },
   {
     "id": "ep_031",
@@ -621,7 +646,15 @@
     "duration_min": 35,
     "category": "health",
     "description": "In this Huberman Lab Essentials episode, I discuss how to optimize your workspace to maximize productivity, focus and creativity.\n\nI explain how key environmental factors such as lighting, the physical layout of your work area and desk setup can influence attention and performance. I also discuss how specific types of sounds can enhance focus and how to adjust your work environment for particular",
-    "source_show_url": "https://feeds.megaphone.fm/hubermanlab"
+    "source_show_url": "https://feeds.megaphone.fm/hubermanlab",
+    "compressed": {
+      "compressed_duration_s": 273,
+      "source_duration_s": 2104,
+      "speakers": [
+        "Andrew Huberman"
+      ],
+      "mp3_size_mb": 4.37
+    }
   },
   {
     "id": "ep_032",
