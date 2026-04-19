@@ -1,0 +1,63 @@
+{
+  "id": "ep_003",
+  "source_url": "https://api.substack.com/feed/podcast/145136502/b6609c35f40275bdb3dcaa8ac8dc1053.mp3",
+  "source_title": "Leopold Aschenbrenner \u2014 2027 AGI, China/US super-intelligence race, & the return of history",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 339,
+  "speakers": [
+    "Dwarkesh Patel",
+    "Leopold Aschenbrenner"
+  ],
+  "audio_url": "/audio/ep_003.mp3",
+  "paragraphs": [
+    {
+      "speaker": "host",
+      "name": "Dwarkesh Patel",
+      "text": "Leopold grew up in Germany, graduated Valedictorian of Columbia when he was 19, was on the OpenAI super alignment team, and now is launching an investment firm with anchor investments from Patrick and John Collison, Daniel Gross, and Nat Friedman. Tell me about the trillion dollar cluster.",
+      "source_time_s": 0,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "leopold",
+      "name": "Leopold Aschenbrenner",
+      "text": "AI is this industrial process. The next model doesn't just require code\u2014it's building a giant new cluster, giant new power plants, soon giant new fabs. There's this extraordinary techno-capital acceleration. NVIDIA data center revenue has gone from a few billion a quarter to 20, 25 billion a quarter now. Big tech capex is skyrocketing. It's a continuation of straight lines on a graph\u2014training compute of the largest AI systems growing by about half an order of magnitude a year. GPT-4 finished pre-training in 2022, rumored to be about 25,000 A-100s, roughly a 500 million dollar cluster, very roughly 10 megawatts. Play that forward. 2024: a cluster that's 100 megawatts, costs in the billions. 2026: a gigawatt cluster\u2014the power of the Hoover Dam, tens of billions of dollars. 2028: 10 gigawatts, more power than most U.S. states, costs hundreds of billions. 2030: a trillion dollar cluster, 100 gigawatts, over 20 percent of U.S. electricity production.",
+      "source_time_s": 61,
+      "compressed_time_s": 20
+    },
+    {
+      "speaker": "host",
+      "name": "Dwarkesh Patel",
+      "text": "When I had Zuck on the podcast, he was claiming AI progress would be bottlenecked by energy. Who's going to build a 10 gigawatt data center? How is a 100 gigawatt center possible?",
+      "source_time_s": 231,
+      "compressed_time_s": 89
+    },
+    {
+      "speaker": "leopold",
+      "name": "Leopold Aschenbrenner",
+      "text": "Six months ago, 10 gigawatts was the talk of the town. Now people have moved on\u201410 gigawatts is happening. The Information reported on OpenAI and Microsoft planning a hundred billion dollar cluster. AMD forecasted a 400 billion dollar AI accelerator market by 27. We're very much on track for a trillion dollars of total investment by 2027. The trillion dollar cluster will take more acceleration. Every generation, the models are going to be crazy and shift the Overton window. If we estimated the GPT-4 cluster at around 500 million, you got to build the whole cluster, not rent it. Once you're getting into hundreds of billions, eventually you got to get to 100 billion a year in revenue. That's when it gets really interesting for big tech companies. Their revenues are in order hundreds of billions.",
+      "source_time_s": 248,
+      "compressed_time_s": 104
+    },
+    {
+      "speaker": "leopold",
+      "name": "Leopold Aschenbrenner",
+      "text": "I think 25, 26, we're going to get models basically smarter than most college graduates. The practical economic usefulness really depends on unhobbling. The models are smart, but they're limited. There's this chatbot. Things like being able to use a computer, being able to do agentic long horizon tasks. By 27, 28, if you extrapolate the trends, I think we hit basically as smart as the smartest experts. The unhobbling trajectory points to looks much more like an agent than a chatbot\u2014almost like a drop-in remote worker. You're interacting with them like a co-worker. You can do Zoom calls with them, Slack them, ask them to do a project. They go off for a week, write a first draft, run tests on their code, come back. That'll be much easier to integrate. You might need overkill to make the transition easy and really harvest the gains.",
+      "source_time_s": 315,
+      "compressed_time_s": 164
+    },
+    {
+      "speaker": "leopold",
+      "name": "Leopold Aschenbrenner",
+      "text": "A really key question for AI progress in the next few years is how hard is it to unlock the test time compute overhang? Right now GPT-4 can do a few hundred tokens of chain of thought. If GPT-4 could think for millions of tokens, that's plus four OOMs on test time compute. It can't do it right now\u2014it gets stuck. But there's this big overhang. In AlphaGo, you can trade off train time and test time compute. If you can use four OOMs more test time compute, that's almost like a three and a half OOM bigger model. The question is how hard is it to unlock that? The short timelines AI world is if it's not that hard. You need to learn the error correction tokens, the planning tokens. There's two paths to agents. Sholto talked about scaling leading to more nines of reliability. The other path is this unhobbling path where it learns this system two process.",
+      "source_time_s": 532,
+      "compressed_time_s": 229
+    },
+    {
+      "speaker": "leopold",
+      "name": "Leopold Aschenbrenner",
+      "text": "Pre-training is magical. It gave us this huge advantage for models of general intelligence. What it does is lets this model learn incredibly rich representations. You train these models and you have this raw bundle of capabilities. The unhobbling we've done from GPT-2 to GPT-4 was you took this raw mass and RLHFed it into a really good chatbot. That was a huge win. In the original InstructGPT paper, RLHF versus non-RLHF model is like 100x model size win on human preference rating. You still have this advantage of all these raw capabilities.",
+      "source_time_s": 871,
+      "compressed_time_s": 300
+    }
+  ]
+}

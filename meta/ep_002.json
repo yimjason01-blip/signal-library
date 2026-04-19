@@ -1,0 +1,70 @@
+{
+  "id": "ep_002",
+  "source_url": "https://api.substack.com/feed/podcast/162392947/a5f867e1c642abdc7992727112751d56.mp3",
+  "source_title": "Mark Zuckerberg \u2014 AI will write most Meta code in 18 months",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 274,
+  "speakers": [
+    "Dwarkesh Patel",
+    "Mark Zuckerberg"
+  ],
+  "audio_url": "/audio/ep_002.mp3",
+  "paragraphs": [
+    {
+      "speaker": "mark",
+      "name": "Mark Zuckerberg",
+      "text": "Meta AI has almost a billion people using it now monthly. Once you start getting the personalization loop going, which we're just starting to build in now, from both the context that all the algorithms have about what you're interested in feed and all your profile information, all the social graph information, but also just what you're interacting with the AI about\u2014I think that's just gonna be kind of the next thing that's gonna be super exciting.",
+      "source_time_s": 20,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "mark",
+      "name": "Mark Zuckerberg",
+      "text": "We announced four Llama 4 models and released the first two, the Scout and Maverick ones. The most popular Llama 3 model was the eight billion parameter model. Our internal codename for the Llama 4 version is Little Llama. Scout and Maverick are some of the highest intelligence per cost that you can get of any model that's out there, natively multimodal, very efficient, run on one host. I'm also excited about the Behemoth model\u2014it's more than two trillion parameters. It's so big that we've had to build a bunch of infrastructure just to be able to post-train it ourselves.",
+      "source_time_s": 100,
+      "compressed_time_s": 34
+    },
+    {
+      "speaker": "mark",
+      "name": "Mark Zuckerberg",
+      "text": "The reasoning phenomenon is interesting. If you want a model that is the best at math problems or coding, these reasoning models with a lot of the ability to just consume more test time or inference time compute in order to provide more intelligence is a really compelling paradigm. We're building a LLAMA 4 reasoning model. But for a lot of the things that we care about, latency and good intelligence per cost are actually much more important product attributes. If you're primarily designing for consumer product, people don't necessarily want it to wait half a minute to go think through the answer. If you can provide an answer that's generally quite good too in half a second, then that's great.",
+      "source_time_s": 285,
+      "compressed_time_s": 78
+    },
+    {
+      "speaker": "mark",
+      "name": "Mark Zuckerberg",
+      "text": "We've generally tried to anchor more of our models in our meta AI product Northstar use cases. The issue with both kind of open source benchmarks and any given thing like the LM arena stuff is they're often skewed for either a very specific set of use cases, which are often not actually what any normal person does in your product. Trying to optimize too much for that stuff has often led us astray and actually not led towards the highest quality products. On the arena, it was relatively easy for our team to tune a version of Llama 4 Maverick that basically was way at the top. Whereas the one that we released, that's the kind of the pure model actually has no tuning for that at all.",
+      "source_time_s": 390,
+      "compressed_time_s": 132
+    },
+    {
+      "speaker": "dwarkesh",
+      "name": "Dwarkesh Patel",
+      "text": "A lot of the leading labs think that once you fully automate software engineering and AI research, then you can kick off an intelligence explosion where you have millions of copies of these software engineers, replicating the research that happened between LLAMA1 and LLAMA4, that scale of improvement, again, in a matter of weeks or months rather than years.",
+      "source_time_s": 695,
+      "compressed_time_s": 189
+    },
+    {
+      "speaker": "mark",
+      "name": "Mark Zuckerberg",
+      "text": "I personally think that's pretty compelling. We have a big coding effort too. We're working on a number of coding agents inside Meta, because we're not really an enterprise software company, we're primarily building it for ourselves. We're trying to build a coding agent and an AI research agent that basically advances LLAMA research specifically. I would guess that like sometime in the next 12 to 18 months we'll reach the point where like most of the code that's going towards these efforts is written by AI. I don't mean like auto-complete. I'm talking more like you give it a goal, it can run tests, it can kind of improve things, it can find issues, it writes higher quality code than like the average very good person on the team already.",
+      "source_time_s": 723,
+      "compressed_time_s": 216
+    },
+    {
+      "speaker": "mark",
+      "name": "Mark Zuckerberg",
+      "text": "Part of what I generally disagree with on the fast takeoff thing is it takes time to build out physical infrastructure. If you wanna build like a gigawatt cluster of compute, that just is gonna take some time. Then you need to figure out the networking around it and then you need to like build the building and you need to get permitting and you need to get the energy. There's a whole supply chain of that stuff. As you start getting more intelligence in one part of the stack, you'll basically just run into a different set of bottlenecks.",
+      "source_time_s": 915,
+      "compressed_time_s": 274
+    },
+    {
+      "speaker": "mark",
+      "name": "Mark Zuckerberg",
+      "text": "There is this co-evolution that happens where people are learning how to best use these AI assistants on the same side, the AI assistants are learning what those people care about. You're also building up this base of context. Now you wake up and you're like a year or two into it.",
+      "source_time_s": 1017,
+      "compressed_time_s": 318
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "ep_004",
+  "source_url": "https://api.substack.com/feed/podcast/164189186/f8b9e3b318b615e15a807aae787fce46.mp3",
+  "source_title": "Is RL + LLMs enough for AGI? \u2014 Sholto Douglas & Trenton Bricken",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 303,
+  "speakers": [
+    "Dwarkesh Patel",
+    "Sholto Douglas",
+    "Trenton Bricken"
+  ],
+  "audio_url": "/audio/ep_004.mp3",
+  "paragraphs": [
+    {
+      "speaker": "sholto",
+      "name": "Sholto Douglas",
+      "text": "The biggest thing that's changed is RL and language models has finally worked. We finally have proof of an algorithm that can give us expert human reliability and performance, given the right feedback loop. This is conclusively demonstrated in competitive programming and math. We have proof that we can reach the peaks of intellectual complexity along many dimensions. We haven't yet demonstrated long-running agentic performance. You should see much more conclusive evidence of that by the end of the year, with real software engineering agents doing real work.",
+      "source_time_s": 37,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "trenton",
+      "name": "Trenton Bricken",
+      "text": "The most public example people could go to today is Cloud Plays Pokemon. Seeing it struggle is kind of painful to watch, but each model generation gets further through the game. It seems more like a limitation of it being able to use a memory system than anything else.",
+      "source_time_s": 91,
+      "compressed_time_s": 39
+    },
+    {
+      "speaker": "sholto",
+      "name": "Sholto Douglas",
+      "text": "I really do think by this time next year, we have software engineering agents that can do close to a day's worth of work for a junior engineer or a couple of hours of quite competent independent work. The distribution is pretty wonky\u2014for some tasks, like boilerplate website code, it can bang it out and save you a whole day.",
+      "source_time_s": 140,
+      "compressed_time_s": 60
+    },
+    {
+      "speaker": "sholto",
+      "name": "Sholto Douglas",
+      "text": "What's holding them back now is closer to lack of context, lack of ability to do complex, very multi-file changes, or scope of the task. They can cope with high intellectual complexity in a focused context with a really scoped problem. But when something's a bit more amorphous or requires a lot of discovery and iteration with the environment, they struggle more. If you can give it a good feedback loop for the thing that you want it to do, then it's pretty good. If you can't, then they struggle a bit.",
+      "source_time_s": 189,
+      "compressed_time_s": 87
+    },
+    {
+      "speaker": "sholto",
+      "name": "Sholto Douglas",
+      "text": "The big thing that really worked over the last year is RL from verifiable rewards\u2014a clean reward signal. So things like the correct answer to a math problem or unit tests passing. These are examples of a reward signal that's very clean, though even these can be hacked. The models find ways around it to hack in particular values of unit tests if they can figure out what the actual test is doing.",
+      "source_time_s": 246,
+      "compressed_time_s": 128
+    },
+    {
+      "speaker": "sholto",
+      "name": "Sholto Douglas",
+      "text": "Software engineering is very verifiable. Does the code pass a test? Does it even run? Does it compile? But there isn't the same kind of thing for writing a great essay. I actually think a Nobel Prize is more likely than a Pulitzer Prize winning novel. Because a lot of the tasks required in winning a Nobel Prize have more layers of verifiability built up. I expect models to accelerate the process of doing Nobel Prize winning work more initially than writing Pulitzer Prize worthy novels.",
+      "source_time_s": 319,
+      "compressed_time_s": 160
+    },
+    {
+      "speaker": "trenton",
+      "name": "Trenton Bricken",
+      "text": "My friend Sam Rodriguez at Future House has discovered a new drug that they're in the process of patenting. My impression is that it was able to read a huge amount of medical literature, brainstorm, make new connections, and then propose wet lab experiments that the humans did. Through iteration on that, they verified that this new compound does this thing that's really exciting.",
+      "source_time_s": 431,
+      "compressed_time_s": 199
+    },
+    {
+      "speaker": "sholto",
+      "name": "Sholto Douglas",
+      "text": "On whether we're actually eliciting new capabilities with RL training or just putting blinders on\u2014I think the amount of compute that you use in training is a decent proxy for the amount of actual raw new knowledge or capabilities you're adding to a model. All of DeepMind's research shows RL was able to teach go and chess playing agents new knowledge in excess of human level performance, just from RL signal, provided the RL signal is sufficiently clean. There's nothing structurally limiting about the algorithm that prevents it from imbuing the neural net with new knowledge.",
+      "source_time_s": 593,
+      "compressed_time_s": 227
+    },
+    {
+      "speaker": "sholto",
+      "name": "Sholto Douglas",
+      "text": "OpenAI put in their blog post that it was a 10x compute multiplier from O1 to O3. They spent the next few months increasing the amount of compute that they expend on that. I expect everyone else is scaling up RL right now. I don't expect the current imbalance\u2014spending hundreds of millions on the base model but only order a million on RL\u2014to be true for long.",
+      "source_time_s": 719,
+      "compressed_time_s": 270
+    },
+    {
+      "speaker": "trenton",
+      "name": "Trenton Bricken",
+      "text": "Language models have this wonderful prior over the tasks that we care about. If you look at old papers from 2017, the learning curves always look like flat, flat, flat as they're figuring out basic mechanics of the world. Then there's this spike up as they learn to exploit easy rewards. But the LLM curves look different\u2014there isn't that dead zone at the beginning because they already know how to solve some of the basic tasks.",
+      "source_time_s": 842,
+      "compressed_time_s": 300
+    },
+    {
+      "speaker": "trenton",
+      "name": "Trenton Bricken",
+      "text": "We created this interpretability agent, which is a version of Claude that has the same interpretability tools we often use.",
+      "source_time_s": 1922,
+      "compressed_time_s": 333
+    }
+  ]
+}

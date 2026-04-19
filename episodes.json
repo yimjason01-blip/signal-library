@@ -51,7 +51,16 @@
     "duration_min": 75,
     "category": "ai",
     "description": "<p>Zuck on:</p><p>* Llama 4, benchmark gaming</p><p>* Intelligence explosion, business models for AGI</p><p>* DeepSeek/China, export controls, & Trump</p><p>* Orion glasses, AI relationships, and preventing reward-hacking from our tech.</p><p>Watch on <a target=\"_blank\" href=\"https://youtu.be/rYXeQbTuVl0\">Youtube</a>; listen on <a target=\"_blank\" href=\"https://podcasts.apple.com/us/podcast/dwarkes",
-    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss"
+    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
+    "compressed": {
+      "compressed_duration_s": 274,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Dwarkesh Patel",
+        "Mark Zuckerberg"
+      ],
+      "mp3_size_mb": 4.4
+    }
   },
   {
     "id": "ep_003",
@@ -63,7 +72,16 @@
     "duration_min": 271,
     "category": "ai",
     "description": "<p>Chatted with my friend <a target=\"_blank\" href=\"https://www.forourposterity.com/\">Leopold Aschenbrenner</a> on the trillion dollar nationalized cluster, CCP espionage at AI labs, how unhobblings and scaling can lead to 2027 AGI, dangers of outsourcing clusters to Middle East, leaving OpenAI, and situational awareness.</p><p>Watch on\u00a0<a target=\"_blank\" href=\"https://youtu.be/zdbVtZIn9IM\">YouTube",
-    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss"
+    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
+    "compressed": {
+      "compressed_duration_s": 339,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Dwarkesh Patel",
+        "Leopold Aschenbrenner"
+      ],
+      "mp3_size_mb": 5.44
+    }
   },
   {
     "id": "ep_004",
@@ -75,7 +93,17 @@
     "duration_min": 144,
     "category": "ai",
     "description": "<p>New episode with my good friends <a target=\"_blank\" href=\"https://x.com/_sholtodouglas?lang=en\">Sholto Douglas</a> & <a target=\"_blank\" href=\"https://x.com/trentonbricken?lang=en\">Trenton Bricken</a>. Sholto focuses on scaling RL and Trenton researches mechanistic interpretability, both at Anthropic.</p><p>We talk through what\u2019s changed in the last year of AI research; the new RL regime and how",
-    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss"
+    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
+    "compressed": {
+      "compressed_duration_s": 303,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Dwarkesh Patel",
+        "Sholto Douglas",
+        "Trenton Bricken"
+      ],
+      "mp3_size_mb": 4.85
+    }
   },
   {
     "id": "ep_005",
