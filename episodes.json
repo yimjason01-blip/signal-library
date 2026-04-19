@@ -666,7 +666,16 @@
     "duration_min": 151,
     "category": "health",
     "description": "In this episode, my guest is Dr. Peter Attia, M.D., a Stanford and Johns Hopkins School of Medicine-trained physician expert in improving human healthspan and lifespan. Dr. Attia is also the host of The Drive podcast and author of the best-selling book Outlive.\u00a0\nWe discuss the NAD pathway in human cells and its possible links to aging and health. We evaluate how supplementation can augment molecul",
-    "source_show_url": "https://feeds.megaphone.fm/hubermanlab"
+    "source_show_url": "https://feeds.megaphone.fm/hubermanlab",
+    "compressed": {
+      "compressed_duration_s": 341,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Andrew Huberman",
+        "Peter Attia"
+      ],
+      "mp3_size_mb": 5.47
+    }
   },
   {
     "id": "ep_033",
@@ -678,7 +687,16 @@
     "duration_min": 152,
     "category": "health",
     "description": "Dr. Lauren Colenso-Semple, PhD, is an expert in the science of strength and muscle building and nutrition. She explains the most effective resistance and cardiovascular training programs for women and if and how those programs should differ from those followed by men. She explains program design options, exercise selection, sets, repetition ranges, rest periods, if you need to train to failure and",
-    "source_show_url": "https://feeds.megaphone.fm/hubermanlab"
+    "source_show_url": "https://feeds.megaphone.fm/hubermanlab",
+    "compressed": {
+      "compressed_duration_s": 313,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Dr. Lauren Colenso-Semple",
+        "Andrew Huberman"
+      ],
+      "mp3_size_mb": 5.02
+    }
   },
   {
     "id": "ep_034",
@@ -690,7 +708,16 @@
     "duration_min": 39,
     "category": "health",
     "description": "In this Huberman Lab Essentials episode, my guest is Dr. Andy Galpin, PhD, Executive Director of the Human Performance Center at Parker University and an expert in building strength and muscle size (hypertrophy). We cover the core principles and protocols for building strength and muscle, including science-based guidance on reps, sets, frequency and rest intervals. We also discuss how breathing an",
-    "source_show_url": "https://feeds.megaphone.fm/hubermanlab"
+    "source_show_url": "https://feeds.megaphone.fm/hubermanlab",
+    "compressed": {
+      "compressed_duration_s": 307,
+      "source_duration_s": 2374,
+      "speakers": [
+        "Andrew Huberman",
+        "Andy Galpin"
+      ],
+      "mp3_size_mb": 4.93
+    }
   },
   {
     "id": "ep_035",

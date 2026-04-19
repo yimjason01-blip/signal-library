@@ -1,0 +1,70 @@
+{
+  "id": "ep_032",
+  "source_url": "https://traffic.megaphone.fm/SCIM7110594668.mp3?updated=1722231082",
+  "source_title": "Supplements for Longevity & Their Efficacy | Dr. Peter Attia",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 341,
+  "speakers": [
+    "Andrew Huberman",
+    "Peter Attia"
+  ],
+  "audio_url": "/audio/ep_032.mp3",
+  "paragraphs": [
+    {
+      "speaker": "andrew",
+      "name": "Andrew Huberman",
+      "text": "I'm Andrew Huberman, professor of neurobiology and ophthalmology at Stanford. Today's guest is Dr. Peter Attia, a medical doctor trained at Stanford and Johns Hopkins who's one of the world's most trusted voices on healthspan and lifespan. We're diving into the NAD pathway\u2014a pathway that's received tons of attention as a potential target for living longer. We'll discuss the various molecules in this pathway and approaches to increasing NAD, comparing NR versus NMN versus direct infusions or oral NAD. We'll compare what's known and what's not known about their ability to get into cells and any efficacy they may have for longevity or healthspan.",
+      "source_time_s": 0,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "andrew",
+      "name": "Andrew Huberman",
+      "text": "I figure there are at least four categories of approaches for people who want to live as long as possible. First, the do's and don'ts\u2014move appropriately, get zone two cardio, do resistance training, keep nerve to muscle connections strong, eat right, know your genetics. Second, things that funnel into mTOR\u2014calories, glucose, insulin. mTOR is robustly expressed during development and then tapers off. A lot of anti-aging approaches relate to caloric restriction or taking drugs like rapamycin to limit mTOR, causing cells to grow less and mature slower. Third, targeting specific cellular pathways like the NAD pathway that some people have deemed potentially interesting for longevity. Fourth, the do-everything category\u2014people like Brian Johnson who take very high doses of polyphenols, limit calories to early in the day, do red light, PRP, essentially the kitchen sink approach.",
+      "source_time_s": 54,
+      "compressed_time_s": 46
+    },
+    {
+      "speaker": "peter",
+      "name": "Peter Attia",
+      "text": "I'd frame it slightly differently. Category one: the essential behavioral things you have no choice but to engage in\u2014you have to eat, sleep, move. You can choose to do those things correctly or not. Category two: what are the molecules you'd exogenously take to try to impact any of those systems? And I'd say what are the molecules I could take that specifically target disease processes? For you and I to live longer, we basically have to delay the onset of cardiovascular disease, cerebrovascular disease, cancer, neurodegenerative disease, and metabolic diseases. The longer we delay the onset, the longer we'll live, full stop. You can take metformin, SGLT2 inhibitors, GLP-1 agonists\u2014you'll directly impact those diseases. Then there's a third category: are there exogenous molecules that don't target a disease per se but are geroprotective\u2014they target hallmarks and pathways of aging? Rapamycin targets a very specific hallmark of aging.",
+      "source_time_s": 154,
+      "compressed_time_s": 106
+    },
+    {
+      "speaker": "andrew",
+      "name": "Andrew Huberman",
+      "text": "Aside from food, what exogenous molecules do you take?",
+      "source_time_s": 329,
+      "compressed_time_s": 172
+    },
+    {
+      "speaker": "peter",
+      "name": "Peter Attia",
+      "text": "I take some that are disease-specific\u2014I take a PCSK9 inhibitor, bempedoic acid, an SGLT2 inhibitor. Then I take at least one purely based on belief of its capacity in geroprotection, which is rapamycin. I take eight milligrams once a week for as long as I can tolerate it, but I usually have to take breaks because I get these vicious aphthous ulcers, little mouth sores. About 10% of people get them. It's paradoxically the only biomarker we probably have. I secretly rejoice in knowing that at least I'm getting a good batch of rapamycin by virtue of these miserable side effects. In reality, I'm probably on it for two months and then off it for a month.",
+      "source_time_s": 337,
+      "compressed_time_s": 176
+    },
+    {
+      "speaker": "peter",
+      "name": "Peter Attia",
+      "text": "My conviction around taking rapamycin is less about looking at the molecular explanation for why it works and more based on the experimental data. When you look at the administration of rapamycin or its analogs like Everolimus to organisms as close as possible to us\u2014mice, small primates, fruit flies, worms, even yeast\u2014you see something you don't see for a single other molecule: uniform life extension. No other molecule has done this. There are only two interventions, full stop, that have ever extended life across those four categories of eukaryotes: caloric restriction and rapamycin.",
+      "source_time_s": 379,
+      "compressed_time_s": 228
+    },
+    {
+      "speaker": "andrew",
+      "name": "Andrew Huberman",
+      "text": "Let's talk about NAD. It's in essentially every cell of the body except red blood cells, correct? And it's generally thought to be associated with energy production and mitochondrial pathways.",
+      "source_time_s": 502,
+      "compressed_time_s": 269
+    },
+    {
+      "speaker": "peter",
+      "name": "Peter Attia",
+      "text": "NAD is one of the most ubiquitous molecules in the body. Most of what it does\u2014somewhere between five and 600 pathways\u2014utilize NAD as a cofactor, meaning it's not consumed in a chemical reaction but rather serves as an electron shuttle. NAD and NADH basically play catch with electrons, and that's 99% of what NAD is doing. For that reason, NAD is so tightly regulated in the body, just as glucose is really tightly regulated, pH is really tightly regulated. There's another place where NAD shows up as a substrate\u2014it's used by these things called sirtuins that consume NAD as an actual substrate in the process of DNA repair. This is really where the story picks up.",
+      "source_time_s": 502,
+      "compressed_time_s": 282
+    }
+  ]
+}

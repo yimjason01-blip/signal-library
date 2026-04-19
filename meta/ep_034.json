@@ -1,0 +1,77 @@
+{
+  "id": "ep_034",
+  "source_url": "https://traffic.megaphone.fm/SCIM9369885937.mp3?updated=1775106274",
+  "source_title": "Essentials: How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin",
+  "source_duration_s": 2374,
+  "compressed_duration_s": 307,
+  "speakers": [
+    "Andrew Huberman",
+    "Andy Galpin"
+  ],
+  "audio_url": "/audio/ep_034.mp3",
+  "paragraphs": [
+    {
+      "speaker": "andrew",
+      "name": "Andrew Huberman",
+      "text": "Welcome to Huberman Lab Essentials. I'm Andrew Huberman, professor of neurobiology and ophthalmology at Stanford School of Medicine. There are only about three or four people I trust enough in the exercise physiology space that when they speak, I not only listen, but I modify my protocols. Dr. Andy Galpin is among those people.",
+      "source_time_s": 0,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "andy",
+      "name": "Andy Galpin",
+      "text": "There's about nine different adaptations you can get from exercise. First is skill\u2014improving anything from a golf swing to running technique. Then speed, moving as fast as possible. Power is strength multiplied by speed. After strength comes hypertrophy, which is muscle size. Past that are endurance categories: muscular endurance, like how many pushups you can do in one minute. Then anaerobic power\u201430 seconds to two minutes of work. Next is VO2 max capacity, three to 12 minutes at maximum heart rate. Finally, long duration endurance, 30 plus minutes of sustained work.",
+      "source_time_s": 56,
+      "compressed_time_s": 24
+    },
+    {
+      "speaker": "andy",
+      "name": "Andy Galpin",
+      "text": "For all these adaptations to work, you need progressive overload. Adaptation happens as a byproduct of stress. If you do the exact same workout over time, you won't improve. You can maintain, but you won't add stress. Progressive overload could come from adding more weight, more repetitions, training more often in the week, or adding complexity to the movement. You have to have some sort of movement forward.",
+      "source_time_s": 183,
+      "compressed_time_s": 64
+    },
+    {
+      "speaker": "andy",
+      "name": "Andy Galpin",
+      "text": "The modifiable variables are: choice of exercise, intensity\u2014which is a percentage of your one rep max or max heart rate\u2014volume, which is how many reps and sets you're doing, rest intervals between sets, progression, and frequency. Exercise selection itself doesn't determine the outcome. It's the application\u2014the sets, reps, and rest ranges\u2014that's your primary determinant.",
+      "source_time_s": 241,
+      "compressed_time_s": 94
+    },
+    {
+      "speaker": "andy",
+      "name": "Andy Galpin",
+      "text": "Soreness is a terrible proxy for exercise quality. It's a really bad way to estimate whether it was a good or bad workout. We do not use soreness as a metric of a good workout, even for professional athletes. If you're so sore you can't sit on the couch without crying, you've gone to a place of detriment. You'll have to skip training sessions and your total volume across the month will be lower. Hedge on the side of less sore than more sore because frequency is very important.",
+      "source_time_s": 391,
+      "compressed_time_s": 118
+    },
+    {
+      "speaker": "andy",
+      "name": "Andy Galpin",
+      "text": "For strength training, you need to activate high threshold motor neurons by demanding the muscle to produce more force. The load has to be very high\u2014probably above 85% of your one rep max, or 75% if you're moderately trained. True strength training is really five repetitions per set or less. Do three sets per exercise minimum. Rest two to four minutes between sets to maintain that intensity, which is the primary driver of strength. You can superset with other muscle groups to save time.",
+      "source_time_s": 604,
+      "compressed_time_s": 158
+    },
+    {
+      "speaker": "andy",
+      "name": "Andy Galpin",
+      "text": "For hypertrophy, anywhere between five reps and 30 reps per set shows equal hypertrophy gains across the literature. The only caveat is you have to take it to muscular failure. Volume is the total driver of hypertrophy. You're probably looking at around 10 working sets per muscle group per week as a minimum threshold. Well-trained folks probably want 15 to 20, even 20 to 25 sets. Train each muscle group every two to three days\u2014that 72-hour window is optimal for protein synthesis to occur.",
+      "source_time_s": 1341,
+      "compressed_time_s": 195
+    },
+    {
+      "speaker": "andy",
+      "name": "Andy Galpin",
+      "text": "Intentionality matters enormously. Studies on power development show that the intent to move is more important than actual movement velocity. If you're trying to move the bar as fast as possible versus just trying to get the weight up, you get different outcomes, even if the bar moves at the same speed. Similarly for hypertrophy, the mind-muscle connection\u2014watching your biceps and thinking about contracting harder\u2014results in more growth than not. Higher quality training sessions, being more intentional and present, beats just executing the workout.",
+      "source_time_s": 1794,
+      "compressed_time_s": 232
+    },
+    {
+      "speaker": "andy",
+      "name": "Andy Galpin",
+      "text": "For breathing during resistance training, maintain a breath hold during the lowering or most dangerous part of the movement, then exhale on the concentric portion. If you're doing a single rep, you can avoid breathing entirely. For multiple reps, breathe every third rep or develop a strategy. After workouts, do five minutes of down regulation breathing\u2014double exhale length relative to inhale. Four second inhale, eight second exhale. This completely changes recovery rate and prevents that energy crash three or four hours post-workout.",
+      "source_time_s": 2064,
+      "compressed_time_s": 270
+    }
+  ]
+}
