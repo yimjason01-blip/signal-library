@@ -1,0 +1,99 @@
+{
+  "id": "ep_006",
+  "source_url": "https://api.substack.com/feed/podcast/178688356/17d73f3abbe37253ebebe0113754e6d5.mp3",
+  "source_title": "Satya Nadella \u2014 How Microsoft is preparing for AGI",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 319,
+  "speakers": [
+    "Dwarkesh Patel",
+    "Dylan Patel",
+    "Satya Nadella"
+  ],
+  "audio_url": "/audio/ep_006.mp3",
+  "paragraphs": [
+    {
+      "speaker": "dwarkesh",
+      "name": "Dwarkesh Patel",
+      "text": "Today, we are interviewing Satya Nadella. We being me and Dylan Patel, who is founder of SemiAnalysis. Satya, welcome.",
+      "source_time_s": 0,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "satya",
+      "name": "Satya Nadella",
+      "text": "Thank you. Thanks for coming over to Atlanta. Thank you for giving us a tour of the new facility. We try to 10x the training capacity every 18 to 24 months. This would be effectively a 10x increase from what GPT-5 was trained with. The number of optics, the network optics in this building, is almost as much as all of Azure across all our data centers two and a half years ago. Five million network connections.",
+      "source_time_s": 7,
+      "compressed_time_s": 8
+    },
+    {
+      "speaker": "dylan",
+      "name": "Dylan Patel",
+      "text": "Is this like a big bet on scaling in the future that you anticipate there's going to be some huge model that needs to require two whole different regions to train?",
+      "source_time_s": 52,
+      "compressed_time_s": 42
+    },
+    {
+      "speaker": "satya",
+      "name": "Satya Nadella",
+      "text": "The goal is to be able to aggregate these flops for a large training job and put these things together across sites. You'll use it for training, you'll use it for data gen, you'll use it for inference in all sort of ways. Fairwater-4 will also be on that one petabit network so we can link the two at a very high rate. Then we do the AI WAN connecting to Milwaukee where we have multiple other Fairwaters being built.",
+      "source_time_s": 60,
+      "compressed_time_s": 56
+    },
+    {
+      "speaker": "dylan",
+      "name": "Dylan Patel",
+      "text": "Many folks who have been on Dwarkesh's podcast believe this is sort of the final technological revolution. In three years, we've already skyrocketed to hyperscalers doing $500 billion of CapEx next year, which is unmatched to prior revolutions in terms of speed. How do you frame this? Your framing seems quite different than the AI bro who is quite, AGI is coming.",
+      "source_time_s": 183,
+      "compressed_time_s": 92
+    },
+    {
+      "speaker": "satya",
+      "name": "Satya Nadella",
+      "text": "I start with the excitement that I feel\u2014maybe after the industrial revolution, this is the biggest thing. But I'm grounded in the fact that this is still early innings. These scaling laws seem to be working. I'm optimistic they'll continue to work. Raj Reddy has a metaphor for AI\u2014it should either be a guardian angel or a cognitive amplifier. Ultimately, what is its human utility? It is going to be a cognitive amplifier and a guardian angel. I view it as a tool.",
+      "source_time_s": 257,
+      "compressed_time_s": 119
+    },
+    {
+      "speaker": "dwarkesh",
+      "name": "Dwarkesh Patel",
+      "text": "At some point, a machine is producing Satya tokens, right? And the Microsoft board thinks that Satya tokens are worth a lot. Right now, if you have models that cost on the order of dollars or cents per million tokens, there's enormous room for expansion. A million tokens of Satya are worth a lot. Where does that margin go? What level of that margin is Microsoft involved in?",
+      "source_time_s": 363,
+      "compressed_time_s": 156
+    },
+    {
+      "speaker": "satya",
+      "name": "Satya Nadella",
+      "text": "This goes back to what's the economic growth picture going to look like. For true economic growth to appear, the work artifact and workflow has to change. The change management required for a corporation to truly change is something we shouldn't discount. Do humans and the tokens they produce get higher leverage? Would you be able to run SemiAnalysis or this podcast without technology? No chance. What took 70 years, maybe 150 years for the industrial revolution may happen in 20 years, 25 years.",
+      "source_time_s": 390,
+      "compressed_time_s": 186
+    },
+    {
+      "speaker": "dylan",
+      "name": "Dylan Patel",
+      "text": "The SaaS companies have underperformed massively in the markets because the cogs of AI is just so high. How do you as the greatest software as a service company transition Microsoft to this new age where cogs matters a lot?",
+      "source_time_s": 528,
+      "compressed_time_s": 224
+    },
+    {
+      "speaker": "satya",
+      "name": "Satya Nadella",
+      "text": "The business models, the levers are going to remain similar\u2014ad unit, transaction, device gross margin, subscriptions, consumption. During the transition from server to cloud, we asked: if we just moved users to the cloud with cogs, will this be unprofitable? What happened was that move to the cloud expanded the market like crazy. The GitHub Copilot coding assistant became that big in one year. The market expands massively.",
+      "source_time_s": 569,
+      "compressed_time_s": 241
+    },
+    {
+      "speaker": "dylan",
+      "name": "Dylan Patel",
+      "text": "Early this year, GitHub Copilot revenue was $500 million. Now you have Cloud Code, Cursor and Copilot with around a billion. Codex is catching up around 700, 800 million. What is the advantage that Microsoft's Copilot has? You've gone from near 100% to sub 25% market share in just one year.",
+      "source_time_s": 795,
+      "compressed_time_s": 272
+    },
+    {
+      "speaker": "satya",
+      "name": "Satya Nadella",
+      "text": "There's no birthright that we should have confidence other than to go innovate. The lucky break we have is this category is going to be a lot bigger than anything we had high share in. We may have lower share than client-server, but is it a much bigger business by orders of magnitude? At GitHub Universe, we announced Agent HQ\u2014the cable TV of all these AI agents. You can fire off Codex, Cloud, Cognition, anyone's agents, Grok. I get one package, literally issue a task, steer them. Between VS Code, GitHub, and Mission Control, I feel that's the opportunity.",
+      "source_time_s": 827,
+      "compressed_time_s": 294
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ep_008",
+  "source_url": "https://api.substack.com/feed/podcast/176425744/3127b612a1604474d2b28ab4e9b658f4.mp3",
+  "source_title": "Andrej Karpathy \u2014 AGI is still a decade away",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 267,
+  "speakers": [
+    "Dwarkesh Patel",
+    "Andrej Karpathy"
+  ],
+  "audio_url": "/audio/ep_008.mp3",
+  "paragraphs": [
+    {
+      "speaker": "host",
+      "name": "Dwarkesh Patel",
+      "text": "Andrej, why do you say that this will be the Decade of Agents and not the Year of Agents?",
+      "source_time_s": 2,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "I was reacting to labs saying this is the Year of Agents. I feel like there's some over-predictions going on. This is really more accurately described as the Decade of Agents. We have very early agents that are extremely impressive\u2014Claude and Codex\u2014that I use daily. But there's so much work to be done. We'll be working with these things for a decade. They're going to get better and it's going to be wonderful. But it will take about a decade to work through all the issues\u2014they don't have enough intelligence, they're not multimodal enough, they can't do computer use, they don't have continual learning. You can't just tell them something and they'll remember it. They're cognitively lacking and it's just not working.",
+      "source_time_s": 7,
+      "compressed_time_s": 8
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "I've been in AI for almost 15 years. I have experience of people making predictions and seeing how they turned out. I was in research, I worked in industry. I have this general intuition. The problems are tractable. They're surmountable. But they're still difficult. If I average it out, it feels like a decade to me.",
+      "source_time_s": 145,
+      "compressed_time_s": 62
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "When my career began, deep learning was a niche little subject on the side. AlexNet reoriented everyone and everyone started to train neural networks. Then came the Atari deep reinforcement learning shift in 2013\u2014an attempt to get agents that not just perceive the world, but also take actions and interact and get rewards from environments. I kind of feel like that was a misstep. At that time, the zeitgeist was reinforcement learning environments, games, game playing. OpenAI was doing a lot of that. Basically, that was a little bit of a misstep. I was always suspicious of games as being this thing that would lead to AGI. You want something like an accountant, something that's interacting with the real world.",
+      "source_time_s": 239,
+      "compressed_time_s": 87
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "My project at OpenAI was an agent using keyboard and mouse to operate web pages. I really wanted something that interacts with the actual digital world that can do knowledge work. But this was extremely early, way too early. You're just stumbling around, keyboard mashing and mouse clicking, trying to get rewards. Your reward is too sparse and you just won't learn. You're going to burn a forest of computing and never get something off the ground. What you're missing is the power of representation in the neural network. Today, people are training computer-using agents on top of a large language model. You have to get the language model first, get the representations first through pre-training.",
+      "source_time_s": 341,
+      "compressed_time_s": 140
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "I'm very careful to make analogies to animals because they came about by a very different optimization process. Animals are evolved and come with a huge amount of hardware that's built in. When a zebra gets born, a few minutes later it's running around and following its mother. That's not reinforcement learning. That's something baked in. Evolution has some way of encoding the weights of neural nets in ATCGs. Brains came from a very different process and I'm very hesitant to take inspiration because we're not actually running that process. We're not building animals. We're building ghosts or spirits\u2014fully digital entities mimicking humans. It's a different kind of intelligence.",
+      "source_time_s": 479,
+      "compressed_time_s": 192
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "Reinforcement learning is terrible. It just so happens that everything we had before it is much worse. Say you're solving a math problem. In reinforcement learning, you try hundreds of different attempts in parallel. Maybe you get an answer. You check the back of the book. This one, this one, and that one got the correct answer, but these other 97 didn't. Literally what reinforcement learning does is goes to the ones that worked really well, and every single token gets up-weighted\u2014do more of this. The problem is it's noisy. It assumes every single piece of the solution that arrived at the right answer was the correct thing to do, which is not true. You may have gone down wrong alleys. Every single incorrect thing, as long as you got to the correct solution, will be up-weighted. You're sucking supervision through a straw.",
+      "source_time_s": 554,
+      "compressed_time_s": 240
+    }
+  ]
+}

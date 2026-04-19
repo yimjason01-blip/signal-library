@@ -1,0 +1,84 @@
+{
+  "id": "ep_009",
+  "source_url": "https://api.substack.com/feed/podcast/154483840/6e088a229aae40b1d8cbb681d01758be.mp3",
+  "source_title": "Tyler Cowen \u2014 The #1 bottleneck to AI progress is humans",
+  "source_duration_s": 3584,
+  "compressed_duration_s": 302,
+  "speakers": [
+    "Dwarkesh Patel",
+    "Tyler Cowen"
+  ],
+  "audio_url": "/audio/ep_009.mp3",
+  "paragraphs": [
+    {
+      "speaker": "dwarkesh",
+      "name": "Dwarkesh Patel",
+      "text": "Why won't we have explosive economic growth, twenty percent plus, because of AI?",
+      "source_time_s": 0,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "tyler",
+      "name": "Tyler Cowen",
+      "text": "It's very hard to get explosive economic growth for any reason. Some parts of your economy grow very rapidly and then you get a cost disease in the other parts. Look at the US economy: government consumption is eighteen percent, healthcare is almost twenty percent, education is six to seven percent, the non-profit sector\u2014you add it all up, that's half of the economy right there. How well are they going to use AI? Failure to use AI won't cause them to just immediately disappear and be replaced. That will take thirty years. You'll have some sectors less regulated where it happens very quickly, but that only gets you a modest boost in growth rates, not anything like the whole economy grows forty percent a year.",
+      "source_time_s": 8,
+      "compressed_time_s": 5
+    },
+    {
+      "speaker": "tyler",
+      "name": "Tyler Cowen",
+      "text": "Cost disease is more general than just labor. Let's say you have a bunch of factors of production, maybe five of them. All of a sudden we get a lot more intelligence, which has already been happening. That just means the other constraints in your system become a lot more binding. The marginal importance of those goes up and the marginal value of more and more IQ or intelligence goes down. That is self-limiting on growth. Cost disease is just one particular instantiation of that more general problem.",
+      "source_time_s": 116,
+      "compressed_time_s": 61
+    },
+    {
+      "speaker": "tyler",
+      "name": "Tyler Cowen",
+      "text": "Look at market data\u2014real interest rates, stock prices\u2014everything looks startlingly normal right now, even apart from AI. Prediction markets are not forecasting super rapid growth anytime soon. If you look at experts on economic growth, Chad Jones was here yesterday. He's not predicting super rapid growth. He thinks AI might well accelerate rates of growth, but the experts and the markets agree. Who am I to say different from the experts?",
+      "source_time_s": 148,
+      "compressed_time_s": 100
+    },
+    {
+      "speaker": "dwarkesh",
+      "name": "Dwarkesh Patel",
+      "text": "Chad Jones said yesterday that the main variable in his model for growth is just population. If you have a doubling or order of magnitude increase in the population, you put that number in his model and you get explosive economic growth.",
+      "source_time_s": 182,
+      "compressed_time_s": 132
+    },
+    {
+      "speaker": "tyler",
+      "name": "Tyler Cowen",
+      "text": "I don't buy the models. His model is far too much a one-factor model. Population\u2014I don't think it's very predictive. We've had big increases in effective world population in terms of purchasing power. A lot of different areas have not become more innovative until the last four years. Most of them became less innovative. It's really about the quality of your best people and your institutions. There it's unclear what's happened, but it's also fragile. The more you stack different pluralistic perspectives, the harder it is to see that there's any simple lever you can push on intelligence that's going to give you breakaway economic growth.",
+      "source_time_s": 197,
+      "compressed_time_s": 150
+    },
+    {
+      "speaker": "tyler",
+      "name": "Tyler Cowen",
+      "text": "Most of sub-Saharan Africa still does not have reliable clean water. The intelligence required for that is not scarce. We cannot so readily do it. We are more in that position than we might like to think, but along other variables. Taking advantage of the intelligence from strong AI is one of those.",
+      "source_time_s": 261,
+      "compressed_time_s": 197
+    },
+    {
+      "speaker": "dwarkesh",
+      "name": "Dwarkesh Patel",
+      "text": "About a year ago your co-writer Alex Tabarrok wrote a post about the extreme scarcity of high-IQ workers. If one in a thousand of the 164 million US workers are geniuses, you have 164,000 geniuses. If you had a thousand times more of those kinds of people, are the bottlenecks gonna eat all that away?",
+      "source_time_s": 282,
+      "compressed_time_s": 221
+    },
+    {
+      "speaker": "tyler",
+      "name": "Tyler Cowen",
+      "text": "I didn't agree with that post. If you look at labor market data, the returns to IQ as it translates into wages are amazingly low. They're pretty insignificant. People who are very successful are very smart, but they're people who have eight or nine areas where on a scale of one to ten they're a nine, they have one area where they're an eleven and a half, and then on everything else they're an eight to a nine and have a lot of determination. IQ is one of those things but it's not actually that important. It's the bundle, and the bundles are scarce. Just try going to a mid-tier state university and sit down with the committee designed to develop a plan for using artificial intelligence in the curriculum. Then come back to me and tell me how that went.",
+      "source_time_s": 317,
+      "compressed_time_s": 245
+    },
+    {
+      "speaker": "tyler",
+      "name": "Tyler Cowen",
+      "text": "I think AI will boost the rate of economic growth by something like half a percentage point a year over thirty to forty years. That's an enormous difference. It will transform the entire world. But in any given year we won't so much notice it. A lot of it is something like a drug that might have taken twenty years now will come in ten years.",
+      "source_time_s": 406,
+      "compressed_time_s": 308
+    }
+  ]
+}

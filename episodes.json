@@ -137,7 +137,17 @@
     "duration_min": 88,
     "category": "ai",
     "description": "<p>As part of this interview, Satya Nadella gave Dylan Patel (founder of <a target=\"_blank\" href=\"https://semianalysis.com/\">SemiAnalysis</a>) and me an exclusive first-look at their brand-new Fairwater 2 datacenter.</p><p>Microsoft is building multiple Fairwaters, each of which has hundreds of thousands of GB200s & GB300s. Between all these interconnected buildings, they\u2019ll have over 2 GW of tota",
-    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss"
+    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
+    "compressed": {
+      "compressed_duration_s": 319,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Dwarkesh Patel",
+        "Dylan Patel",
+        "Satya Nadella"
+      ],
+      "mp3_size_mb": 5.11
+    }
   },
   {
     "id": "ep_007",
@@ -149,7 +159,16 @@
     "duration_min": 96,
     "category": "ai",
     "description": "<p>Ilya & I discuss SSI\u2019s strategy, the problems with pre-training, how to improve the generalization of AI models, and how to ensure AGI goes well.</p><p>Watch on <a target=\"_blank\" href=\"https://youtu.be/aR20FWCCjAs\">YouTube</a>; read the <a target=\"_blank\" href=\"https://www.dwarkesh.com/p/ilya-sutskever-2\">transcript</a>.</p><p>Sponsors</p><p>* <a target=\"_blank\" href=\"https://gemini.google\">Ge",
-    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss"
+    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
+    "compressed": {
+      "compressed_duration_s": 279,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Dwarkesh Patel",
+        "Ilya Sutskever"
+      ],
+      "mp3_size_mb": 4.47
+    }
   },
   {
     "id": "ep_008",
@@ -161,7 +180,16 @@
     "duration_min": 145,
     "category": "ai",
     "description": "<p>The <a target=\"_blank\" href=\"https://x.com/karpathy\">Andrej Karpathy</a> episode.</p><p>During this interview, Andrej explains why reinforcement learning is terrible (but everything else is much worse), why AGI will just blend into the previous ~2.5 centuries of 2% GDP growth, why self driving took so long to crack, and what he sees as the future of education.</p><p>It was a pleasure chatting w",
-    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss"
+    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
+    "compressed": {
+      "compressed_duration_s": 267,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Dwarkesh Patel",
+        "Andrej Karpathy"
+      ],
+      "mp3_size_mb": 4.27
+    }
   },
   {
     "id": "ep_009",
@@ -173,7 +201,16 @@
     "duration_min": 60,
     "category": "ai",
     "description": "<p>I interviewed Tyler Cowen at the Progress Conference 2024. As always, I had a blast. This is my fourth interview with him \u2013 and yet I\u2019m always hearing new stuff.</p><p>We talked about why he thinks AI won't drive explosive economic growth, the real bottlenecks on world progress, him now writing for AIs instead of humans, and the difficult relationship between being cultured and fostering growth",
-    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss"
+    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
+    "compressed": {
+      "compressed_duration_s": 302,
+      "source_duration_s": 3584,
+      "speakers": [
+        "Dwarkesh Patel",
+        "Tyler Cowen"
+      ],
+      "mp3_size_mb": 4.85
+    }
   },
   {
     "id": "ep_010",

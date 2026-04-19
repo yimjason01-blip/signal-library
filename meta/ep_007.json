@@ -1,0 +1,63 @@
+{
+  "id": "ep_007",
+  "source_url": "https://api.substack.com/feed/podcast/179924094/8fff4c8da77eff5a44fad5d13ae599e2.mp3",
+  "source_title": "Ilya Sutskever \u2014 We're moving from the age of scaling to the age of research",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 279,
+  "speakers": [
+    "Dwarkesh Patel",
+    "Ilya Sutskever"
+  ],
+  "audio_url": "/audio/ep_007.mp3",
+  "paragraphs": [
+    {
+      "speaker": "ilya",
+      "name": "Ilya Sutskever",
+      "text": "I think your point about, well, from the average person's point of view, nothing is that different will continue being true even into the singularity. No, I don't think so. The impact of AI is going to be diffused through the economy. There are very strong economic forces for this. And I think the impact is going to be felt very strongly.",
+      "source_time_s": 48,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "ilya",
+      "name": "Ilya Sutskever",
+      "text": "This is one of the very confusing things about the models right now. How to reconcile the fact that they are doing so well on evals. They're doing so well. But the economic impact seems to be dramatically behind. And it's almost like, it's very difficult to make sense of how can the model, on the one hand, do these amazing things. And then on the other hand, repeat itself twice in some situation.",
+      "source_time_s": 38,
+      "compressed_time_s": 27
+    },
+    {
+      "speaker": "ilya",
+      "name": "Ilya Sutskever",
+      "text": "I have two possible explanations. Maybe RL training makes the models a little bit too single-minded and narrowly focused. A little bit too, I don't know, unaware. But there is another explanation. Back when people were doing pre-training, the question of what data to train on was answered. Because that answer was everything. But when people do RL training, they say, okay, we want to have this kind of RL training for this thing and that kind of RL training for that thing. And one thing you could do, and I think that's something that is done inadvertently, is that people take inspiration from the evals. I think that is something that happens, and I think it could explain a lot of what's going on. If you combine this with generalization of the models actually being inadequate, that has the potential to explain a lot of what we are seeing, this disconnect between eval performance and actual real-world performance.",
+      "source_time_s": 182,
+      "compressed_time_s": 60
+    },
+    {
+      "speaker": "ilya",
+      "name": "Ilya Sutskever",
+      "text": "I have a human analogy which might be helpful. Suppose you have two students. One of them decided they want to be the best competitive programmer, so they will practice 10,000 hours for that domain. They will solve all the problems, memorize all the proof techniques, and be very skilled at quickly and correctly implementing all the algorithms. And by doing so, they became one of the best. Student number two thought, oh, competitive programming is cool. Maybe they practiced for 100 hours, much, much less. And they also did really well. Which one do you think is going to do better in their career later on? The second. And I think that's basically what's going on. The models are much more like the first student, but even more.",
+      "source_time_s": 367,
+      "compressed_time_s": 131
+    },
+    {
+      "speaker": "ilya",
+      "name": "Ilya Sutskever",
+      "text": "The way ML used to work is that people would just tinker with stuff and try to get interesting results. Then the scaling insight arrived, right? Scaling laws, GPT-3. And suddenly, everyone realized we should scale. Scaling is just one word, but it's such a powerful word because it informs people what to do. Pre-training was a thing to scale. The big breakthrough of pre-training is the realization that this recipe is good. If you mix some compute with some data into a neural net of a certain size, you will get results and you will know that you'll be better if you just scale the recipe up. At some point though, pre-training will run out of data. The data is very clearly finite. And so then okay, what do you do next? But now that compute is big, in some sense, we are back to the age of research.",
+      "source_time_s": 1204,
+      "compressed_time_s": 188
+    },
+    {
+      "speaker": "ilya",
+      "name": "Ilya Sutskever",
+      "text": "The thing which I think is the most fundamental is that these models somehow just generalize dramatically worse than people. That seems like a very fundamental thing. Evolution has given us a small amount of the most useful information possible. For things like vision, hearing and locomotion, I think there's a pretty strong case that evolution actually has given us a lot. But language and math and coding probably not. It still seems better than models. If people exhibit great ability in a domain that really did not exist until recently, then this is more an indication that people might have just better machine learning period.",
+      "source_time_s": 1505,
+      "compressed_time_s": 255
+    },
+    {
+      "speaker": "ilya",
+      "name": "Ilya Sutskever",
+      "text": "I now place more importance on AI being deployed incrementally and in advance. One very difficult thing about AI is that we are talking about systems that don't yet exist. And it's hard to imagine them. In practice, it's very hard to feel the AGI. We can talk about it. But it's like talking about the long future. You can have a conversation. You can try to imagine it. But it's just hard.",
+      "source_time_s": 3369,
+      "compressed_time_s": 302
+    }
+  ]
+}
