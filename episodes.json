@@ -455,7 +455,17 @@
     "duration_min": 72,
     "category": "founders",
     "description": "Get Scott's no-BS guide reveals on building wealth and living well: https://clickhubspot.com/mfb\n\n\n\nEpisode 796: Sam Parr ( https://x.com/theSamParr ) and Shaan Puri ( https://x.com/ShaanVP ) ask Scott Galloway ( https://x.com/profgalloway ) 10 burning questions.\u00a0\n\n\u2014\n\nShow Notes:\u00a0\n\n(0:00) What\u2019s the illuminati like?\n\n(5:27) You\u2019re post-economic. What can money not buy you?\n\n(10:41) What's the best",
-    "source_show_url": "https://feeds.megaphone.fm/HS2300184645"
+    "source_show_url": "https://feeds.megaphone.fm/HS2300184645",
+    "compressed": {
+      "compressed_duration_s": 272,
+      "source_duration_s": 4302,
+      "speakers": [
+        "Sam Parr",
+        "Shaan Puri",
+        "Scott Galloway"
+      ],
+      "mp3_size_mb": 4.37
+    }
   },
   {
     "id": "ep_022",
@@ -500,7 +510,16 @@
     "duration_min": 89,
     "category": "founders",
     "description": "Today is a special episode because it marks five years since I released the first episode of Invest Like the Best. Over those years, I\u2019ve learned so much from so many investors and builders, but today\u2019s guest may have taught me the most.\n\u00a0\nDaniel Ek is the CEO and founder of Spotify, and I find him to be one of the most thoughtful business leaders in the world. Daniel is the perfect guest for this",
-    "source_show_url": "https://feeds.megaphone.fm/CLS2859450455"
+    "source_show_url": "https://feeds.megaphone.fm/CLS2859450455",
+    "compressed": {
+      "compressed_duration_s": 305,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Patrick O'Shaughnessy",
+        "Daniel Ek"
+      ],
+      "mp3_size_mb": 4.89
+    }
   },
   {
     "id": "ep_025",
@@ -524,7 +543,16 @@
     "duration_min": 162,
     "category": "health",
     "description": "Dr. Read Montague, PhD, is a professor and director of the Center for Human Neuroscience Research at Virginia Tech\u2019s Fralin Biomedical Research Institute and an expert in how dopamine and serotonin shape human learning, motivation and decision-making. We discuss how they impact focused effort in the context of short- and long-term goals of all kinds. Also, how SSRIs and low-effort, high-engagement",
-    "source_show_url": "https://feeds.megaphone.fm/hubermanlab"
+    "source_show_url": "https://feeds.megaphone.fm/hubermanlab",
+    "compressed": {
+      "compressed_duration_s": 326,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Dr. Read Montague",
+        "Andrew Huberman"
+      ],
+      "mp3_size_mb": 5.22
+    }
   },
   {
     "id": "ep_027",

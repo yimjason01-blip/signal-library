@@ -1,0 +1,91 @@
+{
+  "id": "ep_024",
+  "source_url": "https://traffic.megaphone.fm/CLS7857283623.mp3?updated=1767971312",
+  "source_title": "Daniel Ek - Enabling Creators Everywhere - [Invest Like the Best, EP. 242]",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 305,
+  "speakers": [
+    "Patrick O'Shaughnessy",
+    "Daniel Ek"
+  ],
+  "audio_url": "/audio/ep_024.mp3",
+  "paragraphs": [
+    {
+      "speaker": "patrick",
+      "name": "Patrick O'Shaughnessy",
+      "text": "Today marks five years since I released the first episode of Invest Like the Best. Daniel Ek is the CEO and founder of Spotify, and I find him to be one of the most thoughtful business leaders in the world. Over those years, he may have taught me the most.",
+      "source_time_s": 176,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "daniel",
+      "name": "Daniel Ek",
+      "text": "Most of the focus today ends up on bits\u2014digital companies. Scale has been redefined. We're seeing $100 billion plus companies created, $10 billion companies almost by the week. But when I look at the world's largest problems, almost all of them are atoms problems. Climate change is obvious. Healthcare is another one with an aging population and massive health issues. We need transportation and infrastructure breakthroughs.",
+      "source_time_s": 242,
+      "compressed_time_s": 22
+    },
+    {
+      "speaker": "daniel",
+      "name": "Daniel Ek",
+      "text": "The bits revolution has been driven by standardization\u2014platforms everyone builds on, and broad knowledge on building digital companies. Raising capital is widely known, transparent. It created an enormous platform to allow experimentation. The problem with atoms companies is the whole playbook is completely different. It's all opaque, like when I started digital companies.",
+      "source_time_s": 307,
+      "compressed_time_s": 51
+    },
+    {
+      "speaker": "daniel",
+      "name": "Daniel Ek",
+      "text": "In bits companies, the formation strategy is explore-exploit. It's so cheap to try new experiments. But in atoms, there often isn't a minimum viable product possibility. You have to bet much more capital upfront, many more years before you can come to market. The platforms like Google and Facebook for marketing, the app stores, AWS\u2014a lot of that infrastructure just doesn't exist for atoms-based products.",
+      "source_time_s": 540,
+      "compressed_time_s": 75
+    },
+    {
+      "speaker": "patrick",
+      "name": "Patrick O'Shaughnessy",
+      "text": "What is your strategy when tackling these new spaces? When you're day zero, don't know anything, need to know a lot. What is your process?",
+      "source_time_s": 933,
+      "compressed_time_s": 104
+    },
+    {
+      "speaker": "daniel",
+      "name": "Daniel Ek",
+      "text": "The process has evolved because we now have more efficient tools to gather information. Podcasts like yours are great\u2014I listen at two times speed. But the unique thing for me is I've always been willing to travel, meet people, show up, spend the time necessary to get to real insights. I keep putting myself in very uncomfortable situations until it doesn't feel uncomfortable anymore. I learn by talking, repeating knowledge, explaining it to other people. When they ask questions, I realize I have holes I don't know about. Then I go back to the rabbit hole and dive deeper.",
+      "source_time_s": 956,
+      "compressed_time_s": 115
+    },
+    {
+      "speaker": "daniel",
+      "name": "Daniel Ek",
+      "text": "In climate change, the vast majority of the technology we need to drastically reduce our carbon footprint exists. It's not about innovating. It is a massive coordination problem. It's too expensive for society to scale these things fast enough. Take steel\u2014you can make steel green. The technology has been around since the 60s and 70s. The hard thing is creating a coordination of bold enough ambition, the best talent, and cheap enough long-term capital for a project that's probably $100 billion plus. But you're talking about 7% or 8% of the world's emissions in one go.",
+      "source_time_s": 1037,
+      "compressed_time_s": 159
+    },
+    {
+      "speaker": "daniel",
+      "name": "Daniel Ek",
+      "text": "Healthcare is different. The actual solution has to be that we go from reactive to proactive. The cost will be dramatically higher to fix problems after symptoms appear. When you have the symptom, it's usually quite late in the cycle. We need a whole new diagnostic system that generates a lot more data to predict what kind of possible diseases you may get in the future. And then we have entirely new alignment problems\u2014who's supposed to pay if someone doesn't even get sick?",
+      "source_time_s": 1238,
+      "compressed_time_s": 201
+    },
+    {
+      "speaker": "daniel",
+      "name": "Daniel Ek",
+      "text": "I remember we used to talk early in Spotify about what data we needed to keep. I fought pretty hard for us not throwing away any data. The standard playbook now is the more data you have is going to be better. With healthcare, think about a car in the 80s or 90s versus today. A car mechanic today wouldn't ask you a single question\u2014they plug in the cable, suck out all the data, and know exactly what to do. That is what we have to turn healthcare to.",
+      "source_time_s": 1435,
+      "compressed_time_s": 238
+    },
+    {
+      "speaker": "daniel",
+      "name": "Daniel Ek",
+      "text": "Today we're about 8 million creators on Spotify. When we last spoke, we were about three. In the next few years, we'll be about 50 million creators. We're moving from this emergent creator class to one where more people are building entire businesses. Most platforms have been ad-supported, but during the pandemic we started seeing real innovation on business models\u2014Patreon, live audio chats, paid memberships. I honestly think we may be just in the beginning of these platforms playing out.",
+      "source_time_s": 2827,
+      "compressed_time_s": 278
+    },
+    {
+      "speaker": "daniel",
+      "name": "Daniel Ek",
+      "text": "The single biggest virtue I have is I'm insanely patient. That trait of being able to sit there and just watch and let things play out\u2014there's more to it than what most people see. Bill Gates said in the short term people tend to overestimate the impact, in the long run they underestimate it.",
+      "source_time_s": 2094,
+      "compressed_time_s": 313
+    }
+  ]
+}

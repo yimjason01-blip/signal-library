@@ -1,0 +1,98 @@
+{
+  "id": "ep_026",
+  "source_url": "https://traffic.megaphone.fm/SCIM3970994914.mp3?updated=1770860396",
+  "source_title": "How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Read Montague",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 326,
+  "speakers": [
+    "Dr. Read Montague",
+    "Andrew Huberman"
+  ],
+  "audio_url": "/audio/ep_026.mp3",
+  "paragraphs": [
+    {
+      "speaker": "read",
+      "name": "Dr. Read Montague",
+      "text": "If any goal that you achieved\u2014taking a drug, eating a food, getting a partner\u2014if that was enough for you right then, you wouldn't keep living. You want that system to keep tracking, and once it gets to one place, you want it to have another place to which it could go. Otherwise, you wouldn't live.",
+      "source_time_s": 0,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "andrew",
+      "name": "Andrew Huberman",
+      "text": "I'm Andrew Huberman, a professor of neurobiology and ophthalmology at Stanford. My guest today is Dr. Read Montague, director of the Center for Human Neuroscience Research at Virginia Tech. He's a pioneer in directly measuring dopamine and other neuromodulators in humans in real time. Today you'll learn how dopamine really works\u2014not just to regulate motivation, but to teach you things. Dopamine is involved in learning, persistence, and lack of persistence.",
+      "source_time_s": 26,
+      "compressed_time_s": 24
+    },
+    {
+      "speaker": "andrew",
+      "name": "Andrew Huberman",
+      "text": "Most of what we know about dopamine is based on the idea that dopamine levels go up or down depending on expectations and outcomes. But as Read explains, most aspects of life involve multiple milestones. We work, we wait, then we get an outcome that informs what we do next. Dopamine levels are constantly changing, and that shapes not just what you do now, but how you think about your recent past and what you will do next. Dopamine is teaching you how to adjust your behavior.",
+      "source_time_s": 98,
+      "compressed_time_s": 55
+    },
+    {
+      "speaker": "andrew",
+      "name": "Andrew Huberman",
+      "text": "How do you think about dopamine when somebody asks what does dopamine do?",
+      "source_time_s": 230,
+      "compressed_time_s": 94
+    },
+    {
+      "speaker": "read",
+      "name": "Dr. Read Montague",
+      "text": "It used to be that dopamine was thought to equal pleasure. Dopamine goes up, you feel good. Dopamine goes down, you feel less good. There's been an explosion of work on it. Most of the new work has been out of the artificial intelligence world. It's very clearly a learning signal. Dopamine fluctuations, high and low, control learning. It's also playing multiple roles in motivation and the way you feel. It's less well understood how the mechanics of what dopamine does for changing your nervous system relates to your feeling state.",
+      "source_time_s": 261,
+      "compressed_time_s": 100
+    },
+    {
+      "speaker": "andrew",
+      "name": "Andrew Huberman",
+      "text": "What are a few examples of what we know about dopamine and its role in learning?",
+      "source_time_s": 315,
+      "compressed_time_s": 140
+    },
+    {
+      "speaker": "read",
+      "name": "Dr. Read Montague",
+      "text": "People that work on rodents now will take a genetically modified rodent and study the way dopamine release correlates with something the animal is learning. The animal may learn to turn left when it sees a light, run toward food, run down a maze. All kinds of learning tasks are associated with dopamine fluctuations in your brain. We've begun to understand dopamine as a central player in the algorithms that your brain runs. That's the connection between the kinds of learning rules installed in your brain\u2014and installed in every mobile creature on the planet\u2014and dopamine fluctuations.",
+      "source_time_s": 329,
+      "compressed_time_s": 147
+    },
+    {
+      "speaker": "read",
+      "name": "Dr. Read Montague",
+      "text": "What Rich Sutton and Andy Bartow did was say you want to stick between your expectation and outcome your next prediction. You want successive predictions. If you're an animal wandering around foraging, mainly you're not finding anything. You're going from position to position to position, but you're learning and dopamine is encoding those signals. The reward prediction error that people talk about dopamine representing is the prediction error you get for every single step whether or not you've received reward.",
+      "source_time_s": 397,
+      "compressed_time_s": 190
+    },
+    {
+      "speaker": "andrew",
+      "name": "Andrew Huberman",
+      "text": "I have a friend on the dating market now. The conversations often go like this: met so-and-so, they seem really great, they set a plan for a month from now. Is that weird? Or hey, met someone really terrific. I say, listen, the last time you said this, two weeks later it was how do I get out of seeing this person again? So go slow, collect data slowly. There's foraging for a healthy thing in life, a mate. There's updating of expectation based on experience and communication.",
+      "source_time_s": 690,
+      "compressed_time_s": 225
+    },
+    {
+      "speaker": "read",
+      "name": "Dr. Read Montague",
+      "text": "It's exactly that. That's the insight of Sutton and Bartow. All of a sudden it's not just okay, you understand expectation and outcome. The reality is embedded in this continuous learning update rule\u2014temporal difference reinforcement learning\u2014the fact that in the world, these expectations are going through their own trajectory. That's what dopamine is coding for. Every learning rule should code for the surprising outcome. But it doesn't quite work because it won't account for the way animals learn. It won't let you chain events.",
+      "source_time_s": 840,
+      "compressed_time_s": 264
+    },
+    {
+      "speaker": "andrew",
+      "name": "Andrew Huberman",
+      "text": "So just to remind people, dopamine reward prediction error\u2014the dopamine system loves novelty, especially positive novelty. What you're telling us is that in most scenarios, it's more interesting than that. There's an updating of expectation before the final answer comes in and dopamine is coding for that.",
+      "source_time_s": 925,
+      "compressed_time_s": 302
+    },
+    {
+      "speaker": "read",
+      "name": "Dr. Read Montague",
+      "text": "That algorithm I just described is the same thing that David Silver and the DeepMind guys did when they made the world champion go-playing program and it beat the world champion. They threw other tricks into it. That same algorithm is installed in your head.",
+      "source_time_s": 1191,
+      "compressed_time_s": 323
+    }
+  ]
+}
