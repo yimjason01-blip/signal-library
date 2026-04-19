@@ -729,7 +729,16 @@
     "duration_min": 211,
     "category": "health",
     "description": "Dr. Rhonda Patrick, PhD, is a biomedical scientist and public science educator. She shares the exercise, nutrition, supplementation and lifestyle practices linked to better health and lower disease risk including specific cardio and resistance training routines, when and why to do intermittent fasting, ways to lower visceral fat, omega-3 sourcing, creatine for brain and muscle and peptides such as",
-    "source_show_url": "https://feeds.megaphone.fm/hubermanlab"
+    "source_show_url": "https://feeds.megaphone.fm/hubermanlab",
+    "compressed": {
+      "compressed_duration_s": 271,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Dr. Rhonda Patrick",
+        "Andrew Huberman"
+      ],
+      "mp3_size_mb": 4.34
+    }
   },
   {
     "id": "ep_036",
@@ -741,7 +750,16 @@
     "duration_min": 166,
     "category": "health",
     "description": "<p><a href= \"https://peterattiamd.com/inigosanmillan2/?utm_source=podcast-feed&utm_medium=referral&utm_campaign=240608-pod-inigosanmillan2&utm_content=240608-pod-inigosanmillan2-podfeed\"> View the Show Notes Page for This Episode</a></p> <p><a href= \"https://peterattiamd.com/subscribe/?utm_source=podcast-feed&utm_medium=referral&utm_campaign=240608-pod-inigosanmillan2&utm_content=240608-pod-inigos",
-    "source_show_url": "https://rss.libsyn.com/shows/121729/destinations/713489.xml"
+    "source_show_url": "https://rss.libsyn.com/shows/121729/destinations/713489.xml",
+    "compressed": {
+      "compressed_duration_s": 367,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Peter Attia",
+        "I\u00f1igo San-Mill\u00e1n"
+      ],
+      "mp3_size_mb": 5.88
+    }
   },
   {
     "id": "ep_037",
@@ -753,7 +771,16 @@
     "duration_min": 28,
     "category": "health",
     "description": "<p><a href= \"https://peterattiamd.com/qps4/?utm_source=podcast-feed&utm_medium=referral&utm_campaign=250303-pod-qps4&utm_content=250303-pod-qps4-podfeed\"> View the Show Notes Page for This Episode</a></p> <p><a href= \"https://peterattiamd.com/subscribe/?utm_source=podcast-feed&utm_medium=referral&utm_campaign=250303-pod-qps4&utm_content=250303-pod-qps4-podfeed\"> Become a Member to Receive Exclusiv",
-    "source_show_url": "https://rss.libsyn.com/shows/121729/destinations/713489.xml"
+    "source_show_url": "https://rss.libsyn.com/shows/121729/destinations/713489.xml",
+    "compressed": {
+      "compressed_duration_s": 300,
+      "source_duration_s": 1660,
+      "speakers": [
+        "Peter Attia",
+        "Nick Stenson"
+      ],
+      "mp3_size_mb": 4.81
+    }
   },
   {
     "id": "ep_038",
@@ -765,7 +792,16 @@
     "duration_min": 22,
     "category": "health",
     "description": "<p><a href= \"https://peterattiamd.com/ama78/?utm_source=podcast-feed&utm_medium=referral&utm_campaign=251215-pod-ama76&utm_content=251215-pod-ama78-podfeed\"> View the Show Notes Page for This Episode</a></p> <p><a href= \"https://peterattiamd.com/subscribe/?utm_source=podcast-feed&utm_medium=referral&utm_campaign=251215-pod-ama78&utm_content=251215-pod-ama78-podfeed\"> Become a Member to Receive Exc",
-    "source_show_url": "https://rss.libsyn.com/shows/121729/destinations/713489.xml"
+    "source_show_url": "https://rss.libsyn.com/shows/121729/destinations/713489.xml",
+    "compressed": {
+      "compressed_duration_s": 286,
+      "source_duration_s": 1336,
+      "speakers": [
+        "Peter Attia",
+        "Nick"
+      ],
+      "mp3_size_mb": 4.59
+    }
   },
   {
     "id": "ep_039",
@@ -777,7 +813,16 @@
     "duration_min": 19,
     "category": "health",
     "description": "<p><a href= \"https://peterattiamd.com/ama82/?utm_source=podcast-feed&utm_medium=referral&utm_campaign=260323-pod-ama82&utm_content=260323-pod-ama82-podfeed\"> View the Show Notes Page for This Episode</a></p> <p><a href= \"https://peterattiamd.com/subscribe/?utm_source=podcast-feed&utm_medium=referral&utm_campaign=260323-pod-ama82&utm_content=260323-pod-ama82-podfeed\"> Become a Member to Receive Exc",
-    "source_show_url": "https://rss.libsyn.com/shows/121729/destinations/713489.xml"
+    "source_show_url": "https://rss.libsyn.com/shows/121729/destinations/713489.xml",
+    "compressed": {
+      "compressed_duration_s": 284,
+      "source_duration_s": 1131,
+      "speakers": [
+        "Peter Attia",
+        "Nick"
+      ],
+      "mp3_size_mb": 4.55
+    }
   },
   {
     "id": "ep_040",

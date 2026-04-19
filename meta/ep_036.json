@@ -1,0 +1,84 @@
+{
+  "id": "ep_036",
+  "source_url": "https://traffic.libsyn.com/secure/peterattiadrive/The_Drive_-_Inigo_San_Millan_2_REPLAY_FINAL.mp3?dest-id=713489",
+  "source_title": "Zone 2 training: impact on longevity and mitochondrial function, how to dose frequency and duration, and more | I\u00f1igo San-Mill\u00e1n, Ph.D. (#201 rebroadcast)",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 367,
+  "speakers": [
+    "Peter Attia",
+    "I\u00f1igo San-Mill\u00e1n"
+  ],
+  "audio_url": "/audio/ep_036.mp3",
+  "paragraphs": [
+    {
+      "speaker": "peter",
+      "name": "Peter Attia",
+      "text": "Welcome to a special rebroadcast of my conversation with I\u00f1igo San-Mill\u00e1n, an internationally renowned applied physiologist and assistant professor at the University of Colorado School of Medicine. We're revisiting our deep dive into zone two exercise\u2014a topic that generates enormous curiosity. I\u00f1igo's research focuses on exercise metabolism, metabolic health, diabetes, and cancer. In this episode, we discuss his work with two-time Tour de France champion Tadej Poga\u010dar, lactate and fat oxidation, and how to structure zone two training for duration, timing, and frequency.",
+      "source_time_s": 0,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "peter",
+      "name": "Peter Attia",
+      "text": "I\u00f1igo, let's start with your work with Tadej Poga\u010dar. When we last spoke two years ago, nobody knew who he was. Now he's potentially on track to be the greatest Tour de France cyclist of all time. What did you see in him when you started working together in late 2018, when he was just 19?",
+      "source_time_s": 52,
+      "compressed_time_s": 36
+    },
+    {
+      "speaker": "inigo",
+      "name": "I\u00f1igo San-Mill\u00e1n",
+      "text": "I started working with Tadej right after he signed with the team. From the physiological testing we did immediately, I saw amazing capabilities\u2014his ability to clear lactate and put out great amounts of power for long periods of time. When I say someone has good potential, I don't say that lightly. At a given power output, his lactate levels were extremely low. I've been doing this specific protocol for 20 years with professional cyclists, and he was way above almost everybody I had tested. And for that age\u2014his first year pro, pretty much a junior\u2014I could see he was at a different category.",
+      "source_time_s": 244,
+      "compressed_time_s": 61
+    },
+    {
+      "speaker": "inigo",
+      "name": "I\u00f1igo San-Mill\u00e1n",
+      "text": "Throughout his training, I would see his different abilities to sustain a given power output for the whole day or for a specific glycolytic effort on a climb. I saw his trainability, how easily he grasped the concepts, how well he recovered. I talked to him once or twice a day over WhatsApp for feedback. When other high-level pros would tell me they had to take it easier because they couldn't do an effort, this kid would say there's no problem. That's when you start putting things together.",
+      "source_time_s": 286,
+      "compressed_time_s": 107
+    },
+    {
+      "speaker": "peter",
+      "name": "Peter Attia",
+      "text": "Let's define zone two. When you plot watts per kilo on the X-axis and lactate production on the Y-axis, that's one of the most telling graphs to predict success in the Tour. A normal tempo climb sees the whole peloton going up at about five watts per kilo. At that intensity, some riders might have six millimoles lactate, while others might have one\u2014resting levels. It really predicts performance.",
+      "source_time_s": 549,
+      "compressed_time_s": 146
+    },
+    {
+      "speaker": "inigo",
+      "name": "I\u00f1igo San-Mill\u00e1n",
+      "text": "From my point of view, zone two is the exercise intensity where you're stressing the mitochondria and oxidative capacity the most. You're recruiting mainly type one muscle fibers. You're mobilizing the highest amount of fat, both from lipolysis from adipose tissue and from fat oxidation inside the mitochondria. This is where you stimulate oxidative phosphorylation\u2014burning both fat and glucose inside the mitochondria. There's not a very high glycolytic flux transforming to pyruvate and reducing to lactate, but that flux is still oxidized inside mitochondria. This is the exercise intensity that achieves or stimulates mitochondrial function, fat oxidation, and lactate clearance capacity the most.",
+      "source_time_s": 1314,
+      "compressed_time_s": 176
+    },
+    {
+      "speaker": "peter",
+      "name": "Peter Attia",
+      "text": "The purest way to estimate this would be via indirect calorimetry because that tells us fat oxidation. When you hook someone up to a metabolic cart, you measure consumed oxygen and produced carbon dioxide. These fit into the Weir equation, which tells you total energy consumption in kilocalories per minute, and the ratio tells you how much energy comes from fat oxidation versus glucose oxidation. You can plot fat oxidation against power. What differentiates Poga\u010dar from the average person?",
+      "source_time_s": 1432,
+      "compressed_time_s": 222
+    },
+    {
+      "speaker": "inigo",
+      "name": "I\u00f1igo San-Mill\u00e1n",
+      "text": "Elite athletes like Poga\u010dar have amazing fat oxidation capacity compared to competitive athletes, recreationals, or people with type two diabetes. At 200 watts, an elite athlete doesn't need to incur that glycolytic capacity as much as someone not well trained. The elite athlete can still recruit slow twitch muscle fibers and rely a lot on fat to produce ATP because they have amazing mitochondrial function. They're very efficient metabolically. Someone whose mitochondria aren't working as well\u2014whether recreational, sedentary, or with type two diabetes\u2014at 200 watts, they fully rely on glucose because they cannot sustain that effort with fat alone.",
+      "source_time_s": 1582,
+      "compressed_time_s": 257
+    },
+    {
+      "speaker": "peter",
+      "name": "Peter Attia",
+      "text": "Looking at your published graphs, metabolic syndrome patients have resting lactate of almost two millimole. By 100 watts, they're already at the threshold of zone two. The moderately trained individual starts with lactate of about one and passes the inflection point around 175 watts. Professional athletes start at 0.5 millimole and stay relatively flat until about 300 watts. When we look at fat oxidation, fit individuals actually increase fat oxidation to a local maxima before declining, whereas most people begin at maximum and decline from there.",
+      "source_time_s": 1799,
+      "compressed_time_s": 301
+    },
+    {
+      "speaker": "inigo",
+      "name": "I\u00f1igo San-Mill\u00e1n",
+      "text": "The same blood lactate concentration does not correspond in an elite",
+      "source_time_s": 2948,
+      "compressed_time_s": 340
+    }
+  ]
+}
