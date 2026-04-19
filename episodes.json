@@ -467,7 +467,16 @@
     "duration_min": 67,
     "category": "founders",
     "description": "My guest this week is Brian Armstrong, the co-founder and CEO of Coinbase. The topic of our conversation is the future of cryptocurrency and decentralized finance. Its been a while since I checked in on the world of crypto and while prices are still below the 2017 highs, there\u2019s been a ton of additional work and infrastructure laid. We discuss the major events of the past decade and what might hap",
-    "source_show_url": "https://feeds.megaphone.fm/CLS2859450455"
+    "source_show_url": "https://feeds.megaphone.fm/CLS2859450455",
+    "compressed": {
+      "compressed_duration_s": 299,
+      "source_duration_s": 3909,
+      "speakers": [
+        "Patrick O'Shaughnessy",
+        "Brian Armstrong"
+      ],
+      "mp3_size_mb": 4.8
+    }
   },
   {
     "id": "ep_023",
@@ -527,7 +536,16 @@
     "duration_min": 40,
     "category": "health",
     "description": "In this\u00a0Huberman Lab Essentials\u00a0episode, my guest is Jeff Cavaliere, MSPT, CSCS, a physical therapist, strength coach and the founder of ATHLEAN-X, an online training platform.\n\nWe explain the foundations of an effective training program, including how to structure your weekly workouts and recovery to match your goals and schedule. We also discuss effective warm-ups and stretching, strategies to r",
-    "source_show_url": "https://feeds.megaphone.fm/hubermanlab"
+    "source_show_url": "https://feeds.megaphone.fm/hubermanlab",
+    "compressed": {
+      "compressed_duration_s": 276,
+      "source_duration_s": 2415,
+      "speakers": [
+        "Andrew Huberman",
+        "Jeff Cavaliere"
+      ],
+      "mp3_size_mb": 4.42
+    }
   },
   {
     "id": "ep_028",

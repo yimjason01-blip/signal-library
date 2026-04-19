@@ -1,0 +1,70 @@
+{
+  "id": "ep_022",
+  "source_url": "https://traffic.megaphone.fm/CLS4820995996.mp3?updated=1767975162",
+  "source_title": "Brian Armstrong \u2013 The Future of Crypto - [Invest Like the Best, EP.186]",
+  "source_duration_s": 3909,
+  "compressed_duration_s": 299,
+  "speakers": [
+    "Patrick O'Shaughnessy",
+    "Brian Armstrong"
+  ],
+  "audio_url": "/audio/ep_022.mp3",
+  "paragraphs": [
+    {
+      "speaker": "patrick",
+      "name": "Patrick O'Shaughnessy",
+      "text": "My guest this week is Brian Armstrong, the co-founder and CEO of Coinbase. The topic of our conversation is the future of cryptocurrency and decentralized finance. It's been a while since I checked in on the world of crypto and while prices are still below the 2017 highs, there's been a ton of additional work and infrastructure laid. I thought a neat place to begin would be your take on the most important developments over the last couple of years.",
+      "source_time_s": 192,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "brian",
+      "name": "Brian Armstrong",
+      "text": "A number of things happened. DeFi started to actually work and get a lot of traction. We saw central bank digital currencies, which is kind of a fancy name for a certain type of stablecoin that started to get a lot of interest. So we saw China started to digitize the yuan and the US started to get interested in digitizing the dollar after Libra kind of created a big hornet's nest over there in DC. And then I would say there's probably five or six really good teams that are working on what I call next generation blockchain. They're trying to improve the scalability, the developer tools, things like Algorand, Polkadot, Cosmos. I'm hoping that that kind of is kind of like when the internet moves from dial up to broadband or something, we can get another couple orders of magnitude of transactions through the blockchain.",
+      "source_time_s": 257,
+      "compressed_time_s": 35
+    },
+    {
+      "speaker": "patrick",
+      "name": "Patrick O'Shaughnessy",
+      "text": "I love thinking about things through the lens of the long term vision of your business. Could you highlight the long term vision that you hope to help breathe into existence?",
+      "source_time_s": 334,
+      "compressed_time_s": 100
+    },
+    {
+      "speaker": "brian",
+      "name": "Brian Armstrong",
+      "text": "For Coinbase, our mission is to create an open financial system for the world. We have this vision about using that open financial system to bring economic freedom to people all over the world. We kind of want to create an entirely new economy. We're calling it the crypto economy, which is native to the internet. It's much more fair. It's much more global. It's much more efficient in terms of low fees. You could imagine it as kind of what if the internet, which is this global decentralized thing, had a native currency that was also global and decentralized? Then you could have this new, freer economy happening.",
+      "source_time_s": 365,
+      "compressed_time_s": 114
+    },
+    {
+      "speaker": "brian",
+      "name": "Brian Armstrong",
+      "text": "The main challenges that I see with the traditional financial system are that payments kind of only work more seamlessly when you're in one country like the United States. You can actually get on a plane and fly to Australia faster than it takes you to send money there. Or if you were to send money there, you might lose sometimes 3% or 5%. A lot of people who are doing these kind of Western Union type transactions, they end up paying like over 10% in fees just to get money to someone abroad. But I think probably the biggest one for me is that the existing financial system is actually a huge barrier to innovation. A lot of entrepreneurs have had this experience. I started this tutoring company in college and getting customers I thought was going to be the hard part, but actually one of the hardest parts was just being able to collect payments from my customers and get payments out to all the contractors.",
+      "source_time_s": 548,
+      "compressed_time_s": 163
+    },
+    {
+      "speaker": "brian",
+      "name": "Brian Armstrong",
+      "text": "Economic freedom is a concept that I'm really personally passionate about. Economic freedom is this measure, it's a composite metric that economists look at that it's kind of saying, how easy is it to start a business in this country? How much corruption and bribery is there? Does free trade exist? The really kind of surprising thing about it is that countries with the highest economic freedom tend to have the best treatment of the environment. They have the best income share of the poorest 10% of people in society. They have less war. They have higher self-reported happiness of citizens. They have better literacy rates, lower infant mortality rates, all these positive downstream effects. I had this hunch when I read the Bitcoin white paper a long time ago where I said, I think economic freedom is really cool and maybe it's downstream effects in society, not just correlation, but causation is there. I bet with the rise of smartphones and this new cryptocurrency, Bitcoin and all the things that will come from that, I bet we could add economic freedom into countries all over the world.",
+      "source_time_s": 857,
+      "compressed_time_s": 237
+    },
+    {
+      "speaker": "patrick",
+      "name": "Patrick O'Shaughnessy",
+      "text": "How did you get the first batch of users to join the original Coinbase product?",
+      "source_time_s": 1484,
+      "compressed_time_s": 321
+    },
+    {
+      "speaker": "brian",
+      "name": "Brian Armstrong",
+      "text": "I was a software engineer at Airbnb. I ended up reading the Bitcoin whitepaper just when I was at home one time with my parents over the holidays. This was around December of 2010.",
+      "source_time_s": 1544,
+      "compressed_time_s": 328
+    }
+  ]
+}
