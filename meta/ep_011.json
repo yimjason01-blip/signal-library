@@ -1,0 +1,98 @@
+{
+  "id": "ep_011",
+  "source_url": "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sam_altman_2.mp3",
+  "source_title": "#419 \u2013 Sam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power & AGI",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 297,
+  "speakers": [
+    "Lex Fridman",
+    "Sam Altman"
+  ],
+  "audio_url": "/audio/ep_011.mp3",
+  "paragraphs": [
+    {
+      "speaker": "lex",
+      "name": "Lex Fridman",
+      "text": "Take me through the OpenAI board saga that started on Thursday, November 16th, maybe Friday, November 17th for you.",
+      "source_time_s": 57,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "sam",
+      "name": "Sam Altman",
+      "text": "That was definitely the most painful professional experience of my life and chaotic and shameful and upsetting and a bunch of other negative things. There were great things about it, too. I came across this old tweet of mine from that time period, which was like going to your own eulogy, watching people say all these great things about you. That whole weekend, with one big exception, I felt a great deal of love and very little hate. There were definitely times I thought it was going to be one of the worst things to ever happen for AI safety. I'm happy that it happened relatively early. I thought at some point between when OpenAI started and when we created AGI, there was going to be something crazy and explosive that happened.",
+      "source_time_s": 57,
+      "compressed_time_s": 8
+    },
+    {
+      "speaker": "lex",
+      "name": "Lex Fridman",
+      "text": "Do you have a sense of how deep and rigorous the deliberation process by the board was? Was it just a few conversations and all of a sudden it escalates?",
+      "source_time_s": 172,
+      "compressed_time_s": 67
+    },
+    {
+      "speaker": "sam",
+      "name": "Sam Altman",
+      "text": "I think the board members were well-meaning people on the whole. In stressful situations where people feel time pressure, people understandably make suboptimal decisions. One of the challenges for OpenAI will be we're going to have to have a board and a team that are good at operating under pressure. I think one of the things with our structure that we maybe should have thought about more is that the board of a non-profit has quite a lot of power. They don't really answer to anyone but themselves. What we'd really like is for the board of OpenAI to answer to the world as a whole as much as that's a practical thing.",
+      "source_time_s": 172,
+      "compressed_time_s": 80
+    },
+    {
+      "speaker": "sam",
+      "name": "Sam Altman",
+      "text": "The old board sort of got smaller over the course of about a year. It was nine, and then it went down to six. The board also didn't have a lot of experienced board members. A lot of the new board members at OpenAI just have more experience as board members. Brett and Larry were kind of decided in the heat of the moment over this very tense weekend. I felt like if I was going to come back, I needed new board members. I didn't think I could work with the old board again in the same configuration.",
+      "source_time_s": 234,
+      "compressed_time_s": 130
+    },
+    {
+      "speaker": "sam",
+      "name": "Sam Altman",
+      "text": "Friday afternoon, I was like, well, I can just go do a very focused AGI research effort. I got excited about that. It was Friday night evening for the first time that I heard from the exec team here, which is like, hey, we're going to fight this. Saturday morning, two of the board members called and said, hey, we didn't mean to destabilize things. Can we talk about you coming back? I thought about it and I was like, well, I care about the people here. The most painful time of all was over the course of that weekend. We kept being told like, all right, we're almost done. Sunday evening, the board then appointed a new interim CEO. That is, that feels really bad. That was the low point of the whole thing.",
+      "source_time_s": 300,
+      "compressed_time_s": 174
+    },
+    {
+      "speaker": "lex",
+      "name": "Lex Fridman",
+      "text": "What's your relationship with Ilya now?",
+      "source_time_s": 339,
+      "compressed_time_s": 234
+    },
+    {
+      "speaker": "sam",
+      "name": "Sam Altman",
+      "text": "I love Ilya. I have tremendous respect for Ilya. I don't have anything I can say about his plans right now. I really hope we work together for certainly the rest of my career. Ilya has not seen AGI. None of us have seen AGI. One of the many things that I really love about Ilya is he takes AGI and the safety concerns, broadly speaking, very seriously. Ilya is a credit to humanity in terms of how much he thinks and worries about making sure we get this right.",
+      "source_time_s": 339,
+      "compressed_time_s": 237
+    },
+    {
+      "speaker": "lex",
+      "name": "Lex Fridman",
+      "text": "Did the board saga make you be more hesitant in trusting people?",
+      "source_time_s": 516,
+      "compressed_time_s": 277
+    },
+    {
+      "speaker": "sam",
+      "name": "Sam Altman",
+      "text": "Yes. I'm an extremely trusting person. I've always had a life philosophy of don't worry about the paranoia, don't worry about the edge cases. This was so shocking to me. It has definitely changed how I think about just default trust of people and planning for the bad scenarios. I'm not worried about becoming too cynical, but I'm worried about just becoming less of a default trusting person. In terms of the team here, I have just enormous gratitude and trust and respect for the people that I work with every day.",
+      "source_time_s": 516,
+      "compressed_time_s": 282
+    },
+    {
+      "speaker": "lex",
+      "name": "Lex Fridman",
+      "text": "Elon sued OpenAI. What is the essence of what he's criticizing?",
+      "source_time_s": 561,
+      "compressed_time_s": 323
+    },
+    {
+      "speaker": "sam",
+      "name": "Sam Altman",
+      "text": "I don't know what it's really about. We started off just thinking we were going to be a research lab. This was before language models were a big deal.",
+      "source_time_s": 561,
+      "compressed_time_s": 328
+    }
+  ]
+}

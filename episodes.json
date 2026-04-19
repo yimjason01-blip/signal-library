@@ -243,7 +243,16 @@
     "duration_min": 122,
     "category": "ai",
     "description": "<p>Sam Altman is the CEO of OpenAI, the company behind GPT-4, ChatGPT, Sora, and many other state-of-the-art AI technologies. Please support this podcast by checking out our sponsors:<br />\n&#8211; <b>Cloaked</b>: <a href=\"https://cloaked.com/lex\">https://cloaked.com/lex</a> and use code LexPod to get 25% off<br />\n&#8211; <b>Shopify</b>: <a href=\"https://shopify.com/lex\">https://shopify.com/lex</",
-    "source_show_url": "https://lexfridman.com/feed/podcast/"
+    "source_show_url": "https://lexfridman.com/feed/podcast/",
+    "compressed": {
+      "compressed_duration_s": 297,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Lex Fridman",
+        "Sam Altman"
+      ],
+      "mp3_size_mb": 4.77
+    }
   },
   {
     "id": "ep_012",
@@ -255,7 +264,16 @@
     "duration_min": 322,
     "category": "ai",
     "description": "<p>Dario Amodei is the CEO of Anthropic, the company that created Claude. Amanda Askell is an AI researcher working on Claude&#8217;s character and personality. Chris Olah is an AI researcher working on mechanistic interpretability.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep452-sc\">https://lexfridman.com/sponsors/ep452-sc</a><br />\nSee below",
-    "source_show_url": "https://lexfridman.com/feed/podcast/"
+    "source_show_url": "https://lexfridman.com/feed/podcast/",
+    "compressed": {
+      "compressed_duration_s": 287,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Lex Fridman",
+        "Dario Amodei"
+      ],
+      "mp3_size_mb": 4.59
+    }
   },
   {
     "id": "ep_013",
@@ -267,7 +285,16 @@
     "duration_min": 140,
     "category": "ai",
     "description": "<p>Jeff Bezos is the founder of Amazon and Blue Origin.</p>\n<p>Thank you for listening \u2764 Please support this podcast by checking out our sponsors:<br />\n&#8211; <b>Notion</b>: <a href=\"https://notion.com/lex\">https://notion.com/lex</a><br />\n&#8211; <b>Policygenius</b>: <a href=\"https://policygenius.com/lex\">https://policygenius.com/lex</a><br />\n&#8211; <b>MasterClass</b>: <a href=\"https://master",
-    "source_show_url": "https://lexfridman.com/feed/podcast/"
+    "source_show_url": "https://lexfridman.com/feed/podcast/",
+    "compressed": {
+      "compressed_duration_s": 305,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Lex Fridman",
+        "Jeff Bezos"
+      ],
+      "mp3_size_mb": 4.89
+    }
   },
   {
     "id": "ep_014",
@@ -279,7 +306,16 @@
     "duration_min": 144,
     "category": "ai",
     "description": "<p>Mark Cuban is a businessman, investor, star of TV series Shark Tank, long-time principal owner of Dallas Mavericks, and founder of Cost Plus Drugs. Please support this podcast by checking out our sponsors:<br />\n&#8211; <b>Listening</b>: <a href=\"https://listening.com/lex\">https://listening.com/lex</a> and use code LEX to get one month free<br />\n&#8211; <b>Cloaked</b>: <a href=\"https://cloaked",
-    "source_show_url": "https://lexfridman.com/feed/podcast/"
+    "source_show_url": "https://lexfridman.com/feed/podcast/",
+    "compressed": {
+      "compressed_duration_s": 294,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Lex Fridman",
+        "Mark Cuban"
+      ],
+      "mp3_size_mb": 4.71
+    }
   },
   {
     "id": "ep_015",
@@ -291,7 +327,16 @@
     "duration_min": 28,
     "category": "ai",
     "description": "<p>From pre-training data curation to shipping <strong>GPT-4o</strong>, <strong>o1</strong>, <strong>o3</strong>, and now <strong>GPT-5 thinking</strong> and the <strong>shopping model</strong>, <strong>Josh McGrath</strong> has lived through the full arc of OpenAI\u2019s post-training evolution\u2014from the PPO vs DPO debates of 2023 to today\u2019s RLVR era, where the real innovation isn\u2019t optimization method",
-    "source_show_url": "https://api.substack.com/feed/podcast/1084089.rss"
+    "source_show_url": "https://api.substack.com/feed/podcast/1084089.rss",
+    "compressed": {
+      "compressed_duration_s": 282,
+      "source_duration_s": 1653,
+      "speakers": [
+        "Latent Space Host",
+        "Josh McGrath"
+      ],
+      "mp3_size_mb": 4.52
+    }
   },
   {
     "id": "ep_016",

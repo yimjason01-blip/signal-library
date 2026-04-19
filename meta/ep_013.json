@@ -1,0 +1,77 @@
+{
+  "id": "ep_013",
+  "source_url": "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeff_bezos.mp3",
+  "source_title": "#405 \u2013 Jeff Bezos: Amazon and Blue Origin",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 305,
+  "speakers": [
+    "Lex Fridman",
+    "Jeff Bezos"
+  ],
+  "audio_url": "/audio/ep_013.mp3",
+  "paragraphs": [
+    {
+      "speaker": "lex",
+      "name": "Lex Fridman",
+      "text": "You spent a lot of your childhood with your grandfather on a ranch here in Texas. What's the coolest job you remember doing there?",
+      "source_time_s": 52,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "jeff",
+      "name": "Jeff Bezos",
+      "text": "I spent all my summers on that ranch from age four to 16. My grandfather was letting me pretend to help\u2014a four-year-old is a burden, not a help. He was really just watching me because my mom was so young; she had me when she was 17. As I got older, I actually was helpful. I fixed windmills, laid fences and pipelines, vaccinated the animals. My grandfather had a huge influence on me. After my grandmother died when I was about 12, it was just him and me. We would go back to the ranch house every day around 1 p.m. to watch Days of Our Lives. The key gift I got from it was that my grandfather was so resourceful. He did everything himself, made his own veterinary tools. He bought a D6 bulldozer for like $5,000 because it was completely broken down. We spent an entire summer fixing it, building a crane to move the gears. He didn't pick up the phone and call somebody. He would figure it out on his own.",
+      "source_time_s": 109,
+      "compressed_time_s": 10
+    },
+    {
+      "speaker": "lex",
+      "name": "Lex Fridman",
+      "text": "I read that you fell in love with the idea of space when you were five, watching Neil Armstrong walking on the moon. What are some of the more inspiring moments or insights you take away from that space race era?",
+      "source_time_s": 852,
+      "compressed_time_s": 88
+    },
+    {
+      "speaker": "jeff",
+      "name": "Jeff Bezos",
+      "text": "There's so much inspiring there. One of the great Von Braun quotes is, I have come to use the word impossible with great caution. That's the big story of Apollo. Going to the moon was literally an analogy people used for something that's impossible\u2014'you'll do that when men walk on the moon.' I think it was pulled forward in time because of the space race, the geopolitical implications. At the peak, that program was spending two or three percent of GDP. It's truly incredible, the 20th century version of building the pyramids. Because it was pulled forward in time, because it did something that had previously been thought impossible, it rightly deserves its place in the pantheon of great human achievements.",
+      "source_time_s": 923,
+      "compressed_time_s": 106
+    },
+    {
+      "speaker": "lex",
+      "name": "Lex Fridman",
+      "text": "When you look up at the stars and think big, what do you hope is the future of humanity hundreds, thousands of years from now out in space?",
+      "source_time_s": 1093,
+      "compressed_time_s": 160
+    },
+    {
+      "speaker": "jeff",
+      "name": "Jeff Bezos",
+      "text": "I would love to see a trillion humans living in the solar system. If we had a trillion humans, we would have at any given time a thousand Mozarts and a thousand Einsteins. Our solar system would be full of life and intelligence and energy. The only way to get to that vision is with giant O'Neill style space stations. The planetary surfaces are just way too small. We will take materials from the moon, from near Earth objects, from the asteroid belt, and we'll build giant colonies. You can spin them to get normal Earth gravity. You can put them where you want them. Most people are going to want to live near Earth. They can move relatively quickly back and forth between their station and Earth. People will go to Earth for vacation, same way you might go to Yellowstone National Park.",
+      "source_time_s": 1097,
+      "compressed_time_s": 172
+    },
+    {
+      "speaker": "jeff",
+      "name": "Jeff Bezos",
+      "text": "This planet is the good one. We've sent robotic probes to all the planets. Earth really is amazing\u2014the ecosystem, the water resources, everything. This is a gem we do need to take care of it. As we enter the Anthropocene, we want to use a lot of energy per capita. The good old days are mostly an illusion. In almost every way life is better for almost everyone today than it was 50 or 100 years ago. Global illiteracy rates, global poverty rates, global infant mortality rates\u2014almost any metric you choose, we're better off. One thing that is moving backwards is the natural world. Five hundred years ago the natural world was pristine. We have traded some of that pristine beauty for all of these other gifts. We can have both, but to do that we have to go to space. The most fundamental measure is energy usage per capita. Using more and more energy is going to make your life better in so many ways, but that's not compatible ultimately with living on a finite planet.",
+      "source_time_s": 1199,
+      "compressed_time_s": 236
+    },
+    {
+      "speaker": "lex",
+      "name": "Lex Fridman",
+      "text": "Can you explain what the New Glenn rocket is and tell me some interesting technical aspects?",
+      "source_time_s": 1464,
+      "compressed_time_s": 315
+    },
+    {
+      "speaker": "jeff",
+      "name": "Jeff Bezos",
+      "text": "New Glenn is a very large heavy lift launch vehicle. It'll take about 45 metric tons to LEO. It's about half the thrust of the Saturn Five\u20143.9 million pounds of thrust on liftoff. The booster has seven BE-4 engines, each generating a little more than 550,000 pounds of thrust.",
+      "source_time_s": 1496,
+      "compressed_time_s": 322
+    }
+  ]
+}

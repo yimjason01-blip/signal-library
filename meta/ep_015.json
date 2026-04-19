@@ -1,0 +1,84 @@
+{
+  "id": "ep_015",
+  "source_url": "https://api.substack.com/feed/podcast/186610564/4944e1f91a0d0d17e5525fb297469684.mp3",
+  "source_title": "[State of Post-Training] From GPT-4.1 to 5.1: RLVR, Agent & Token Efficiency \u2014 Josh McGrath, OpenAI",
+  "source_duration_s": 1653,
+  "compressed_duration_s": 282,
+  "speakers": [
+    "Latent Space Host",
+    "Josh McGrath"
+  ],
+  "audio_url": "/audio/ep_015.mp3",
+  "paragraphs": [
+    {
+      "speaker": "josh",
+      "name": "Josh McGrath",
+      "text": "I work on a bunch of the thinking models at OpenAI. Recently, I've been focused on doing search related stuff. But yeah, just a post-training researcher at OpenAI. We released GPT-4.1, which was a non-thinking model\u2014API specific, non-thinking. Since then, I've been switching into thinking models, though we're still releasing non-thinking models.",
+      "source_time_s": 16,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "josh",
+      "name": "Josh McGrath",
+      "text": "I got into post-training because I was doing pre-training data curation stuff before OpenAI. Looking at papers, I saw there's gonna be so much interesting stuff in post-training. It's not that pre-training was dead, but it was changing. Do I want to make compute efficiency wins of like 3%? Or do I want to change the behavior by 40%? It just seemed more exciting to go to post-training.",
+      "source_time_s": 60,
+      "compressed_time_s": 23
+    },
+    {
+      "speaker": "josh",
+      "name": "Josh McGrath",
+      "text": "The number of moving parts in an RL run is just a lot higher. In pre-training, you're moving tokens to many machines, getting basically a scalar from them, then back propping. The issue with RL is you're doing tasks, and each task could have a different grading setup. Each one of those different grading setups\u2014that's more infrastructure. When I'm staying up late trying to figure out what's going on with a run, it could be in way more things than there is in a pre-training run.",
+      "source_time_s": 106,
+      "compressed_time_s": 53
+    },
+    {
+      "speaker": "josh",
+      "name": "Josh McGrath",
+      "text": "I use codex so much. It's really changed how I work. Sometimes I feel trapped by codex, because if I spend 30-40 minutes writing something that looks like a design doc, codex can do more work than I can do in a few hours in like 15 minutes. But what do I do during those 15 minutes after? It's really changed the flow of my day. I have to manage these 40 minute sessions with 15 minutes where I could do something, but it's not nearly as effective. I'm still getting used to that.",
+      "source_time_s": 227,
+      "compressed_time_s": 91
+    },
+    {
+      "speaker": "josh",
+      "name": "Josh McGrath",
+      "text": "The shopping model\u2014the most interesting thing to me is the new interruptibility and the qualitative experience of using it. You write a prompt, and you can press escape and say, oh, I messed something up. We did the same thing in the shopping model. It shows you its chain of thought with what products it's looking at. You can write it new messages saying, oh, I actually wanted USB-C on this or whatever. That's a really new and interesting interaction paradigm we have in a couple of our different services.",
+      "source_time_s": 249,
+      "compressed_time_s": 133
+    },
+    {
+      "speaker": "josh",
+      "name": "Josh McGrath",
+      "text": "There's no reason we couldn't do it in the same model eventually. If we want to try out new things, sometimes it makes sense to make a new model. We wanted to do a Deep Research style model but for shopping where it's gonna look really hard all across the internet. If you look at Deep Research, the original one and GPT-5 thinking on high reasoning today, eventually the models all sort of converge in their capabilities.",
+      "source_time_s": 293,
+      "compressed_time_s": 173
+    },
+    {
+      "speaker": "josh",
+      "name": "Josh McGrath",
+      "text": "People care quite a bit about personality. Over the past few months, we've been working a lot on giving users more choice over what personality they want. Personally, custom instruction for me\u2014I want my model to be a tool. I don't necessarily want the warmth or anything. I just want some answers because I'm mostly using it at work.",
+      "source_time_s": 423,
+      "compressed_time_s": 207
+    },
+    {
+      "speaker": "josh",
+      "name": "Josh McGrath",
+      "text": "When you look at an RLVR paper or an RLHF paper, they read more like an optimization paper. The interesting thing is we have this spectrum of how high quality a signal is. RLHF, RLVR\u2014they're both policy gradient methods. What's different is just the input data. It's interesting we call RLHF non verifiable, because we've trained this model to be good at predicting human feedback. In some sense, that's verification. There's a whole spectrum of how high quality is the signal? How much do I trust it? The innovation really is where the data is coming from, rather than worrying about the variance of different gradients.",
+      "source_time_s": 547,
+      "compressed_time_s": 233
+    },
+    {
+      "speaker": "josh",
+      "name": "Josh McGrath",
+      "text": "If you look at DeepSeek math paper and GRPO\u2014it's an interesting optimization method, but the more interesting thing is they have a new reward signal that we can really trust. When you find the answer to a math problem, it's a lot less debatable than, oh, well, is this thing that the human preferred actually what we want to do? You want to be right at math. That's underappreciated in what's getting published.",
+      "source_time_s": 762,
+      "compressed_time_s": 280
+    },
+    {
+      "speaker": "josh",
+      "name": "Josh McGrath",
+      "text": "I tend to think more in terms of actual number of tokens than time. It gives you a different measure to optimize against. With codex, it does something that would take me four hours in 10 minutes. What we can actually push on there is token efficiency.",
+      "source_time_s": 793,
+      "compressed_time_s": 313
+    }
+  ]
+}

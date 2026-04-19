@@ -1,0 +1,70 @@
+{
+  "id": "ep_012",
+  "source_url": "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dario_amodei.mp3",
+  "source_title": "#452 \u2013 Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 287,
+  "speakers": [
+    "Lex Fridman",
+    "Dario Amodei"
+  ],
+  "audio_url": "/audio/ep_012.mp3",
+  "paragraphs": [
+    {
+      "speaker": "lex",
+      "name": "Lex Fridman",
+      "text": "Let's start with a big idea of scaling laws and the scaling hypothesis. What is it? What is its history? And where do we stand today?",
+      "source_time_s": 619,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "dario",
+      "name": "Dario Amodei",
+      "text": "I first joined the AI world when I was working at Baidu with Andrew Ng in late 2014. The first thing we worked on was speech recognition systems. Everyone was always saying, we don't have the algorithms we need to succeed. I looked at the neural net that we were using for speech, the recurrent neural networks. And I said, what if you make them bigger and give them more layers? What if you scale up the data along with this? I noticed that the model started to do better and better as you gave them more data, as you made the models larger, as you trained them for longer.",
+      "source_time_s": 631,
+      "compressed_time_s": 11
+    },
+    {
+      "speaker": "dario",
+      "name": "Dario Amodei",
+      "text": "It wasn't until 2017 when I first saw the results from GPT-1 that it clicked for me that language is probably the area in which we can do this. We can get trillions of words of language data. We can train on them. And the models we were trained in those days were tiny. You could train them on one to eight GPUs, whereas now we train jobs on tens of thousands, soon going to hundreds of thousands of GPUs. Somewhere between 2014 and 2017 was when it really clicked for me that we're going to be able to do these incredibly wide cognitive tasks if we just scale up the models.",
+      "source_time_s": 697,
+      "compressed_time_s": 60
+    },
+    {
+      "speaker": "dario",
+      "name": "Dario Amodei",
+      "text": "At every stage of scaling, there are always arguments. There was the Chomsky argument about you can get syntactics, but you can't get semantics. There was this idea, oh, you can make a sentence make sense, but you can't make a paragraph make sense. The latest one we have today is we're going to run out of data, or the data isn't high quality enough, or models can't reason. And each time, every time we manage to either find a way around or scaling just is the way around. I've seen the movie enough times to really believe that probably the scaling is going to continue.",
+      "source_time_s": 733,
+      "compressed_time_s": 110
+    },
+    {
+      "speaker": "dario",
+      "name": "Dario Amodei",
+      "text": "If you look at patterns in language, there are some really simple patterns. Some words are much more common than others, like the. Then there's basic noun verb structure. Then there's the fact that nouns and verbs have to agree. And there's the higher level sentence structure. Then there's the thematic structure of paragraphs. As you make the networks larger, first they capture the really simple correlations, the really simple patterns. And there's this long tail of other patterns. As you make the network larger, it's kind of capturing more and more of that distribution.",
+      "source_time_s": 1024,
+      "compressed_time_s": 157
+    },
+    {
+      "speaker": "dario",
+      "name": "Dario Amodei",
+      "text": "If we extrapolate the next few points on the curve, we're very quickly getting towards human-level ability. The latest model we released, SONNET 3.5, the new or updated version, it gets something like 50% on SWE Bench. At the beginning of the year, I think the state-of-the-art was three or 4%. So in 10 months, we've gone from 3% to 50% on this task. And I think in another year, we'll probably be at 90%. If we just continue to extrapolate this, within a few years, we will get to these models being above the highest professional level in terms of humans.",
+      "source_time_s": 1674,
+      "compressed_time_s": 199
+    },
+    {
+      "speaker": "dario",
+      "name": "Dario Amodei",
+      "text": "Anthropic's mission is to try to make this all go well. We have a theory of change called Race to the Top. Race to the Top is about trying to push the other players to do the right thing by setting an example. Early in the history of Anthropic, one of our co-founders, Chris Ola, he's the co-founder of the field of mechanistic interpretability. For three or four years, that had no commercial application whatsoever. We did this because we think it's a way to make models safer. As we've done this, other companies have started doing it as well. The hope is to basically bid up the importance of doing the right thing.",
+      "source_time_s": 1884,
+      "compressed_time_s": 244
+    },
+    {
+      "speaker": "dario",
+      "name": "Dario Amodei",
+      "text": "We felt that there was demand both for a really powerful model that might be a little bit slower that you'd have to pay more for. And also for fast, cheap models that are as smart as they can be for how fast and cheap. We ended up with this poetry theme. What's a really short poem? It's a haiku. Haiku is the small, fast, cheap model. Sonnet is a medium-sized poem. Sonnet was the middle model. It is smarter, but also a little bit slower, a little bit more expensive. Opus was the largest, smartest model at the time.",
+      "source_time_s": 2039,
+      "compressed_time_s": 295
+    }
+  ]
+}
