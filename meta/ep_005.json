@@ -1,0 +1,71 @@
+{
+  "id": "ep_005",
+  "source_url": "https://api.substack.com/feed/podcast/157004096/bf67f6f7bf8a80249342e029f1721628.mp3",
+  "source_title": "Jeff Dean & Noam Shazeer \u2014 25 years at Google: from PageRank to AGI",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 302,
+  "speakers": [
+    "Dwarkesh Patel",
+    "Jeff Dean",
+    "Noam Shazeer"
+  ],
+  "audio_url": "/audio/ep_005.mp3",
+  "paragraphs": [
+    {
+      "speaker": "host",
+      "name": "Dwarkesh Patel",
+      "text": "Today, I have the honor of chatting with Jeff Dean and Noam Shazeer. Jeff is Google's chief scientist, and through his 25 years at the company, he has worked on basically the most transformative systems in modern computing from MapReduce, BigTable, TensorFlow, AlphaChip. Genuinely, the list doesn't end. Gemini now. Noam is the single person most responsible for the current AI revolution. He has been the inventor or the co-inventor of all the main architectures and techniques that are used for modern LLMs, from the transformer itself to mixture of experts and to MeshTensorFlow to many other things. They are two of the three co-leads of Gemini at Google DeepMind.",
+      "source_time_s": 0,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "jeff",
+      "name": "Jeff Dean",
+      "text": "When I joined, we were 25 people, 26 people, something like that. At some point, you kind of lose track of everyone's name in the company, but you still know everyone working on software engineering things. Then you sort of lose track of all the names of people in the software engineering group. But you at least know all the different projects that everyone's working on. And then at some point, the company gets big enough that you get an email that Project Platypus is launching on Friday. And you're like, what the heck is Project Platypus?",
+      "source_time_s": 92,
+      "compressed_time_s": 48
+    },
+    {
+      "speaker": "noam",
+      "name": "Noam Shazeer",
+      "text": "I actually saw Google at a job fair in like 1999. And I assumed that it was like already this huge company that no point in joining, because everyone I knew used Google. I was a grad student at Berkeley at the time. It turns out I did not apply in 1999, but like just kind of sent them a resume on a whim in 2000. They had this really nice crayon chart on the wall of the daily number of search queries. And yeah, it looked very exponential. I was like, okay, maybe I'll go work there for a little while and then have enough money to just go work on AI for as long as I want after that.",
+      "source_time_s": 172,
+      "compressed_time_s": 92
+    },
+    {
+      "speaker": "noam",
+      "name": "Noam Shazeer",
+      "text": "What's happened is that at this point, arithmetic is very, very cheap and moving data around is comparatively like much more expensive. Pretty much all of deep learning has taken off roughly because of that, because you can build it out of matrix multiplications that are n-cubed operations and n-squared bytes of data communication, basically. It's like identifying opportunity costs. Fill the thing up with arithmetic units, you could have orders of magnitude more arithmetic getting done.",
+      "source_time_s": 424,
+      "compressed_time_s": 145
+    },
+    {
+      "speaker": "jeff",
+      "name": "Jeff Dean",
+      "text": "We started with TPUv1. We weren't even quite sure we could quantize a model for serving with 8-bit integers. But we sort of had some early evidence that seemed like it might be possible. So we're like, great, let's build the whole chip around that. And then over time, people are now using int4 or fp4, which sounded like if you said to someone, like, we're going to use fp4, just like a supercomputing floating point person 20 years ago, they'd be like, what? That's crazy. Some people are quantizing models to two bits or one bit.",
+      "source_time_s": 633,
+      "compressed_time_s": 180
+    },
+    {
+      "speaker": "noam",
+      "name": "Noam Shazeer",
+      "text": "If the algorithm designer doesn't realize that he can get greatly improved performance throughput with the lower precision, of course, the algorithm designer is going to say, of course, I don't want low precision, like that introduces risk. You actually need to basically see the whole picture and figure out, oh, wait a minute, we can increase our throughput to cost ratio by a lot by quantizing. Then you're like, yes, quantization is irritating, but your model is going to be three times faster, so you're going to have to deal.",
+      "source_time_s": 722,
+      "compressed_time_s": 223
+    },
+    {
+      "speaker": "jeff",
+      "name": "Jeff Dean",
+      "text": "In 2007, we had a machine translation research team at Google. Every year they competed in a DARPA contest on translating a couple of different languages to English. I saw the results and we'd won the contest by a pretty substantial margin. I reached out to Franz, the head of this winning team. I'm like, this is great. When are we going to launch it? And he's like, oh, well, we can't launch this. It's not really very practical because it takes 12 hours to translate a sentence.",
+      "source_time_s": 831,
+      "compressed_time_s": 263
+    },
+    {
+      "speaker": "jeff",
+      "name": "Jeff Dean",
+      "text": "I spent about two or three months with them designing an in-memory compressed representation of n-gram data. We were using an n-gram as basically statistics for how often every n-word sequence occurs in a large corpus. In this case, we had like two trillion words. Most n-gram models of the day were using two grams or maybe three grams. But we decided we would use five grams. I built a data structure that would let you store all those in memory on 200 machines.",
+      "source_time_s": 908,
+      "compressed_time_s": 302
+    }
+  ]
+}

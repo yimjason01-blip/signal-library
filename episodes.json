@@ -30,7 +30,16 @@
     "duration_min": 62,
     "category": "ai",
     "description": "<p>Here is my episode with Demis Hassabis, CEO of Google DeepMind</p><p>We discuss:</p><p>* Why scaling is an artform</p><p>* Adding search, planning, & AlphaZero type training atop LLMs</p><p>* Making sure rogue nations can't steal weights</p><p>* The right way to align superhuman AIs and do an intelligence explosion</p><p>Watch on\u00a0<a target=\"_blank\" href=\"https://youtu.be/qTogNUV3CAI\">YouTube</a",
-    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss"
+    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
+    "compressed": {
+      "compressed_duration_s": 306,
+      "source_duration_s": 3693,
+      "speakers": [
+        "Dwarkesh Patel",
+        "Demis Hassabis"
+      ],
+      "mp3_size_mb": 4.9
+    }
   },
   {
     "id": "ep_002",
@@ -78,7 +87,17 @@
     "duration_min": 135,
     "category": "ai",
     "description": "<p>This week I welcome on the show two of the most important technologists ever, in any field.</p><p>Jeff Dean is Google's Chief Scientist, and through 25 years at the company, has worked on basically the most transformative systems in modern computing: from MapReduce, BigTable, Tensorflow, AlphaChip, to Gemini.</p><p>Noam Shazeer invented or co-invented all the main architectures and techniques t",
-    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss"
+    "source_show_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
+    "compressed": {
+      "compressed_duration_s": 302,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Dwarkesh Patel",
+        "Jeff Dean",
+        "Noam Shazeer"
+      ],
+      "mp3_size_mb": 4.83
+    }
   },
   {
     "id": "ep_006",

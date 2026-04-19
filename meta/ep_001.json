@@ -1,0 +1,91 @@
+{
+  "id": "ep_001",
+  "source_url": "https://api.substack.com/feed/podcast/142112869/4f69c0aff2bcca246a175d306712c1cc.mp3",
+  "source_title": "Demis Hassabis \u2014 Scaling, superhuman AIs, AlphaZero atop LLMs, AlphaFold",
+  "source_duration_s": 3693,
+  "compressed_duration_s": 306,
+  "speakers": [
+    "Dwarkesh Patel",
+    "Demis Hassabis"
+  ],
+  "audio_url": "/audio/ep_001.mp3",
+  "paragraphs": [
+    {
+      "speaker": "demis",
+      "name": "Demis Hassabis",
+      "text": "I wouldn't be surprised if we had AGI-like systems within the next decade. When we started DeepMind back in 2010, we thought of it as a 20-year project. And actually, I think we're on track, which is kind of amazing.",
+      "source_time_s": 0,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "demis",
+      "name": "Demis Hassabis",
+      "text": "Intelligence is so broad and generally applicable. I think that suggests there must be some sort of high level common algorithmic themes around how the brain processes the world around us. Of course, there are specialized parts of the brain that do specific things, but I think there are probably some underlying principles that underpin all of that.",
+      "source_time_s": 65,
+      "compressed_time_s": 17
+    },
+    {
+      "speaker": "demis",
+      "name": "Demis Hassabis",
+      "text": "When these large models improve at coding, that can actually improve their general reasoning. So there is some evidence of transfer. That's how the human brain learns too\u2014if we practice a lot of things like chess or creative writing, we tend to specialize and get better at that specific thing, even though we're using general learning techniques.",
+      "source_time_s": 111,
+      "compressed_time_s": 43
+    },
+    {
+      "speaker": "demis",
+      "name": "Demis Hassabis",
+      "text": "A lot of the original inspirations come from understanding how the brain works. Things like reinforcement learning combined with deep learning, experience replay, even the notion of attention\u2014which has become super important. The brain's existence proves that general intelligence is possible at all. Once you know something's possible, it's easier to push hard in that direction.",
+      "source_time_s": 244,
+      "compressed_time_s": 68
+    },
+    {
+      "speaker": "demis",
+      "name": "Demis Hassabis",
+      "text": "I think a super promising direction is carrying on improving the large models, making them more accurate predictors of the world\u2014more reliable world models. That's clearly necessary, but probably not sufficient for an AGI system. On top of that, we're working on things like AlphaZero-like planning mechanisms that make use of that model to make concrete plans, chain thought together, maybe use search to explore massive spaces of possibility.",
+      "source_time_s": 355,
+      "compressed_time_s": 93
+    },
+    {
+      "speaker": "demis",
+      "name": "Demis Hassabis",
+      "text": "The better your world model is, the more efficient your search can be. AlphaZero is stronger than world champion level at Go and chess and uses a lot less search than a brute force method like Deep Blue. Deep Blue would look at millions of possible moves for every decision. AlphaZero looked at around tens of thousands of positions. But a human grandmaster probably only looks at a few hundreds of moves to make their very good decision. That suggests the human top players have a much richer, much more accurate model of Go or chess. So if you improve the models, your search can be more efficient.",
+      "source_time_s": 422,
+      "compressed_time_s": 124
+    },
+    {
+      "speaker": "demis",
+      "name": "Demis Hassabis",
+      "text": "I'm very optimistic about synthetic data. There's still a lot more data that can be used, especially multimodal and video. But there's a lot of scope for creating synthetic data, partly through simulation and using very realistic games environments to generate realistic data, but also self play\u2014where systems interact with each other or converse with each other. That worked very well for us with AlphaGo and AlphaZero.",
+      "source_time_s": 720,
+      "compressed_time_s": 172
+    },
+    {
+      "speaker": "demis",
+      "name": "Demis Hassabis",
+      "text": "I look at the large models today and I think they're almost unreasonably effective for what they are. It was pretty surprising to almost everyone, including the people who first worked on the scaling hypothesis, how far it's gone. It's an empirical question whether that will hit an asymptote or a brick wall. I think no one knows. We've got to push scaling as hard as we can. But we should also double down on innovation\u2014that's our bread and butter. My betting right now is that you would need both.",
+      "source_time_s": 1008,
+      "compressed_time_s": 202
+    },
+    {
+      "speaker": "demis",
+      "name": "Demis Hassabis",
+      "text": "As Gemini becomes more multimodal and we start ingesting audiovisual data as well as text data, I do think our systems are going to start to understand the physics of the real world better. The world's about to become very exciting, I think, in the next few years as we start getting used to the idea of what true multimodality means.",
+      "source_time_s": 1275,
+      "compressed_time_s": 242
+    },
+    {
+      "speaker": "demis",
+      "name": "Demis Hassabis",
+      "text": "This technology is much bigger than any one company or even industry in general. It has to be a big collaboration with many stakeholders from civil society, academia, government. The whole of society needs to be involved in deciding what do we want to deploy these models for, how do we want to use them, what do we not want to use them for. We've got to try and get some international consensus around that. Ideally, we would have a big discussion, almost like the U.N. level, if possible.",
+      "source_time_s": 2150,
+      "compressed_time_s": 269
+    },
+    {
+      "speaker": "demis",
+      "name": "Demis Hassabis",
+      "text": "I've had alignment at the forefront of my mind since before we started DeepMind. We planned for success. We already knew that if we could make progress with these systems, the technology would be unbelievably transformative. So we were already thinking, you know, 20 years ago about what the consequences would be both positive and negative.",
+      "source_time_s": 1415,
+      "compressed_time_s": 308
+    }
+  ]
+}
