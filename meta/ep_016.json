@@ -1,0 +1,71 @@
+{
+  "id": "ep_016",
+  "source_url": "https://api.substack.com/feed/podcast/191097767/72a8d1a77282f7fee0214a7442ccfd40.mp3",
+  "source_title": "Why Anthropic Thinks AI Should Have Its Own Computer \u2014 Felix Rieseberg of Claude Cowork & Claude Code Desktop",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 265,
+  "speakers": [
+    "Alessio",
+    "Swyx",
+    "Felix Rieseberg"
+  ],
+  "audio_url": "/audio/ep_016.mp3",
+  "paragraphs": [
+    {
+      "speaker": "alessio",
+      "name": "Alessio",
+      "text": "Hey everyone, welcome to the Latent Space Podcast. Our first one in the new studio at Kernel. This is Alessio, founder of Kernel Labs, and I'm joined by Swyx, editor of Latent Space.",
+      "source_time_s": 0,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "felix",
+      "name": "Felix Rieseberg",
+      "text": "I'm the lead, technically. Member of technical staff is like the official title we'll carry around forever. Claude Co-Work is a user-friendly version of Claude Code. Over December we noticed more and more people are using either, even though they're not technical, they're not at home in the terminal, or they are at home in the terminal, but they started using Claude Code for non-coding workloads. So like managing expenses or like filling out receipts or organizing a knowledge base. We wanted to capitalize on that, but also bring this capability to people who are not terminal native and who might not know how to like brew install something.",
+      "source_time_s": 34,
+      "compressed_time_s": 14
+    },
+    {
+      "speaker": "felix",
+      "name": "Felix Rieseberg",
+      "text": "Co-Work is Cloud Code running in a virtual machine with a little bit of padding, a little bit more guardrails, making it a little safer and a little bit more convenient for people who don't want to first open up the terminal when they go to work. The virtual machine is probably the most powerful thing. We currently run a lightweight VM and we put cloud code into the VM. And we do that for a number of reasons. Safety and security is a big one. But even if you ignore for a second safety and security, it is quite powerful to give cloud to some computer.",
+      "source_time_s": 102,
+      "compressed_time_s": 63
+    },
+    {
+      "speaker": "felix",
+      "name": "Felix Rieseberg",
+      "text": "If you were a developer and your employer told you they're just going to send you emails with the code and you send emails with code back. That maybe worked for patch files in the back, but it's not very effective. So what we can do with the VM is, because it's a Linux system, cloud code has more or less free reign to install whatever it needs to install. It can install Python, it can install Node.js. At no point do we have to ask a real person, like a person who might be in marketing or a lawyer, I don't have to go to a lawyer and be like, are you okay with me installing Homebrew?",
+      "source_time_s": 763,
+      "compressed_time_s": 110
+    },
+    {
+      "speaker": "swyx",
+      "name": "Swyx",
+      "text": "I've been using it a lot, even for managing Latent Space. Like, Co-Work helps me upload videos and like title things and like edit and everything. I have all these skills that are now sort of go on a weekly basis. I needed to add Figma MCP to the coding agent that I use. But I didn't want to read the docs, so I just had Cloud do it. And in the same way, I had to set up a Google Cloud account for some project I was working on and get some API key somewhere. And Google Cloud is famously super hard to navigate. So I just didn't want to deal with any of it. I just used Cloud CodeWorks.",
+      "source_time_s": 51,
+      "compressed_time_s": 163
+    },
+    {
+      "speaker": "felix",
+      "name": "Felix Rieseberg",
+      "text": "Within the first week of developing on CodeWeek, I caught myself starting to use CodeWorks for coding tasks. I found myself on our internal tool that we have to collect crashes and just debugging information. And I found myself picking out the ones that I think we can easily fix versus the ones that might be kernel corruption or something else on the operating system. And I found myself picking these out and then just telling Cloud, go fix this bug. Go one level up. Tell CodeWork, I want you to go to all these crash tools. I want you to find all the bugs that you think are fixable and then I want you to tell another Cloud to fix all of that.",
+      "source_time_s": 901,
+      "compressed_time_s": 216
+    },
+    {
+      "speaker": "felix",
+      "name": "Felix Rieseberg",
+      "text": "I generally believe that Silicon Valley overall is undervaluing the local computer. How come we're all using MacBooks and not an iPad or a Chromebook? There's still value in having a local machine. And now when I think about Cloud, it's this entity that is supposed to be very useful to you. I think that entity needs to have access to all the same tools you have access to. And there's sort of two approaches we could take. We could say, okay, we're going to one by one chip away at everything that is at your computer and move it into the Cloud. Or the second thing is, what does it look like for someone to slurp up your entire work and put that in the Cloud?",
+      "source_time_s": 1037,
+      "compressed_time_s": 272
+    },
+    {
+      "speaker": "felix",
+      "name": "Felix Rieseberg",
+      "text": "At Anthropic, we're deeply worried about the impact that the tools are going to have on the labor market, especially for junior employees.",
+      "source_time_s": 2940,
+      "compressed_time_s": 328
+    }
+  ]
+}

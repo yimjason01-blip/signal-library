@@ -348,7 +348,17 @@
     "duration_min": 87,
     "category": "ai",
     "description": "<p><a target=\"_blank\" href=\"https://claude.com/product/cowork\">Claude Cowork</a> came out of an accident.</p><p>Felix and the Anthropic team <strong>noticed something interesting with Claude Code</strong>: many users were using it primarily for all kinds of messy knowledge work instead of coding. Even technical builders would use it for lots of non-technical work.</p><p>Even more shocking, Claude",
-    "source_show_url": "https://api.substack.com/feed/podcast/1084089.rss"
+    "source_show_url": "https://api.substack.com/feed/podcast/1084089.rss",
+    "compressed": {
+      "compressed_duration_s": 265,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Alessio",
+        "Swyx",
+        "Felix Rieseberg"
+      ],
+      "mp3_size_mb": 4.24
+    }
   },
   {
     "id": "ep_017",
@@ -360,7 +370,16 @@
     "duration_min": 63,
     "category": "founders",
     "description": "Episode 560: Shaan Puri (https://twitter.com/ShaanVP) and Sam Parr (https://twitter.com/theSamParr) break down the lawsuit between Elon Musk and Sam Altman. Are his claims legit or is this a masterclass in marketing/PR?\nWant to see Sam and Shaan\u2019s smiling faces? Head to the MFM YouTube Channel and subscribe - http://tinyurl.com/5n7ftsy5\n\n\u2014\nShow Notes:\n(0:00) Intro\n(1:00) Single purpose robots are",
-    "source_show_url": "https://feeds.megaphone.fm/HS2300184645"
+    "source_show_url": "https://feeds.megaphone.fm/HS2300184645",
+    "compressed": {
+      "compressed_duration_s": 347,
+      "source_duration_s": 3601,
+      "speakers": [
+        "Shaan Puri",
+        "Sam Parr"
+      ],
+      "mp3_size_mb": 5.56
+    }
   },
   {
     "id": "ep_018",
@@ -372,7 +391,16 @@
     "duration_min": 76,
     "category": "founders",
     "description": "Get Sam & Shaan's guide to build a Million Dollar Business (+team): https://clickhubspot.com/hde\n\n\n\nEpisode 764: Sam Parr ( \u2060https://x.com/theSamParr\u2060 ) talks to Alex Hormozi ( https://x.com/AlexHormozi ) about how to hire A+ talent, how to think in frameworks, and how to write for maximum persuasion.\u00a0\n\n\u2014\n\nShow Notes:\n\n(0:00) Hiring for general intelligence\n\n(16:12) The snowball of talent\n\n(18:59)",
-    "source_show_url": "https://feeds.megaphone.fm/HS2300184645"
+    "source_show_url": "https://feeds.megaphone.fm/HS2300184645",
+    "compressed": {
+      "compressed_duration_s": 284,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Sam Parr",
+        "Alex Hormozi"
+      ],
+      "mp3_size_mb": 4.55
+    }
   },
   {
     "id": "ep_019",
@@ -384,7 +412,16 @@
     "duration_min": 53,
     "category": "founders",
     "description": "Run your life like a $100M business. Get Sam's system here: https://clickhubspot.com/fhs\n\n\n\nEpisode 803: Sam Parr ( https://x.com/theSamParr ) sits down with legendary investor Bill Gurley ( https://x.com/bgurley ) about how to avoid the biggest mistake you can make in life.\u00a0\n\n\u2014\n\nShow Notes:\u00a0\n\n(0:00) 6 out of 10 people hate their job\n\n(11:24) Insane determinism\n\n(14:15) Finding your fascination\n\n(",
-    "source_show_url": "https://feeds.megaphone.fm/HS2300184645"
+    "source_show_url": "https://feeds.megaphone.fm/HS2300184645",
+    "compressed": {
+      "compressed_duration_s": 259,
+      "source_duration_s": 3200,
+      "speakers": [
+        "Sam Parr",
+        "Bill Gurley"
+      ],
+      "mp3_size_mb": 4.16
+    }
   },
   {
     "id": "ep_020",
@@ -396,7 +433,17 @@
     "duration_min": 78,
     "category": "founders",
     "description": "Get Sam's guide to run your life like a $100M biz: https://clickhubspot.com/kdmv\n\n\n\nEpisode 806: Sam Parr ( https://x.com/theSamParr ) and Shaan Puri ( https://x.com/ShaanVP ) talk to David Heinemeier Hansson ( https://x.com/dhh ) about AI,\u00a0 being wrong in public, and taking on Apple.\u00a0\n\n\u2014\n\nShow Notes:\u00a0\n\n(0:00) How to stand out\n\n(7:48) not giving a damn\n\n(9:57) liquid vs crystalized intelligence\n\n(",
-    "source_show_url": "https://feeds.megaphone.fm/HS2300184645"
+    "source_show_url": "https://feeds.megaphone.fm/HS2300184645",
+    "compressed": {
+      "compressed_duration_s": 277,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Sam Parr",
+        "Shaan Puri",
+        "David Heinemeier Hansson"
+      ],
+      "mp3_size_mb": 4.44
+    }
   },
   {
     "id": "ep_021",

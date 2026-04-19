@@ -1,0 +1,64 @@
+{
+  "id": "ep_020",
+  "source_url": "https://pdst.fm/e/traffic.megaphone.fm/HS5854943929.mp3",
+  "source_title": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 277,
+  "speakers": [
+    "Sam Parr",
+    "Shaan Puri",
+    "David Heinemeier Hansson"
+  ],
+  "audio_url": "/audio/ep_020.mp3",
+  "paragraphs": [
+    {
+      "speaker": "shaan",
+      "name": "Shaan Puri",
+      "text": "When you are introducing yourselves, what do you even say? Because you've done so many different things that I don't even know what you take credit for most or what you hang your hat on.",
+      "source_time_s": 14,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "dhh",
+      "name": "David Heinemeier Hansson",
+      "text": "It all depends on the audience. If I'm talking to a bunch of car nerds, I talk about winning Le Mans. If I talk to a bunch of programmers, it's all about Ruby and Rails. And if it's a bunch of entrepreneurs, it's usually about building Basecamp and 37signals. We've never disclosed the full revenues nor full profits. That's one of the great privileges of being a private company. It certainly served us well for many, many years when we had the entire project management space in SaaS to ourselves. And we were laughing all the way to the bank because clearly someone else must have realized this was a highly profitable category of software. And it just took a decade until anyone else woke up to the idea that this could be a good business.",
+      "source_time_s": 23,
+      "compressed_time_s": 15
+    },
+    {
+      "speaker": "dhh",
+      "name": "David Heinemeier Hansson",
+      "text": "A lot of it is simply based in the fact that neither Jason and I can shut up about what we believe. So it is a natural by-product of us existing and working that we keep coming up with takes on different topics in our industry, how to build a company, how to run a company, how to do technology, how to do design. There's a chapter in rework about how to out teach rather than outspend the competition. And that was really our operating paradigm since the beginning, because we never raised VC. We never had more money than anyone else. We always had to earn the money we wanted to spend first. And that meant a whole host of constraints on how we could run our business and certainly how we could run marketing. If you don't have a bunch of money to buy ads and awareness that way, you have to earn it. And the way to earn it is simply to be interesting.",
+      "source_time_s": 145,
+      "compressed_time_s": 76
+    },
+    {
+      "speaker": "sam",
+      "name": "Sam Parr",
+      "text": "Twenty years ago, you were in your 20s, and I would imagine mildly successful, but still had a lot to go, and yet you were giving advice. I think a lot of people listening, myself included, when I hear you talk about teaching versus spending, I think that's great advice. But I'm like, I don't want to give advice when there's so many people that are more successful than me. How did you justify teaching fundamentals, teaching advice and writing a book on work when you're still in your 20s?",
+      "source_time_s": 471,
+      "compressed_time_s": 150
+    },
+    {
+      "speaker": "dhh",
+      "name": "David Heinemeier Hansson",
+      "text": "Part of it, I think, is genetics. I've been blessed with a completely irreverent personality that thrives in exactly those kinds of circumstances. I don't give a damn what people think I can and can't say. I'm going to call it like I see it when I see it, whether I'm 19 or 15 or 46 or 37. There's this great paradigm of liquid versus crystallized intelligence. If you look at Nobel Prize winners who win in physics and chemistry and math and so on, they all do their formative work in their 20s, basically. Then there's a decade of application in their 30s, and then they get the Nobel Prize for that work they did in their 20s in their 40s. Young people are smarter in a certain category of intelligence, this form of liquid intelligence, smart, fast signups, firing stuff. Just like they run faster. That's just not part of the human physique.",
+      "source_time_s": 509,
+      "compressed_time_s": 190
+    },
+    {
+      "speaker": "dhh",
+      "name": "David Heinemeier Hansson",
+      "text": "When Jason and I got going with Basecamp, this is back 2003, the dotcom bust have exploded everything. There was simply no work to be had because the whole industry blew itself up. And in that wasteland, we just go like, we now have to be scrappy. We now have to rely on ourselves. We have to be tremendously productive because we can't hire a team of 50. We can't buy tons of servers. We have to use open source because we can't afford licenses for Oracle databases. All of those constraints apply themselves to our situation and then just produces an explosion of creativity because that's what very often happens when you are deprived in all the right ways. I could not use the same technology as everyone else was using because I had a 10th, a hundredth, a thousandth of the capacity. Therefore, I had to use something else. I am forever grateful that these were the constraints we were under.",
+      "source_time_s": 853,
+      "compressed_time_s": 259
+    },
+    {
+      "speaker": "shaan",
+      "name": "Shaan Puri",
+      "text": "One thing you got wrong famously was you wrote this post called Facebook is not worth $33 billion.",
+      "source_time_s": 1188,
+      "compressed_time_s": 331
+    }
+  ]
+}

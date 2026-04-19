@@ -1,0 +1,77 @@
+{
+  "id": "ep_017",
+  "source_url": "https://pdst.fm/e/traffic.megaphone.fm/HS8527435967.mp3?updated=1711033099",
+  "source_title": "Elon Musk SUES Sam Altman",
+  "source_duration_s": 3601,
+  "compressed_duration_s": 347,
+  "speakers": [
+    "Shaan Puri",
+    "Sam Parr"
+  ],
+  "audio_url": "/audio/ep_017.mp3",
+  "paragraphs": [
+    {
+      "speaker": "shaan",
+      "name": "Shaan Puri",
+      "text": "Robots are going wild. Tesla's pushing humanoid robots, and Figure just raised $600 million at a $3 billion valuation. Labor is 50% of GDP\u2014the labor market is 10 times bigger than transportation. That's why Elon says forget cars, it's all about AI robots. But I want to talk about single-purpose robots\u2014Roombas on steroids. The dishwasher is in every home in the US, saves tons of time. We should be striving to create something as useful as the dishwasher. That should be the North Star.",
+      "source_time_s": 60,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "shaan",
+      "name": "Shaan Puri",
+      "text": "I found this company called Electric Sheep. They're building lawn-mowing robots, but here's the twist: they're buying up landscaping businesses in the Bay Area. It's a combination sweaty startup and moonshot startup. They need a testing ground for robots\u2014you have to work in the real world with lumps, dips, trees, rocks. Same way Tesla collects data from all cars on the road, Electric Sheep is doing that with lawn care. They buy landscaping businesses at one valuation, slowly replace workers with robots, improve margins. It's like a private equity play. I found it fascinating, though maybe doing two hard things at once is overkill.",
+      "source_time_s": 240,
+      "compressed_time_s": 37
+    },
+    {
+      "speaker": "sam",
+      "name": "Sam Parr",
+      "text": "I looked at their website. Their advisor is Dan Foley, who sold to Brightview. Brightview is a publicly traded commercial landscaping company that did roughly $3 billion last year in revenue. I called it small, then I googled and realized I'm an idiot. I'm only one Google away from saying sorry.",
+      "source_time_s": 510,
+      "compressed_time_s": 83
+    },
+    {
+      "speaker": "shaan",
+      "name": "Shaan Puri",
+      "text": "Before general AI we get specific AI\u2014chess, route planning, math. Similarly, we'll see specific single-job robots before general robots that can do all jobs. Sweetgreen's CEO is a listener of the pod. They bought a robotics company for $50 million and built their infinite kitchen\u2014a robot-driven restaurant. One person in the store, rest is robots. It does 500 bowls per hour. Normally a human line does 170 to 200. You get 2x the speed, works 24-7, never calls in sick, perfect portion control. You trade OpEx for CapEx. Extra $500K upfront investment, but you get at least 7% extra net margin. In 10 years, odds are very high restaurants will be robot-driven.",
+      "source_time_s": 600,
+      "compressed_time_s": 106
+    },
+    {
+      "speaker": "sam",
+      "name": "Sam Parr",
+      "text": "I own a business with warehouse workers. Our annual turnover was about 90%. Amazon's is 100%. I asked Brett from Figure: are you preparing to be the most hated man in America? He said there's all these warehouses no one will work at\u2014they literally can't convince people. Average turnover is 100%. My first job was laborer and dishwasher. I think between now and whenever this moment happens\u2014five years, 20 years\u2014the name of the game is pile away as much money as you can, set up your life to get through this winter that's never going to end.",
+      "source_time_s": 960,
+      "compressed_time_s": 156
+    },
+    {
+      "speaker": "shaan",
+      "name": "Shaan Puri",
+      "text": "The Sweetgreen guy said the key is not to retrofit the restaurant. Everybody tries to install a robotic arm in existing layouts. His quote: 'I'm willing to blow the whole thing up.' They thought from first principles\u2014if robots work the line, how would you design every part of this restaurant? They did two this year, now doing 10 more. There's also Kernel by Steve Ells, the Chipotle founder\u2014a vegan bowl concept. Pizza is the big prize. It's a single item, most popular fast casual food, owned by chains. If you can build a pizza bot, you'll sell into all the Domino's, all the Pizza Huts. Even if that thing costs $500,000, you'll be able to sell it.",
+      "source_time_s": 1680,
+      "compressed_time_s": 199
+    },
+    {
+      "speaker": "shaan",
+      "name": "Shaan Puri",
+      "text": "Now let's talk about this lawsuit. Elon is a master of PR. Tesla spends nothing on TV commercials, yet Tesla's brand is huge. With this lawsuit, he's going to lose the legal battle but win the PR war. In 2015, Elon was worried Google buying DeepMind meant AGI would be in the hands of the biggest monopoly. He hung out with Larry Page and said AI could eradicate the human race. Larry replied, 'That'll just be evolution. Don't be such a specious Elon'\u2014meaning you're favoring the human species. Elon said, 'I'm pro-human.' That's when he stopped talking to Larry Page.",
+      "source_time_s": 2100,
+      "compressed_time_s": 251
+    },
+    {
+      "speaker": "shaan",
+      "name": "Shaan Puri",
+      "text": "Elon tried to emergency raise $500 million to buy DeepMind before Google, but failed. Then Sam Altman proposed creating a nonprofit AI lab to catch up with Google\u2014the Manhattan Project for AI. Original idea was inside Y Combinator. Sam's email said no person will have control, they'll get equity in YC as compensation. Elon's reply: 'Agree on all.' They started OpenAI, named by Elon to be open source. In five years Elon contributed $44 million. Now he says he owns nothing in OpenAI the for-profit company.",
+      "source_time_s": 2520,
+      "compressed_time_s": 295
+    },
+    {
+      "speaker": "shaan",
+      "name": "Shaan Puri",
+      "text": "Elon's strongest argument: how can you create a nonprofit, raise millions in tax-deductible donations, hire the best people, then flip to a closed-source, maximum for-profit",
+      "source_time_s": 2880,
+      "compressed_time_s": 333
+    }
+  ]
+}
