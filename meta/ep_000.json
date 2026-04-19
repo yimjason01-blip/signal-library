@@ -1,0 +1,91 @@
+{
+  "id": "ep_000",
+  "source_url": "https://api.substack.com/feed/podcast/187852154/cecdbe38125e2786cbfebe31dd083d4f.mp3",
+  "source_title": "Dario Amodei \u2014 \"We are near the end of the exponential\"",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 308,
+  "speakers": [
+    "Dwarkesh Patel",
+    "Dario Amodei"
+  ],
+  "audio_url": "/audio/ep_000.mp3",
+  "paragraphs": [
+    {
+      "speaker": "dario",
+      "name": "Dario Amodei",
+      "text": "The underlying technology, the exponential of the technology, has gone broadly speaking about as I expected it to go. The frontier is a little bit uneven. It's roughly what I expected. But the most surprising thing has been the lack of public recognition of how close we are to the end of the exponential. To me, it is absolutely wild that you have people talking about these same tired, old, hot button political issues and around us, we're near the end of the exponential.",
+      "source_time_s": 8,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "dwarkesh",
+      "name": "Dwarkesh Patel",
+      "text": "Three years ago, there were these well-known public trends across many orders of magnitude of compute. Now we have RL scaling and there's no publicly known scaling law for it. What is the scaling hypothesis at this point?",
+      "source_time_s": 86,
+      "compressed_time_s": 37
+    },
+    {
+      "speaker": "dario",
+      "name": "Dario Amodei",
+      "text": "I have actually the same hypothesis that I had all the way back in 2017. I wrote a doc called The Big Blob of Compute Hypothesis. The hypothesis is basically the same as Rich Sutton's bitter lesson. All the cleverness, all the techniques don't matter very much. There are only a few things that matter: how much raw compute you have, the quantity of data, the quality and distribution of data, how long you train for, and you need an objective function that can scale to the moon. The pre-training objective function is one such objective function. Another is the RL objective function that says you have a goal, you're going to go out and reach the goal.",
+      "source_time_s": 118,
+      "compressed_time_s": 54
+    },
+    {
+      "speaker": "dario",
+      "name": "Dario Amodei",
+      "text": "We're seeing the same scaling in RL that we saw for pre-training. We train the model on math contests, AIME or other things. How well the model does is log linear in how long we've trained it. And we see that as well. It's not just math contest. It's a wide variety of RL tasks.",
+      "source_time_s": 284,
+      "compressed_time_s": 106
+    },
+    {
+      "speaker": "dwarkesh",
+      "name": "Dwarkesh Patel",
+      "text": "Rich Sutton is actually very non LLM-pilled. Something which possesses the true core of human learning would not require all these billions of dollars of data and compute and these bespoke environments to learn how to use Excel or navigate a web browser. The fact that we have to build in these skills using these RL environments hints that we're lacking this core human learning algorithm.",
+      "source_time_s": 326,
+      "compressed_time_s": 131
+    },
+    {
+      "speaker": "dario",
+      "name": "Dario Amodei",
+      "text": "We're starting with first very simple RL tasks, like training on math competitions. Then we're moving to broader training that involves things like code as a task. Now we're moving to do many, many other tasks. And then I think we're going to increasingly get generalization. There is a genuine puzzle here. The models start from scratch and they have to get much more training. But once they're trained, if we give them a long context length, they're very good at learning and adapting within that context length. I think pre-training is somewhere between the process of human evolution and the process of human learning.",
+      "source_time_s": 419,
+      "compressed_time_s": 160
+    },
+    {
+      "speaker": "dario",
+      "name": "Dario Amodei",
+      "text": "On the basic hypothesis of within 10 years, we'll get to what I call country of geniuses in a data center, I'm at like 90% on that. And it's hard to go much higher than 90% because the world is so unpredictable. I think with coding, except for that irreducible uncertainty, I mean, I think we'll be there in one or two years. There's no way we will not be there in 10 years in terms of being able to do end-to-end coding.",
+      "source_time_s": 833,
+      "compressed_time_s": 207
+    },
+    {
+      "speaker": "dwarkesh",
+      "name": "Dwarkesh Patel",
+      "text": "If you think about humans, you're good at things which we get a verifiable reward and things which we don't. Why are we doing all this RL scaling if we do think there's something that's going to be human-like in its ability to learn on the fly?",
+      "source_time_s": 903,
+      "compressed_time_s": 244
+    },
+    {
+      "speaker": "dario",
+      "name": "Dario Amodei",
+      "text": "The goal is not to teach the model every possible skill within RL, just as we don't do that within pre-training. The model trains on a lot of things and then it reaches generalization across pre-training. That was the transition from GPT-1 to GPT-2. We're trying to get a whole bunch of data, not because we want to cover a specific document or a specific skill, but because we want to generalize.",
+      "source_time_s": 1113,
+      "compressed_time_s": 264
+    },
+    {
+      "speaker": "dario",
+      "name": "Dario Amodei",
+      "text": "There's this bizarre 10x per year growth in revenue that we've seen. In 2023 it was zero to a hundred million. 2024 it was a hundred million to a billion. 2025 it was a billion to like nine or ten billion. The first month of this year, we added another few billion to revenue in January. Obviously that curve can't go on forever. The GDP is only so large. I would even guess that it bends somewhat this year. But that is a fast curve.",
+      "source_time_s": 1621,
+      "compressed_time_s": 296
+    },
+    {
+      "speaker": "dwarkesh",
+      "name": "Dwarkesh Patel",
+      "text": "Diffusion is cope. If the model isn't able to do something they're like, oh, but it's a diffusion issue.",
+      "source_time_s": 1749,
+      "compressed_time_s": 334
+    }
+  ]
+}
