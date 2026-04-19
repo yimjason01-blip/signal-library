@@ -1,0 +1,56 @@
+{
+  "id": "ep_044",
+  "source_url": "https://traffic.libsyn.com/secure/foundmyfitness/exercise-intensity-journal-club-final-public-audio.mp3?dest-id=184296",
+  "source_title": "#108 The Best Type of Exercise for Longevity",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 323,
+  "speakers": [
+    "Rhonda Patrick",
+    "Brady Homer"
+  ],
+  "audio_url": "/audio/ep_044.mp3",
+  "paragraphs": [
+    {
+      "speaker": "rhonda",
+      "name": "Rhonda Patrick",
+      "text": "Today we're diving into a fascinating discussion about exercise intensity. Most of us have long accepted the simple guideline that one minute of vigorous exercise equals two minutes of moderate exercise. It's intuitive, neat, convenient, but what if it's fundamentally inaccurate? That rule has shaped global physical activity guidelines for decades, yet it was largely based on calorie burn, not hard endpoints like mortality, cardiovascular events, diabetes, or cancer. Joining me to explore this important topic is endurance athlete, Brady Homer, who has a master's in human performance and has collaborated with me before on the FoundMyFitness comprehensive training guide. Today, we're breaking down a groundbreaking new study published in Nature Communications that used objective device-based data to challenge decades of conventional exercise wisdom and guidelines.",
+      "source_time_s": 0,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "rhonda",
+      "name": "Rhonda Patrick",
+      "text": "For decades now, we have these physical activity guidelines put out by the World Health Organization and other organizations that essentially state for optimal health, you want to be engaging in about 150 to 300 minutes of moderate intensity physical activity per week. Or if you're going to be doing vigorous type of physical activity, that would be more like 75 to 150 minutes. So essentially, you have this one to two rule where for every one minute of vigorous intensity physical activity, you're doing two minutes of moderate intensity activity. The origin of this one to two rule really didn't come from direct measurements of health outcomes. Essentially, it's researchers that calculated for vigorous intensity exercise, you're burning about twice as many calories as you do for moderate intensity exercise. So it really comes down to energy expenditure, not health outcomes.",
+      "source_time_s": 13,
+      "compressed_time_s": 56
+    },
+    {
+      "speaker": "brady",
+      "name": "Brady Homer",
+      "text": "The foundation of these recommendations is based on the idea of metabolic equivalent, or metabolic equivalent of task, people maybe will have heard that referred to as METS. And basically it is just what's the caloric expenditure of these various different activities. Light activity might be somewhere between zero to three METS, moderate activity three to six METS, vigorous activity over six METS. And it's basically saying what's your oxygen consumption or your calorie burn during these activities. So by that logic, yes, moderate activity might be three to six METS. Well, if you're going harder than that, that's double the METS, double the caloric expenditure. So you need half as much physical activity to get the same health benefit as the more moderate intensity activity. That kind of formed the foundation of that 75 to 150 minutes of vigorous, 150 to 300 minutes of moderate. But are we just focused on calorie burn? Health is a lot more than just burning calories.",
+      "source_time_s": 61,
+      "compressed_time_s": 119
+    },
+    {
+      "speaker": "rhonda",
+      "name": "Rhonda Patrick",
+      "text": "I think people that are more focused on weight loss aren't necessarily the people that are looking at the physical activity guidelines. Those are the people that are counting calories. People that are actually looking at the physical activity health guidelines generally in their mind have this concept of how much exercise do I need to age better, right? That's generally what people are thinking when they're looking at these guidelines. So it's kind of unfair because these guidelines, if they aren't necessarily indicating how much exercise we need to do or what type of exercise we need to do to really age better, then it's time to change these guidelines.",
+      "source_time_s": 149,
+      "compressed_time_s": 191
+    },
+    {
+      "speaker": "brady",
+      "name": "Brady Homer",
+      "text": "This study was by a group led by Stan Matakis as the first author. Importantly, they're the group behind a lot of these VILPA studies, the Vigorous Intermittent Lifestyle Physical Activity Studies. They mined data from the UK Biobank. They focused on more than 73,000 adults who were aged 40 to 79 and tracked them over eight years. The important part of the study is how they measured their physical activity. It was measured using wrist-worn accelerometers. They wore it for a week at the baseline of the study. Then that was used to establish physical activity levels for these individuals. The major strength of this study was instead of self-report, which a lot of the previous studies for the guidelines did, this one was objective data. It captured what exercise they were doing, but also everything they did throughout the day. This device was measuring every single activity in 10 second bursts throughout the day.",
+      "source_time_s": 283,
+      "compressed_time_s": 240
+    },
+    {
+      "speaker": "rhonda",
+      "name": "Rhonda Patrick",
+      "text": "The biggest headline from this study was that vigorous intensity physical activity wasn't twice as better than moderate intensity. We're talking anywhere between four times better to almost 10 times better than moderate intensity exercise, which is pretty big. When it comes to all-cause mortality, one minute of vigorous intensity physical activity was equivalent to about four minutes of moderate intensity activity. But it actually gets even bigger when we look at cardiovascular-related mortality.",
+      "source_time_s": 345,
+      "compressed_time_s": 310
+    }
+  ]
+}

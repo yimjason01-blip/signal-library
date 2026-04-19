@@ -1,0 +1,63 @@
+{
+  "id": "ep_043",
+  "source_url": "https://traffic.libsyn.com/secure/foundmyfitness/public_audio.mp3?dest-id=184296",
+  "source_title": "#083 How Vitamin D, Omega-3s, & Exercise May Increase Longevity | Dr. Rhonda Patrick",
+  "source_duration_s": 3633,
+  "compressed_duration_s": 340,
+  "speakers": [
+    "Rhonda Patrick",
+    "Host"
+  ],
+  "audio_url": "/audio/ep_043.mp3",
+  "paragraphs": [
+    {
+      "speaker": "rhonda",
+      "name": "Rhonda Patrick",
+      "text": "I think when it comes to the easiest things people can do, it usually comes down to unfortunately taking a pill. Micronutrient inadequacies are a widespread problem in the United States where about 30 to 40 essential vitamins, minerals, fatty acids, and amino acids have to come from our diet. Vitamin D is an easy one. About 70% of the US population has inadequate vitamin D, defined as less than 30 nanograms per milliliter. There have been many meta-analyses dating back to the 1960s showing that having levels above 30 is associated with lower all-cause mortality. People are less likely to die from non-accidental causes whether that's cardiovascular disease, cancer, or respiratory disease.",
+      "source_time_s": 91,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "rhonda",
+      "name": "Rhonda Patrick",
+      "text": "Why is widespread deficiency so common? We're inside in our cubicles, offices, with our technological advances. We don't spend as much time outside doing the outdoors jobs that were common 100 years ago. A 70-year-old person makes literally 25% of what they made as their 20-year-old self. Melanin, that pigment that acts as a natural sunscreen, is a filter for UVB radiation which needs to penetrate through the skin to start vitamin D3 synthesis. People that are deficient and supplement with about 4,000 IUs per day can bring their self up to a sufficient level closer to 40 nanograms per mil. 4,000 IUs per day is actually the tolerable upper intake set by the Institute of Medicine.",
+      "source_time_s": 284,
+      "compressed_time_s": 50
+    },
+    {
+      "speaker": "rhonda",
+      "name": "Rhonda Patrick",
+      "text": "Vitamin D gets converted into a steroid hormone. It goes to the liver, converted to 25-hydroxyvitamin D, the major circulating metabolite. Then it goes to the kidneys where it's converted into the steroid hormone 125-hydroxyvitamin D. Imagine if 70% of men in the United States were deficient in testosterone\u2014that would be terrible. Vitamin D enters the nucleus of a cell where all your DNA is, binds to a receptor, and turns genes on and off in a coordinated fashion. These are genes important for brain function, serotonin synthesis, and immune function, which is why vitamin D plays such a critical role in helping prevent respiratory diseases.",
+      "source_time_s": 412,
+      "compressed_time_s": 102
+    },
+    {
+      "speaker": "rhonda",
+      "name": "Rhonda Patrick",
+      "text": "Another low-hanging fruit is magnesium. About 50% of the U.S. population does not get adequate intake. The RDA was set at around 400 milligrams per day for an adult. If you're physically active, you can excrete magnesium through sweat, so physically active adults require anywhere between 10% to 20% more than the RDA. Magnesium is an essential cofactor for over 300 different enzymes. Everything from enzymes that repair damage to our DNA to DNA synthesis when we're making new cells. People with the highest magnesium levels have a 40% lower all-cause mortality and a 50% lower cancer mortality compared to people with the lowest magnesium levels.",
+      "source_time_s": 507,
+      "compressed_time_s": 149
+    },
+    {
+      "speaker": "rhonda",
+      "name": "Rhonda Patrick",
+      "text": "Omega-3 is probably one of the most important nutrients that's really overlooked. There was a study from Harvard in 2009 that identified marine sources of omega-3 as one of the top six preventable causes of death. It was calculated that about 84,000 deaths per year were attributed to not getting enough EPA and DHA from the diet. This was comparable to people eating trans fats\u201482,000 deaths per year. You don't walk into a supermarket and nothing says this isn't seafood, but everything tells you about trans fats. The conversion of ALA into EPA and DHA is very inefficient with widespread genetic differences. Some people have an alteration in the desaturase gene and do it quite well, but the majority have another version that are not so great at it.",
+      "source_time_s": 1220,
+      "compressed_time_s": 196
+    },
+    {
+      "speaker": "rhonda",
+      "name": "Rhonda Patrick",
+      "text": "The omega-3 index measures EPA and DHA in red blood cell membranes. Most people in the United States have an omega-3 index of less than 5%. Bill Harris has shown from multiple studies that people with an omega-3 index of 8% have a five-year increased life expectancy compared to those with 4%. What was so interesting: smokers with a high omega-3 index, they were smoking but also eating a lot of fish, had the same life expectancy as non-smokers with a low omega-3 index. Smoking was like being deficient in omega-3. Studies show 1.5 to 2 grams a day supplemental omega-3 can bring people from a 4% omega-3 index to an 8%.",
+      "source_time_s": 1587,
+      "compressed_time_s": 253
+    },
+    {
+      "speaker": "rhonda",
+      "name": "Rhonda Patrick",
+      "text": "Exercise is probably the biggest and most important thing irrespective of anything else. Being physically active is the most important thing for healthy aging, for staving off dementia, cancer, cardiovascular disease\u2014all the age-related diseases. There's these vigorous intensity lifestyle physical activity studies where people have worn accelerometers. Doing one minute to three minutes of vigorous intensity three times a day\u2014exercise snacks like burpees or hill sprints\u2014have shown anywhere between 30 to 40% lower all-cause mortality and cancer-related mortality. When you reach 80% maximum heart rate, you make lactate.",
+      "source_time_s": 2853,
+      "compressed_time_s": 303
+    }
+  ]
+}

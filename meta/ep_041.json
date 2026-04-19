@@ -1,0 +1,62 @@
+{
+  "id": "ep_041",
+  "source_url": "https://traffic.libsyn.com/secure/peterattiadrive/EP.XX_-_Obicetrapib_AMA_FINAL.mp3?dest-id=713489",
+  "source_title": "#384 - Special episode \u2014 Obicetrapib: The CETP inhibitor with cardiovascular benefits and potential Alzheimer's prevention",
+  "source_duration_s": 3159,
+  "compressed_duration_s": 339,
+  "speakers": [
+    "Peter Attia"
+  ],
+  "audio_url": "/audio/ep_041.mp3",
+  "paragraphs": [
+    {
+      "speaker": "peter",
+      "name": "Peter Attia",
+      "text": "Welcome to a special episode of the DRIVE. In this episode, I take a slightly different approach where I'm going to walk you through a single topic in depth, breaking down the science behind, in this case, a drug that caught my attention and has me very excited. The drug is called Obicetrapib. So I'm going to explain what it is, why it's generating renewed interest in cardiovascular medicine, at least as a class of drug, and why the emerging data may also have implications for Alzheimer's disease, particularly for those who carry an E4 allele.",
+      "source_time_s": 64,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "peter",
+      "name": "Peter Attia",
+      "text": "Today I'd like to talk about a drug called Obicetrapib. Now this is a drug that's primarily being investigated because of its ability to reduce LDL cholesterol and with it ApoB, but more broadly I want to talk about this drug in the spirit of cautious optimism as it pertains to Alzheimer's disease. Obicetrapib is a CETP or C-TEP inhibitor, which is a class of drug with a very complicated and quite honestly a very fascinating history in cardiovascular disease medicine. But in a recent large phase three lipid trial, there was a pre-specified biomarker study that looked at Alzheimer's related blood biomarkers for a period of about 12 months. And in these studies, or in this study rather, the investigators saw an attenuation of P-tau-217 progression with a very strong signal in the ApoE44 individuals.",
+      "source_time_s": 183,
+      "compressed_time_s": 42
+    },
+    {
+      "speaker": "peter",
+      "name": "Peter Attia",
+      "text": "To understand why this class of drug works, you have to understand something called reverse cholesterol transport. And to understand how reverse cholesterol transport works, you kind of got to go back and understand lipoproteins. There are broadly speaking two classes of lipoproteins. There's an ApoB class and there's an ApoA1 class. The ApoB class is the one you've heard me talk about a ton because those ApoB lipoproteins are the ones that cause atherosclerosis. They start out as VLDLs, very low density lipoproteins, before ultimately maturing as LDLs or low density lipoproteins. On the other side of the ledger, we have these things called HDLs or high density lipoproteins, and they're structurally different. They have a different lipoprotein that wraps around them, and that lipoprotein is called ApoA1.",
+      "source_time_s": 326,
+      "compressed_time_s": 103
+    },
+    {
+      "speaker": "peter",
+      "name": "Peter Attia",
+      "text": "What is reverse cholesterol transport? Historically, it has simply been viewed as HDLs returning cholesterol molecules from the body to the liver. But there's also something called indirect RCT, and here is where, this is actually kind of cool, the HDL doesn't deliver the cholesterol itself. Instead, it exchanges its cholesterol ester for the triglycerides inside the ApoB particle, which is usually the LDL. It's important to understand that an enormous amount of reverse cholesterol transport takes place via this route, some 40 to 50% of it. Now what does all this thing have to do with CTEP? CTEP stands for cholesterol ester transfer protein. You can think of the CTEP as a molecular shuttle that exchanges the cholesterol ester in the HDL for the triglyceride molecule in the LDL as part of this indirect reverse cholesterol transport pathway.",
+      "source_time_s": 533,
+      "compressed_time_s": 160
+    },
+    {
+      "speaker": "peter",
+      "name": "Peter Attia",
+      "text": "Let's talk about the very first of these CETP inhibitors, which was torcetrapib. This was a Pfizer drug. It was put into a study paired with atorvastatin. Drug gets stopped prematurely in 2006 because of increased mortality, which was secondary to it raising blood pressure. This turned out to be an off target toxicity, meaning the drug was doing something that was raising blood pressure that had nothing to do with C-type. Fast forward about six years to dalcetrapib, which is a Roche drug. This raised HDL cholesterol by 30 to 40%, but it didn't really meaningfully lower LDL or ApoB. And not surprisingly then, given what we know today, which is it's not the rise of HDL that matters, it's the fall of LDL or ApoB that matters. This didn't move the needle and the drug was abandoned.",
+      "source_time_s": 817,
+      "compressed_time_s": 222
+    },
+    {
+      "speaker": "peter",
+      "name": "Peter Attia",
+      "text": "In the phase two trial, known as the ROSE trial, Obicetrapib was added to high-intensity statin therapy, and the drug produced reductions in LDL cholesterol that were enormous. An additional 50% reduction in LDL cholesterol on top of high statin therapy, or high-intensity statin therapy, and an ApoB reduction of 30%. All of this then feeds into the phase three trials, which are Broadway, which was looking at Obicetrapib on top of maximum lipid-lowering therapy, and Brooklyn, which was a trial done specifically in patients with familial hypercholesterolemia. So Broadway enrolls 2,500 patients with established atherosclerotic disease, or FH, familial hypercholesterolemia, who are already receiving maximum therapy.",
+      "source_time_s": 1404,
+      "compressed_time_s": 284
+    },
+    {
+      "speaker": "peter",
+      "name": "Peter Attia",
+      "text": "When 10 milligrams daily of Obicetrapib was added to background therapy, LDL cholesterol fell by an additional 30%, three months out compared to a 3% increase in the placebo group.",
+      "source_time_s": 1686,
+      "compressed_time_s": 331
+    }
+  ]
+}

@@ -834,7 +834,16 @@
     "duration_min": 85,
     "category": "health",
     "description": "<p><a href= \"https://peterattiamd.com/longevity101/?utm_source=podcast-feed&utm_medium=referral&utm_campaign=240729-pod-longevity101&utm_content=240729-pod-longevity101-podfeed\"> View the Show Notes Page for This Episode</a></p> <p><a href= \"https://peterattiamd.com/subscribe/?utm_source=podcast-feed&utm_medium=referral&utm_campaign=240729-pod-longevity101&utm_content=240729-pod-longevity101-podfe",
-    "source_show_url": "https://rss.libsyn.com/shows/121729/destinations/713489.xml"
+    "source_show_url": "https://rss.libsyn.com/shows/121729/destinations/713489.xml",
+    "compressed": {
+      "compressed_duration_s": 368,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Peter Attia",
+        "Nick"
+      ],
+      "mp3_size_mb": 5.89
+    }
   },
   {
     "id": "ep_041",
@@ -846,7 +855,15 @@
     "duration_min": 53,
     "category": "health",
     "description": "<p><a href= \"https://peterattiamd.com/obicetrapib/?utm_source=podcast-feed&utm_medium=referral&utm_campaign=260316-pod-obicetrapib&utm_content=260316-pod-obicetrapib-podfeed\"> View the Show Notes Page for This Episode</a></p> <p><a href= \"https://peterattiamd.com/subscribe/?utm_source=podcast-feed&%20obicetrapib%20=referral&utm_campaign=260316-pod-obicetrapib&utm_content=260316-pod-obicetrapib-pod",
-    "source_show_url": "https://rss.libsyn.com/shows/121729/destinations/713489.xml"
+    "source_show_url": "https://rss.libsyn.com/shows/121729/destinations/713489.xml",
+    "compressed": {
+      "compressed_duration_s": 339,
+      "source_duration_s": 3159,
+      "speakers": [
+        "Peter Attia"
+      ],
+      "mp3_size_mb": 5.43
+    }
   },
   {
     "id": "ep_042",
@@ -858,7 +875,16 @@
     "duration_min": 86,
     "category": "health",
     "description": "<p><span style=\"font-weight: 400;\">This episode features a discussion with</span> <strong>MedCram</strong> <span style= \"font-weight: 400;\">co-founder Kyle Allred on the effects of sauna. I had the pleasure of being interviewed by Kyle on all things sauna science and we're posting that discussion for you here. As an exercise mimetic, sauna use has anti-inflammatory, mood-elevating, and detoxifying",
-    "source_show_url": "https://rss.libsyn.com/shows/51714/destinations/184296.xml"
+    "source_show_url": "https://rss.libsyn.com/shows/51714/destinations/184296.xml",
+    "compressed": {
+      "compressed_duration_s": 293,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Dr. Rhonda Patrick",
+        "Kyle Allred"
+      ],
+      "mp3_size_mb": 4.7
+    }
   },
   {
     "id": "ep_043",
@@ -870,7 +896,16 @@
     "duration_min": 61,
     "category": "health",
     "description": "<p>This episode features Rhonda Patrick, Ph.D., and was originally recorded for the Institute for Functional Medicine's podcast, 'Pathways to Wellbeing.' This episode outlines a series of fundamental tactics you can start applying immediately to enhance cellular health, protect the nervous system, elevate mood, reduce inflammation, promote muscle and bone function, and help prevent chronic disease",
-    "source_show_url": "https://rss.libsyn.com/shows/51714/destinations/184296.xml"
+    "source_show_url": "https://rss.libsyn.com/shows/51714/destinations/184296.xml",
+    "compressed": {
+      "compressed_duration_s": 340,
+      "source_duration_s": 3633,
+      "speakers": [
+        "Rhonda Patrick",
+        "Host"
+      ],
+      "mp3_size_mb": 5.45
+    }
   },
   {
     "id": "ep_044",
@@ -882,7 +917,16 @@
     "duration_min": 139,
     "category": "health",
     "description": "<p><a href= \"https://www.foundmyfitness.com/aliquot?utm_campaign=exercise_intensity_podcast&utm_medium=podcast&utm_source=podcast_description\"> Get access to\u00a0<strong>more than 200 episodes</strong> of my premium podcast (The Aliquot) when you sign up as a FoundMyFitness Premium Member</a></p> <p><a href=\"https://howtotrainguide.com/\"><strong id= \"docs-internal-guid-80a6590d-7fff-7e57-5350-88250b1f",
-    "source_show_url": "https://rss.libsyn.com/shows/51714/destinations/184296.xml"
+    "source_show_url": "https://rss.libsyn.com/shows/51714/destinations/184296.xml",
+    "compressed": {
+      "compressed_duration_s": 323,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Rhonda Patrick",
+        "Brady Homer"
+      ],
+      "mp3_size_mb": 5.18
+    }
   },
   {
     "id": "ep_045",
