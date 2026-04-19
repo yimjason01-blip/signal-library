@@ -938,7 +938,17 @@
     "duration_min": 80,
     "category": "business",
     "description": "My guests this week are the co-founders of Stripe, Patrick and John Collison. My conversation with John in 2020 is still one of our most popular. A key theme that emerged from that first discussion was John\u2019s boundless curiosity for all things business and this conversation continues that thread. We talk about setting a strategy and culture that attracts ambition, why the returns to sweating the d",
-    "source_show_url": "https://feeds.megaphone.fm/CLS2859450455"
+    "source_show_url": "https://feeds.megaphone.fm/CLS2859450455",
+    "compressed": {
+      "compressed_duration_s": 305,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Patrick O'Shaughnessy",
+        "John Collison",
+        "Patrick Collison"
+      ],
+      "mp3_size_mb": 4.88
+    }
   },
   {
     "id": "ep_046",
@@ -950,7 +960,17 @@
     "duration_min": 102,
     "category": "business",
     "description": "Today, we\u2019re replaying a conversation between John Collison and Charlie Munger that we first aired on 5 December 2023. Charlie said, \u201cThe best thing a human being can do is to help another human being know more.\u201d He does just that in this interview. Please enjoy, and may Charlie Rest in Peace.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page here.\n--",
-    "source_show_url": "https://feeds.megaphone.fm/CLS2859450455"
+    "source_show_url": "https://feeds.megaphone.fm/CLS2859450455",
+    "compressed": {
+      "compressed_duration_s": 290,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Patrick O'Shaughnessy",
+        "John Collison",
+        "Charlie Munger"
+      ],
+      "mp3_size_mb": 4.66
+    }
   },
   {
     "id": "ep_047",
@@ -974,7 +994,16 @@
     "duration_min": 124,
     "category": "business",
     "description": "No episode in the eight-year history of The Knowledge Project has made a bigger impact than when Naval Ravikant appeared on the show in 2017. Be it for longtime listeners who heard Naval when this episode first aired or for newer fans who missed Naval\u2019s incredible insights, this is a must-listen to fans of The Knowledge Project and for those looking to hear from a deep thinker with an incredible w",
-    "source_show_url": "https://feeds.megaphone.fm/FSMI7575968096"
+    "source_show_url": "https://feeds.megaphone.fm/FSMI7575968096",
+    "compressed": {
+      "compressed_duration_s": 281,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Naval Ravikant",
+        "Shane Parrish"
+      ],
+      "mp3_size_mb": 4.51
+    }
   },
   {
     "id": "ep_049",

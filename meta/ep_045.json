@@ -1,0 +1,64 @@
+{
+  "id": "ep_045",
+  "source_url": "https://traffic.megaphone.fm/CLS4424904312.mp3?updated=1767961243",
+  "source_title": "Patrick Collison & John Collison - A Business State of Mind - [Invest Like the Best, EP.348]",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 305,
+  "speakers": [
+    "Patrick O'Shaughnessy",
+    "John Collison",
+    "Patrick Collison"
+  ],
+  "audio_url": "/audio/ep_045.mp3",
+  "paragraphs": [
+    {
+      "speaker": "patrick_oshaughnessy",
+      "name": "Patrick O'Shaughnessy",
+      "text": "I was talking to Will Thorndike about what was so interesting about Henry Singleton's life and career, and it was just wild adaptability. He just never held onto a strategy. He adapted and updated his strategy for the prevailing conditions, and it whiplashed around all the time. And then he did it for a very long period of time. I'm really curious about how you think about that vis-a-vis Stripe, when such a big part of its compounding potential is born of your two curiosities about the world and about business and about technology.",
+      "source_time_s": 147,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "john",
+      "name": "John Collison",
+      "text": "I think for founders, there's two kinds of curiosity that have a lot of business value. There's also a lot of forms of curiosity that don't have particular business value. On the business curiosity front, one is absolutely like you say, businesses are different at every scale. Stripe has been different as two people to 50 people to currently 7,000 people. I think you have to be curious about what is required to run a good company at that stage. I remember Tyler Cowen commenting about Magnus Carlsen that he entered some chess trivia contest that was just literally about chess trivia and won it. That's not a coincidence, I think, that the world's number one player has also studied the most about all the chess history.",
+      "source_time_s": 255,
+      "compressed_time_s": 41
+    },
+    {
+      "speaker": "patrick_collison",
+      "name": "Patrick Collison",
+      "text": "I think there's the line about whenever you see somebody make some observation about capitalism, you should replace that with people. In science, the returns to going down and unearthing the most fundamental laws seem to have diminished. But so much of science today is about what you find going up and combining things in different ways. AI and deep learning, we know how the transformer works, but we're still learning what the emergent effect of transformers can be. I think to some extent business is just the emergent effects of volitional, voluntary arrangements of people. And that just feels like an endlessly interesting thing to me.",
+      "source_time_s": 353,
+      "compressed_time_s": 98
+    },
+    {
+      "speaker": "john",
+      "name": "John Collison",
+      "text": "Sometimes what people interpret as a very strong cult of a founder is just a company having a very strong culture that the founder is a metonym for. Apple has this extremely strong design focus. That's a culture that can and indeed that Apple does exist separate from Steve Jobs. At SpaceX, it's a really high agency culture. At Starbase, they have all these issues with too many mosquitoes. So they're breeding dragonflies in paddling pools to eat the mosquitoes. They need energy, so they're deploying a solar farm. The guy giving us the tour, we asked, who built that? The person we asked was confused. They're like, well, you just figure it out and you just solve it. This wasn't something that comes from talking to Elon. This was just something that now deeply exists in the culture.",
+      "source_time_s": 641,
+      "compressed_time_s": 145
+    },
+    {
+      "speaker": "patrick_collison",
+      "name": "Patrick Collison",
+      "text": "I think a company has to stand for an idea. But I don't think it's going to work if it's overly individuated. I think it's hard to argue that Apple hasn't pretty meaningfully sustained that which Steve stood for. We deliberately articulate our mission as increasing the GDP of the internet. It's not something specifically about transactions. How do you have there be more businesses in the world and how do you have those businesses be more successful? I think that's a sufficiently rich vein to mine that we're not going to run out of curiosity aperture in the near term.",
+      "source_time_s": 708,
+      "compressed_time_s": 207
+    },
+    {
+      "speaker": "john",
+      "name": "John Collison",
+      "text": "At Stripe, I think a lot of where we've gotten to date and how Stripe has won market share, there's a bunch of stuff on the quality point and similarly on the high agency point. A big part of how the Stripe product suite has gotten to where it is today is not just self-defining as, okay, we're in this industry or this is what we do, but always be willing to come back to the customer problem of, we want to make trading online easier. And then what holds up businesses? Everyone's complaining about sales tax and VAT being hard. I guess we're getting into the software business now and we're solving sales tax for people.",
+      "source_time_s": 813,
+      "compressed_time_s": 252
+    },
+    {
+      "speaker": "patrick_collison",
+      "name": "Patrick Collison",
+      "text": "We really try to gear people towards what doesn't exist as opposed to what does. Rather than thinking about, well, where are there profit pools today that we can plant some flag and try to displace others, I think it's both easier and, honestly, just more fulfilling to think about, well, what are the profits that nobody's making? How can we build something that would enable that to happen? Global GDP is about an order of $100 trillion. Where's the next $50 trillion of GDP going to come from?",
+      "source_time_s": 946,
+      "compressed_time_s": 304
+    }
+  ]
+}
