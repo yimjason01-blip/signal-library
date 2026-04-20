@@ -1594,7 +1594,17 @@
     "duration_min": 158,
     "category": "philosophy",
     "description": "<p>This episode is a two-for-one, and that\u2019s because the podcast recently hit its 10-year anniversary and passed one billion downloads. To celebrate, I\u2019ve curated some of the best of the best\u2014some of my favorites\u2014from more than 700 episodes over the last decade. I could not be more excited. The episode features segments from episode #107 \"<a href=\"https://tim.blog/2015/09/25/jocko-willink",
-    "source_show_url": "https://rss.art19.com/tim-ferriss-show"
+    "source_show_url": "https://rss.art19.com/tim-ferriss-show",
+    "compressed": {
+      "compressed_duration_s": 284,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Tim Ferriss",
+        "Jocko Willink",
+        "Sebastian Junger"
+      ],
+      "mp3_size_mb": 4.56
+    }
   },
   {
     "id": "ep_077",
@@ -1606,7 +1616,18 @@
     "duration_min": 32,
     "category": "philosophy",
     "description": "<p>As we head into the new year, many of us feel like we\u2019re drowning in invisible complexity. So I wanted to hit pause and ask a simple question: <strong>What are 1-3 decisions that could dramatically simplify my life in 2026?</strong> To explore that, I invited three close friends and long-time listener favorites\u2014Derek Sivers, Seth Godin, and Martha Beck.</p><p><strong>This episode is br",
-    "source_show_url": "https://rss.art19.com/tim-ferriss-show"
+    "source_show_url": "https://rss.art19.com/tim-ferriss-show",
+    "compressed": {
+      "compressed_duration_s": 333,
+      "source_duration_s": 1938,
+      "speakers": [
+        "Tim Ferriss",
+        "Derek Sivers",
+        "Seth Godin",
+        "Martha Beck"
+      ],
+      "mp3_size_mb": 5.34
+    }
   },
   {
     "id": "ep_078",
