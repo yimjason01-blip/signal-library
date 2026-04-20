@@ -1883,7 +1883,15 @@
     "duration_min": 62,
     "category": "wildcard",
     "description": "What I learned from rereading Instant: The Story of Polaroid by Christopher Bonanos.\u00a0\n----\nRamp gives you everything you need to control spend, watch your costs, and optimize your financial operations \u2014all on a single platform. Make history's greatest entrepreneurs proud by going to Ramp and learning how they can help your business control your costs and save more.\u00a0\n----\nFounders Notes gives you t",
-    "source_show_url": "https://feeds.megaphone.fm/DSLLC6297708582"
+    "source_show_url": "https://feeds.megaphone.fm/DSLLC6297708582",
+    "compressed": {
+      "compressed_duration_s": 331,
+      "source_duration_s": 3738,
+      "speakers": [
+        "David Senra"
+      ],
+      "mp3_size_mb": 5.31
+    }
   },
   {
     "id": "ep_091",
@@ -1895,7 +1903,15 @@
     "duration_min": 58,
     "category": "wildcard",
     "description": "Warren Buffett and Charlie Munger said it was a crime that more business schools didn't study Henry Singleton. I think it's a crime that more entrepreneurs don't study Est\u00e9e Lauder. She is one of the best founders to ever do it. This is the story of how she went from a childhood obsession, to a single counter in a beauty salon, to a multibillion dollar empire.\u00a0\nThis is my third time reading this b",
-    "source_show_url": "https://feeds.megaphone.fm/DSLLC6297708582"
+    "source_show_url": "https://feeds.megaphone.fm/DSLLC6297708582",
+    "compressed": {
+      "compressed_duration_s": 304,
+      "source_duration_s": 3502,
+      "speakers": [
+        "David Senra"
+      ],
+      "mp3_size_mb": 4.87
+    }
   },
   {
     "id": "ep_092",
@@ -1907,7 +1923,15 @@
     "duration_min": 82,
     "category": "wildcard",
     "description": "For over 30 years the Berkshire Hathaway Annual meetings were recorded. Munger and Buffett answered over 1700 questions from shareholders during that period. Alex Morris watched hundreds of hours of these meetings and then he gathered, organized, and edited the most interesting ideas into 450+ pages \u2014 all in Buffett and Munger's own words. \u00a0I thought it would be fun to rip through a bunch of Munge",
-    "source_show_url": "https://feeds.megaphone.fm/DSLLC6297708582"
+    "source_show_url": "https://feeds.megaphone.fm/DSLLC6297708582",
+    "compressed": {
+      "compressed_duration_s": 286,
+      "source_duration_s": 4500,
+      "speakers": [
+        "David Senra"
+      ],
+      "mp3_size_mb": 4.59
+    }
   },
   {
     "id": "ep_093",
@@ -1919,7 +1943,16 @@
     "duration_min": 121,
     "category": "wildcard",
     "description": "A curated collection of Steve\u2019s speeches, interviews, and correspondence,\u00a0Make Something Wonderful\u00a0offers a window into how one of the world\u2019s most creative entrepreneurs approached his life and work. In these pages, Steve shares his perspective on his childhood, on launching and being pushed out of Apple, on his time with Pixar and NeXT, and on his return to the company that started it all. Read",
-    "source_show_url": "https://feeds.megaphone.fm/DSLLC6297708582"
+    "source_show_url": "https://feeds.megaphone.fm/DSLLC6297708582",
+    "compressed": {
+      "compressed_duration_s": 260,
+      "source_duration_s": 4500,
+      "speakers": [
+        "David Senra",
+        "Steve Jobs"
+      ],
+      "mp3_size_mb": 4.16
+    }
   },
   {
     "id": "ep_094",
@@ -1943,7 +1976,15 @@
     "duration_min": 27,
     "category": "wildcard",
     "description": "<p>Transcript: https://nav.al/happiness</p>",
-    "source_show_url": "https://rss.libsyn.com/shows/166112/destinations/1103966.xml"
+    "source_show_url": "https://rss.libsyn.com/shows/166112/destinations/1103966.xml",
+    "compressed": {
+      "compressed_duration_s": 276,
+      "source_duration_s": 1642,
+      "speakers": [
+        "Naval Ravikant"
+      ],
+      "mp3_size_mb": 4.42
+    }
   },
   {
     "id": "ep_096",
