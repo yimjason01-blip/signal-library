@@ -1168,7 +1168,16 @@
     "duration_min": 32,
     "category": "business",
     "description": "<p>(0:00) Introducing Sir Demis Hassabis, reflecting on his Nobel Prize win</p> <p>(2:39) What is Google DeepMind? How does it interact with Google and Alphabet?</p> <p>(4:01) Genie 3 world model</p> <p>(9:21) State of robotics models, form factors, and more</p> <p>(14:42) AI science breakthroughs, measuring AGI</p> <p>(20:49) Nano-Banana and the future of creative tools, democratization of creati",
-    "source_show_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml"
+    "source_show_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+    "compressed": {
+      "compressed_duration_s": 308,
+      "source_duration_s": 1907,
+      "speakers": [
+        "Host",
+        "Demis Hassabis"
+      ],
+      "mp3_size_mb": 4.94
+    }
   },
   {
     "id": "ep_057",
