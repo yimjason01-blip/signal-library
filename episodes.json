@@ -1683,7 +1683,16 @@
     "duration_min": 182,
     "category": "acquired",
     "description": "<p>Costco is not only Charlie Munger\u2019s favorite company of all time (plus he\u2019s on the board, natch), it\u2019s an absolutely fascinating study in how seemingly opposite characteristics can combine to create incredible company value. For instance: Costco has the cheapest prices of any major retailer in America \u2014 and also the wealthiest customer base. They pay their hourly workers 30% above the",
-    "source_show_url": "https://feeds.transistor.fm/acquired"
+    "source_show_url": "https://feeds.transistor.fm/acquired",
+    "compressed": {
+      "compressed_duration_s": 326,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Ben Gilbert",
+        "David Rosenthal"
+      ],
+      "mp3_size_mb": 5.23
+    }
   },
   {
     "id": "ep_081",
@@ -1695,7 +1704,16 @@
     "duration_min": 214,
     "category": "acquired",
     "description": "<p>We tell the full history of LVMH, and how Bernard Arnault turned a $15m investment in a bankrupt French textile company into the world\u2019s largest individual fortune. It\u2019s a story that\u2019s equal parts Berkshire Hathaway, Steve Jobs and Barbarians at the Gate\u2026 and wholly under-appreciated for the genius business model innovations that enabled it. Whatever industry you operate or invest in,",
-    "source_show_url": "https://feeds.transistor.fm/acquired"
+    "source_show_url": "https://feeds.transistor.fm/acquired",
+    "compressed": {
+      "compressed_duration_s": 324,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Ben Gilbert",
+        "David Rosenthal"
+      ],
+      "mp3_size_mb": 5.2
+    }
   },
   {
     "id": "ep_082",
@@ -1707,7 +1725,16 @@
     "duration_min": 250,
     "category": "acquired",
     "description": "<p>In luxury, there\u2019s Herm\u00e8s\u2026 and there\u2019s everyone else. Stewarded by one French family over six generations, Herm\u00e8s sells the absolute pinnacle of the French luxury dream. Loyal clients will wait <em>years</em> simply for the opportunity to buy one of the company\u2019s flagship Birkin or Kelly bags. Unlike every other luxury brand, Herm\u00e8s:</p><ul><li>Doesn\u2019t increase supply to meet demand (h",
-    "source_show_url": "https://feeds.transistor.fm/acquired"
+    "source_show_url": "https://feeds.transistor.fm/acquired",
+    "compressed": {
+      "compressed_duration_s": 326,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Ben Gilbert",
+        "David Rosenthal"
+      ],
+      "mp3_size_mb": 5.23
+    }
   },
   {
     "id": "ep_083",
@@ -1731,7 +1758,16 @@
     "duration_min": 179,
     "category": "acquired",
     "description": "<p>It's time. We wrap our Berkshire Hathaway trilogy with Warren and Charlie entering a new era: the age of the internet. Can they and Berkshire adapt to this brave new world? We find out. And, after 9+ hours, we render our final judgments on Berkshire and Warren's career. Is \"Never bet against America\" still the right longterm approach? Or is there another, even bigger Snowball out there",
-    "source_show_url": "https://feeds.transistor.fm/acquired"
+    "source_show_url": "https://feeds.transistor.fm/acquired",
+    "compressed": {
+      "compressed_duration_s": 313,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Ben Gilbert",
+        "David Rosenthal"
+      ],
+      "mp3_size_mb": 5.02
+    }
   },
   {
     "id": "ep_085",
