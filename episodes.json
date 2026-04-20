@@ -1639,7 +1639,17 @@
     "duration_min": 92,
     "category": "acquired",
     "description": "<p>We finally sit down with the man himself: Nvidia Cofounder &amp; CEO Jensen Huang. After three parts and seven+ hours of covering the company, we thought we knew everything but \u2014 unsurprisingly \u2014 Jensen knows more. A couple teasers: we learned that the company\u2019s initial motivation to enter the datacenter business came from perhaps not where you\u2019d think, and the roots of Nvidia\u2019s platfo",
-    "source_show_url": "https://feeds.transistor.fm/acquired"
+    "source_show_url": "https://feeds.transistor.fm/acquired",
+    "compressed": {
+      "compressed_duration_s": 288,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Ben Gilbert",
+        "David Rosenthal",
+        "Jensen Huang"
+      ],
+      "mp3_size_mb": 4.61
+    }
   },
   {
     "id": "ep_079",
@@ -1651,7 +1661,17 @@
     "duration_min": 177,
     "category": "acquired",
     "description": "<p>We flew to Taiwan to interview TSMC Founder Morris Chang in a rare English interview. In fact, the last long-form video interview we could find was 17 years ago at the Computer History Museum\u2026 conducted by the one-and-only Jensen Huang! This episode came about after asking ourselves a version of the Jeff Bezos \u201cregret minimization\u201d question: what conversations would we <em>most</em> re",
-    "source_show_url": "https://feeds.transistor.fm/acquired"
+    "source_show_url": "https://feeds.transistor.fm/acquired",
+    "compressed": {
+      "compressed_duration_s": 306,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Ben Gilbert",
+        "David Rosenthal",
+        "Morris Chang"
+      ],
+      "mp3_size_mb": 4.91
+    }
   },
   {
     "id": "ep_080",

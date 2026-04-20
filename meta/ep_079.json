@@ -1,0 +1,85 @@
+{
+  "id": "ep_079",
+  "source_url": "https://pscrb.fm/rss/p/media.transistor.fm/9a264053/327df5d5.mp3",
+  "source_title": "TSMC Founder Morris Chang",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 306,
+  "speakers": [
+    "Ben Gilbert",
+    "David Rosenthal",
+    "Morris Chang"
+  ],
+  "audio_url": "/audio/ep_079.mp3",
+  "paragraphs": [
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "We flew to Taiwan to interview TSMC Founder Morris Chang in a rare English interview. In fact, the last long-form video interview we could find was 17 years ago at the Computer History Museum, conducted by Jensen Huang himself. Today's episode is a conversation we recorded in Taipei last week at Dr. Chang's office.",
+      "source_time_s": 30,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "david",
+      "name": "David Rosenthal",
+      "text": "We thought as a fun way to start would be to talk about the man who introduced us. Could you tell us about your relationship with Jensen and TSMC's special relationship with NVIDIA?",
+      "source_time_s": 183,
+      "compressed_time_s": 24
+    },
+    {
+      "speaker": "morris",
+      "name": "Morris Chang",
+      "text": "It started with a letter Jensen sent to me in 1997 to the post office. The letter said NVIDIA was a small company, but they had developed some really promising chips. They were looking for a foundry and had approached TSMC's San Jose office but got no answer. Would I please contact Jensen? The letter raised my curiosity and also irritated me a little bit, because I had always told our salespeople that we should never be negligent in talking to future customers, even if the customer seems to be a very small one. At this point, NVIDIA was four years old, facing bankruptcy, with maybe 50 or 60 employees. TSMC already had a few thousand employees and had exceeded $1 billion in revenue in 1995.",
+      "source_time_s": 224,
+      "compressed_time_s": 38
+    },
+    {
+      "speaker": "morris",
+      "name": "Morris Chang",
+      "text": "I called Jensen back without advance notice. He himself picked up the phone, and there was a lot of background noise. He was arguing something with his people. But as soon as I introduced myself, he immediately shouted at those people, 'Quiet, Morris Chang is calling me.' He impressed me with his articulateness and also with his optimism. He told me that NVIDIA was in financial difficulties, but the chip he wanted to have foundried would not only save the company, it would also make NVIDIA a major customer of TSMC. That was a bold statement. To be a major customer of ours, he would have to produce revenue of at least $50 million a year. His prediction came true. Within two or three years, they became one of the biggest five customers of TSMC.",
+      "source_time_s": 366,
+      "compressed_time_s": 94
+    },
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "I want to go to 2009 on the 40-nanometer node where development was slower than TSMC had hoped, costing customers like NVIDIA time and money. Can you share how this came to be and how it was resolved?",
+      "source_time_s": 594,
+      "compressed_time_s": 154
+    },
+    {
+      "speaker": "morris",
+      "name": "Morris Chang",
+      "text": "The problem happened during the period when someone else was the CEO. It was a manufacturing problem and also a quality problem. The CEO insisted that TSMC was not at fault based on our quality manager's arguments. Some other problems popped up, so I decided to take the CEO position back in 2009. In my call with Jensen, he was still very friendly but reminded me in a very serious tone that we had the quality delivery manufacturing problem on 40 nanometer. I said I knew that, and it's one of my priority problems. Give me a couple weeks, and I will get back with you.",
+      "source_time_s": 654,
+      "compressed_time_s": 171
+    },
+    {
+      "speaker": "morris",
+      "name": "Morris Chang",
+      "text": "About a month after I retook the CEO job, I sent an email to Jensen. I said I'm coming to Silicon Valley next week. I will be at your home at 6 o'clock, and let's have just salad and pizza. Immediately, he sent back an email asking, 'When do we discuss business then?' So I said, 6:30 we'll start having pizza and salad. 8 o'clock, we'll go to your office at your home and discuss business. At 8 o'clock sharp, I looked at my watch and said, 'Jensen, why don't we go to your study?' I gave him the offer. It was more than $100 million. I also said, our offer is effective 48 hours. If you don't accept the offer within 48 hours, we'll have to go to an arbitrator. He accepted within two days.",
+      "source_time_s": 2091,
+      "compressed_time_s": 218
+    },
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "After 40 nanometer, the next node was 28 nanometers. How did you decide to commit so hard to 28 nanometers after having had all the problems at 40?",
+      "source_time_s": 2405,
+      "compressed_time_s": 279
+    },
+    {
+      "speaker": "morris",
+      "name": "Morris Chang",
+      "text": "At TI, I was the head of worldwide semiconductors. Our R&D budget was 4.8% of revenue. I wanted to raise it to 5.5%, but my request was denied every time. Coming back to TSMC, I wanted to set a number so we don't have to argue every year how much R&D we should spend. We'd been running 6 or 7% already. So I almost literally picked a number out of my head. I said, let's pick 8%, regardless of whether there's a recession or not. This was the best thing we did for R&D. That is what propelled our R&D effort.",
+      "source_time_s": 2430,
+      "compressed_time_s": 291
+    },
+    {
+      "speaker": "morris",
+      "name": "Morris Chang",
+      "text": "As I settled the R&D budget at 8% of revenue, the R&D people began to have big ideas.",
+      "source_time_s": 2643,
+      "compressed_time_s": 336
+    }
+  ]
+}

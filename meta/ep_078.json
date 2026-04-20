@@ -1,0 +1,78 @@
+{
+  "id": "ep_078",
+  "source_url": "https://pscrb.fm/rss/p/media.transistor.fm/f7c6423c/8aafaefd.mp3",
+  "source_title": "NVIDIA CEO Jensen Huang",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 288,
+  "speakers": [
+    "Ben Gilbert",
+    "David Rosenthal",
+    "Jensen Huang"
+  ],
+  "audio_url": "/audio/ep_078.mp3",
+  "paragraphs": [
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "After researching NVIDIA for something like 500 hours over the last two years, we flew down to NVIDIA headquarters to sit down with Jensen himself. NVIDIA is worth $1.1 trillion and is the sixth most valuable company in the entire world. Everyone is wondering: Will NVIDIA's insane prosperity continue for years to come? Is AI going to be the next trillion dollar technology wave? And if so, can NVIDIA actually maintain their ridiculous dominance as this market comes to take shape?",
+      "source_time_s": 98,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "You're getting ready to ship the Riva 128, one of the largest graphics chips ever created in the history of computing. It is the first fully 3D accelerated graphics pipeline. You guys have about six months of cash left, so you decide to do the entire testing in simulation rather than ever receiving a physical prototype. You commission the production run sight unseen. It comes back, and of the 32 DirectX blend modes, it supports eight of them. Walk us through what that felt like.",
+      "source_time_s": 178,
+      "compressed_time_s": 36
+    },
+    {
+      "speaker": "jensen",
+      "name": "Jensen Huang",
+      "text": "Riva 128 was a reset of our company. By the time we realized we had gone down the wrong road, Microsoft had already rolled out DirectX. It was fundamentally incompatible with NVIDIA's architecture. We made a sequence of extraordinarily good decisions. Our backs were up against the wall. We were running out of time, running out of money, and for a lot of employees, running out of hope. We decided to build the best thing in the world for DirectX. We made the biggest chip that anybody had ever imagined building. If we built it right, nobody can build something faster than that.",
+      "source_time_s": 256,
+      "compressed_time_s": 73
+    },
+    {
+      "speaker": "jensen",
+      "name": "Jensen Huang",
+      "text": "We made the decision to use emulation. There was a company called Icos that was shutting down. If you figure out how much money we had, if we taped out a chip, got it back from the fab, and started working on our software, by the time we found all the bugs and taped out the chip again, we would have been out of business. We essentially virtually prototyped the chip. Dwight and the software team wrote our entire stack and ran it on this emulator. On the day we decided to tape out, I assumed the chip was perfect. If you knew it was going to be perfect, then what else would you do? Go to production. We got it in our head that we have a perfect chip.",
+      "source_time_s": 482,
+      "compressed_time_s": 119
+    },
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "Is the lesson for founders: when you have conviction on something like the Riva 128 or CUDA, go bet the company on it? This keeps working for you.",
+      "source_time_s": 656,
+      "compressed_time_s": 177
+    },
+    {
+      "speaker": "jensen",
+      "name": "Jensen Huang",
+      "text": "When you push your chips in, I know it's going to work. We assumed we taped out a perfect chip. The reason why is because we emulated the whole chip before we taped it out. We developed the entire software stack. We ran QA on all the drivers and all the software. When you bet the farm, what you're really doing is taking everything in the future, all the risky things, and pulling it in advance. That is probably the lesson. To this day, everything that we can prefetch, everything in the future that we can simulate today, we prefetch it.",
+      "source_time_s": 671,
+      "compressed_time_s": 189
+    },
+    {
+      "speaker": "jensen",
+      "name": "Jensen Huang",
+      "text": "When we saw AlexNet and realized its incredible effectiveness in computer vision, we had the good sense to go back to first principles and ask, what is it about this thing that made it so successful? When a new algorithm comes along and leapfrogs 30 years of computer vision work, you have to ask yourself, why? We've discovered a universal function approximator. You could imagine we might have discovered a universal computer that you can teach. For a lot of problems in the world, we kind of don't care about the causality. We just care about the predictability of it. It applies to predicting movies, predicting music, predicting weather. Causality for a lot of problems doesn't matter. We just want to emulate the system and predict the outcome.",
+      "source_time_s": 818,
+      "compressed_time_s": 234
+    },
+    {
+      "speaker": "jensen",
+      "name": "Jensen Huang",
+      "text": "Our journey to the data center happened almost 17 years ago. I've always felt that the fact that NVIDIA's technology is plugged into a computer and that computer has to sit next to you because it has to be connected to a monitor, that will limit our opportunity someday. The disconnection between where NVIDIA's computing is done versus where it's enjoyed\u2014if you can separate that, your market opportunity explodes. We're no longer limited by the physical constraints of the desktop PC. That was really the great observation.",
+      "source_time_s": 1481,
+      "compressed_time_s": 291
+    },
+    {
+      "speaker": "jensen",
+      "name": "Jensen Huang",
+      "text": "If you want to be a data center company, building the processing chip isn't the way to do it.",
+      "source_time_s": 1749,
+      "compressed_time_s": 330
+    }
+  ]
+}
