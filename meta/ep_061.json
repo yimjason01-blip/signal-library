@@ -1,0 +1,70 @@
+{
+  "id": "ep_061",
+  "source_url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/CLS7343941641.mp3",
+  "source_title": "ASML: Competing with Moore\u2019s Law - [Business Breakdowns, REPLAY]",
+  "source_duration_s": 3156,
+  "compressed_duration_s": 331,
+  "speakers": [
+    "Matt Russell",
+    "Tom Walsh"
+  ],
+  "audio_url": "/audio/ep_061.mp3",
+  "paragraphs": [
+    {
+      "speaker": "matt",
+      "name": "Matt Russell",
+      "text": "This is a replay of our 2023 episode on ASML with Tom Walsh from Baillie Gifford. Since then, EUV has only cemented its place as core to AI infrastructure. The 21 billion euros in net sales in 2022 has grown about 50% to 32 billion in 2025, with gross margins remaining steadily north of 50%. The stock returns have proven strong as well.",
+      "source_time_s": 0,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "tom",
+      "name": "Tom Walsh",
+      "text": "ASML started in 1984 when it was spun out by Philips. Some spinouts are destined to be great companies\u2014ASML absolutely wasn't that thing. It was the problem child of Philips. The joke within Philips when it was spun out was that ASML being created was essentially a delayed layoff process for the workers being transferred into it. It emerged as number 10 of 10 lithography players in the early 1980s. It had no revenue, no commercially credible product, no offices\u2014its first offices were wooden barracks built in the grounds of the Philips facility in Eindhoven.",
+      "source_time_s": 184,
+      "compressed_time_s": 28
+    },
+    {
+      "speaker": "tom",
+      "name": "Tom Walsh",
+      "text": "What they did have were two industry-leading technologies developed within Philips, a handful of really tenacious and brilliant engineers, and a window of opportunity within lithography, which was going through a big technology transition. The early years were unbelievably challenging\u2014the first decade was just about survival. They survived by scraping through savage industry cycles during the 1980s and were kept alive by further cash injections by their backers. But they started to make progress. By the mid-90s, they'd emerged as one of three clear leading players: Nikon, Canon, and ASML. In 2002, they finally overtook Nikon as industry number one.",
+      "source_time_s": 230,
+      "compressed_time_s": 70
+    },
+    {
+      "speaker": "tom",
+      "name": "Tom Walsh",
+      "text": "Photolithography works by coating a silicon chip with special chemicals called photoresists, then projecting the pattern of electrical circuits onto that, so you can embed those circuits onto the surface of the chip. In concept, very simple. It's much the same as an old-fashioned cinema projector\u2014you shine light through an image, use a lens to focus it, and you get an image projected onto a screen. The difference is the image is the circuits of a semiconductor, and the lenses are being used to concentrate and make that image even smaller, rather than blow it up big onto a screen. The dimensions are so small they're measured in handfuls of atoms rather than millimeters.",
+      "source_time_s": 428,
+      "compressed_time_s": 114
+    },
+    {
+      "speaker": "tom",
+      "name": "Tom Walsh",
+      "text": "In 2022, ASML generated revenues of about 21 billion euros and operating profits of about 6.5 billion euros. Market capitalization as of today is just over 250 billion euros. But the company only sold 345 photolithography machines last year. It's a mass produced item, but very low volume, very specialized. The most expensive piece of equipment sells for north of 150 million euros apiece.",
+      "source_time_s": 643,
+      "compressed_time_s": 165
+    },
+    {
+      "speaker": "tom",
+      "name": "Tom Walsh",
+      "text": "The current CEO has been there since 1999\u2014he was CFO for years before stepping up as CEO in 2013. He steered the business through challenging times and ensured money kept going into R&D. If there were one other person associated with ASML's success, it's Martin van den Brink, the CTO and president. He's been there from the very beginning. He applied to join Philips in 1983 and arrived right as ASML was being spun off. After two years, despite having just graduated, he was moved to head up the development of the company's make-or-break product. He brought that product to market and it was a success. In 1995, he stepped up onto the management board as CTO and remains there today. He's close to a genius.",
+      "source_time_s": 684,
+      "compressed_time_s": 193
+    },
+    {
+      "speaker": "tom",
+      "name": "Tom Walsh",
+      "text": "The key gating technology for the advance of Moore's law since the 1970s has been photolithography. Whenever photolithography has stalled, Moore's law has stalled. These machines are huge\u2014the current leading-edge extreme ultraviolet machine, when constructed, is about the size of a double-decker bus. When they transport them to the end foundry, it takes three jumbo jets to get them there. Perversely, as you make the pattern smaller, you have to make the lenses bigger, and that means the machine has to get bigger. So smaller transistors, even bigger machine.",
+      "source_time_s": 855,
+      "compressed_time_s": 249
+    },
+    {
+      "speaker": "tom",
+      "name": "Tom Walsh",
+      "text": "The industry moved through different types of light source over multiple decades. By the 1990s and 2000s, they were working with deep ultraviolet light with a wavelength of 193 nanometers. The leading edge chips today have dimensions measured in single figures of nanometers\u2014the leading edge node is five nanometers. Back in the 90s, they recognized this was a major problem and extreme ultraviolet was struck upon as the solution. The research was developed by the Americans through state funding\u2014Department of Energy and DARPA put a lot of money into this. But they didn't want to give it to the Japanese and didn't have a domestic lithography maker capable of taking it forward.",
+      "source_time_s": 1058,
+      "compressed_time_s": 289
+    }
+  ]
+}

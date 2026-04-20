@@ -1275,7 +1275,16 @@
     "duration_min": 53,
     "category": "business",
     "description": "This conversation was originally released in June of 2023.\n\nToday we return to the semiconductor value chain with one of the most important companies in modern technology: ASML. The company began life as an unwanted spin-out from Philips with no real product and little expectation of success. Today, it builds the only machines capable of manufacturing the most advanced chips in the world.\n\nTo brea",
-    "source_show_url": "https://feeds.megaphone.fm/breakdowns"
+    "source_show_url": "https://feeds.megaphone.fm/breakdowns",
+    "compressed": {
+      "compressed_duration_s": 331,
+      "source_duration_s": 3156,
+      "speakers": [
+        "Matt Russell",
+        "Tom Walsh"
+      ],
+      "mp3_size_mb": 5.3
+    }
   },
   {
     "id": "ep_062",
@@ -1287,7 +1296,16 @@
     "duration_min": 75,
     "category": "business",
     "description": "Today we\u2019re breaking down Databricks, a $130B private company that helps companies collect, store, and process very large amounts of data, and then use that data to run analytics and train machine learning models. \n\nDatabricks sits in the middle of modern data systems, connecting raw data pipelines to the tools teams use to analyze information and build AI. If you\u2019ve worked on large-scale data or",
-    "source_show_url": "https://feeds.megaphone.fm/breakdowns"
+    "source_show_url": "https://feeds.megaphone.fm/breakdowns",
+    "compressed": {
+      "compressed_duration_s": 282,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Matt Russell",
+        "Alan Tu"
+      ],
+      "mp3_size_mb": 4.52
+    }
   },
   {
     "id": "ep_063",
@@ -1299,7 +1317,16 @@
     "duration_min": 40,
     "category": "philosophy",
     "description": "<p>Joe and Brett celebrate a banner year of podcast growth by answering questions directly from listeners.</p><p>In this episode, we explore:</p><p>(3:20) Anger \u2013 feeling, expressing, and receiving \u2018anger at\u2019 a person<br />(11:07) Presence \u2013 staying with ourselves in complex and fast-paced group situations<br />(15:23) Depression \u2013 what is it, and how can we play with it?<br />(21:26) Alone, but n",
-    "source_show_url": "https://feeds.simplecast.com/zksImfUP"
+    "source_show_url": "https://feeds.simplecast.com/zksImfUP",
+    "compressed": {
+      "compressed_duration_s": 283,
+      "source_duration_s": 2424,
+      "speakers": [
+        "Brett Kistler",
+        "Joe Hudson"
+      ],
+      "mp3_size_mb": 4.54
+    }
   },
   {
     "id": "ep_064",
@@ -1311,7 +1338,16 @@
     "duration_min": 41,
     "category": "philosophy",
     "description": "<p>Joe interviews Brett about his experience crafting and facilitating a high-flying retreat in the Utah desert and his lifelong journey of learning to embrace fear. \u00a0</p><p>For more about the retreat, visit <a href=\"https://welcomingfear.com\">welcomingfear.com</a></p><p>Send us your questions on Twitter, through our website, or in our Circle community.</p><p><a href=\"https://twitter.com/FU_JoeHud",
-    "source_show_url": "https://feeds.simplecast.com/zksImfUP"
+    "source_show_url": "https://feeds.simplecast.com/zksImfUP",
+    "compressed": {
+      "compressed_duration_s": 278,
+      "source_duration_s": 2434,
+      "speakers": [
+        "Joe Hudson",
+        "Brett Kistler"
+      ],
+      "mp3_size_mb": 4.46
+    }
   },
   {
     "id": "ep_065",
