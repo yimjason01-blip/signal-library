@@ -982,7 +982,17 @@
     "duration_min": 94,
     "category": "business",
     "description": "My guests today are Bill Gurley and Michael Mauboussin. Bill is a General Partner at Benchmark, and Michael is the Head of Consilient Research for Counterpoint Global. While they are longtime friends with one another, I\u2019d never heard them appear somewhere together so it was a real treat to be able to do this with the two of them. They are two of the leading minds in their fields, and we combined t",
-    "source_show_url": "https://feeds.megaphone.fm/CLS2859450455"
+    "source_show_url": "https://feeds.megaphone.fm/CLS2859450455",
+    "compressed": {
+      "compressed_duration_s": 300,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Patrick O'Shaughnessy",
+        "Bill Gurley",
+        "Michael Mauboussin"
+      ],
+      "mp3_size_mb": 4.81
+    }
   },
   {
     "id": "ep_048",
@@ -1015,7 +1025,16 @@
     "duration_min": 118,
     "category": "business",
     "description": "Morgan Housel breaks down the exact framework he uses to build wealth, minimize financial stress, and buy freedom.\n\nWhile most financial advice focuses on how to\u00a0get\u00a0rich, Morgan explains why the skills needed to\u00a0stay\u00a0rich are completely different. \n\nYou will learn why \"boring\" investing beats complex strategies, how to avoid the social traps that destroy wealth, and the specific equation for find",
-    "source_show_url": "https://feeds.megaphone.fm/FSMI7575968096"
+    "source_show_url": "https://feeds.megaphone.fm/FSMI7575968096",
+    "compressed": {
+      "compressed_duration_s": 269,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Shane Parrish",
+        "Morgan Housel"
+      ],
+      "mp3_size_mb": 4.31
+    }
   },
   {
     "id": "ep_050",
@@ -1027,7 +1046,16 @@
     "duration_min": 119,
     "category": "business",
     "description": "I have wanted to do this interview for a long time. On this episode, I am thrilled to have Annie Duke, former professional poker player and author of the new book,  Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts.\n Annie has a very interesting background that makes her uniquely qualified to speak about high-level decision making. As an author, speaker, world-class poke",
-    "source_show_url": "https://feeds.megaphone.fm/FSMI7575968096"
+    "source_show_url": "https://feeds.megaphone.fm/FSMI7575968096",
+    "compressed": {
+      "compressed_duration_s": 300,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Shane Parrish",
+        "Annie Duke"
+      ],
+      "mp3_size_mb": 4.81
+    }
   },
   {
     "id": "ep_051",
@@ -1039,7 +1067,16 @@
     "duration_min": 92,
     "category": "business",
     "description": "Are you in love with your own ideas regardless of how good they are Would you like to make better decisions and fewer mistakes? Would you like to improve the most important relationships in your life?\n These are just some of the topics I discuss with my guest, Ray Dalio.\n Ray Dalio is the founder of the world\u2019s largest hedge fund,\u00a0Bridgewater Associates, and is the author of the new book\u00a0Principle",
-    "source_show_url": "https://feeds.megaphone.fm/FSMI7575968096"
+    "source_show_url": "https://feeds.megaphone.fm/FSMI7575968096",
+    "compressed": {
+      "compressed_duration_s": 284,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Shane Parrish",
+        "Ray Dalio"
+      ],
+      "mp3_size_mb": 4.55
+    }
   },
   {
     "id": "ep_052",
@@ -1051,7 +1088,17 @@
     "duration_min": 192,
     "category": "business",
     "description": "<p><strong>Aaron Stupple</strong> (<a href=\"https://twitter.com/astupple\" rel=\"noopener noreferrer\" target=\"_blank\">@astupple</a>) is the author of <a href=\"https://www.amazon.com/Sovereign-Child-Forgotten-Philosophy-Liberate-ebook/dp/B0DR36P28C/?tag=offsitoftimfe-20\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>The Sovereign Child: How a Forgotten Philosophy Can Liberate Kids an",
-    "source_show_url": "https://rss.art19.com/tim-ferriss-show"
+    "source_show_url": "https://rss.art19.com/tim-ferriss-show",
+    "compressed": {
+      "compressed_duration_s": 308,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Tim Ferriss",
+        "Naval Ravikant",
+        "Aaron Stupple"
+      ],
+      "mp3_size_mb": 4.94
+    }
   },
   {
     "id": "ep_053",
@@ -1063,7 +1110,16 @@
     "duration_min": 130,
     "category": "business",
     "description": "<p><strong>Bill Gurley</strong> (<a href=\"https://x.com/bgurley\" rel=\"noopener noreferrer\" target=\"_blank\">@bgurley</a>) is a general partner at <a href=\"https://www.linkedin.com/company/benchmark-vc/\" rel=\"noopener noreferrer\" target=\"_blank\">Benchmark</a>, a leading venture capital firm in Silicon Valley. His new book is <a href=\"https://www.amazon.com/Runnin-Down-Dream-Thrive-Actually/",
-    "source_show_url": "https://rss.art19.com/tim-ferriss-show"
+    "source_show_url": "https://rss.art19.com/tim-ferriss-show",
+    "compressed": {
+      "compressed_duration_s": 315,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Tim Ferriss",
+        "Bill Gurley"
+      ],
+      "mp3_size_mb": 5.05
+    }
   },
   {
     "id": "ep_054",
@@ -1075,7 +1131,20 @@
     "duration_min": 43,
     "category": "business",
     "description": "<p>Many of us feel like we\u2019re drowning in invisible complexity. So I wanted to hit pause and ask a simple question:&nbsp;<strong>What are 1-3 decisions that could dramatically simplify my life in 2026?</strong>&nbsp;To explore that, I invited five long-time listener favorites: Maria Popova, Morgan Housel, Cal Newport, Craig Mod, and Debbie Millman.</p><p><strong>This episode is brought to",
-    "source_show_url": "https://rss.art19.com/tim-ferriss-show"
+    "source_show_url": "https://rss.art19.com/tim-ferriss-show",
+    "compressed": {
+      "compressed_duration_s": 328,
+      "source_duration_s": 2574,
+      "speakers": [
+        "Tim Ferriss",
+        "Maria Popova",
+        "Morgan Housel",
+        "Cal Newport",
+        "Craig Mod",
+        "Debbie Millman"
+      ],
+      "mp3_size_mb": 5.26
+    }
   },
   {
     "id": "ep_055",

@@ -1,0 +1,78 @@
+{
+  "id": "ep_047",
+  "source_url": "https://traffic.megaphone.fm/CLS3680551999.mp3?updated=1767958332",
+  "source_title": "Bill Gurley & Michael Mauboussin - Putting Theory into Practice - [Invest Like the Best, EP.370]",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 300,
+  "speakers": [
+    "Patrick O'Shaughnessy",
+    "Bill Gurley",
+    "Michael Mauboussin"
+  ],
+  "audio_url": "/audio/ep_047.mp3",
+  "paragraphs": [
+    {
+      "speaker": "patrick",
+      "name": "Patrick O'Shaughnessy",
+      "text": "My guests today are Bill Gurley and Michael Mauboussin. Bill is a general partner at Benchmark Capital, and Michael is the head of Consilient Research for CounterPoint Global. While they are longtime friends with one another, I'd never heard them appear somewhere together, so it was a real treat to be able to do this with the two of them. We're going to talk about different kinds of increasing returns to scale, regulatory capture, AI, and hardware.",
+      "source_time_s": 88,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "michael",
+      "name": "Michael Mauboussin",
+      "text": "This is obviously very profound, it's very important. I think the most important question as an investor is using Clay Christensen's language of disruptive innovation versus sustaining innovation. Sustaining innovation helps the incumbents become better at what they do. A disruptive innovation is a new business model that allows new companies to break in and disrupt the traditional incumbents. The question is, does this just help the strong get stronger? It does look like some of the big guys have the pole position \u2014 Microsoft and Amazon and Google and Meta.",
+      "source_time_s": 149,
+      "compressed_time_s": 34
+    },
+    {
+      "speaker": "bill",
+      "name": "Bill Gurley",
+      "text": "This appears highly choreographed. The windows that open up huge doors for innovators and startups are usually not choreographed. You don't have the whole world saying, look, this is where we're going. And yet here you do. There's no one that's asleep at the wheel. You have to separate LLMs from AI. AI is this trend that's been going on for 20 years. LLMs have some remarkable things that they can do specifically around writing code, but they also have some limitations because they're mostly about text. People are reading expectations into LLMs that are going to quickly outpace what's reasonable.",
+      "source_time_s": 244,
+      "compressed_time_s": 74
+    },
+    {
+      "speaker": "bill",
+      "name": "Bill Gurley",
+      "text": "The initial versions of these models are structurally flawed around providing personal memory. The LLMs today are really more like advanced Wikipedia that can also code, but it hasn't really sucked in your information. I always like to reference the movie Her \u2014 this thing that has all of your previous knowledge, knows every email you wrote, knows every conversation I've had with Patrick beforehand. If someone did this correctly with personal memory, I think that could really change the game.",
+      "source_time_s": 514,
+      "compressed_time_s": 119
+    },
+    {
+      "speaker": "michael",
+      "name": "Michael Mauboussin",
+      "text": "What history tells us is that as new technologies come in, companies typically have some sort of workflow and the new technology will come in and help productivity, but they don't completely reorient their workflows initially. The first generation amplifies in different spots. Then as time goes on, you reorient your business around that core technology. The most recent example would be the internet where first wave was just adding on to something that already happened. Then you had a whole wave of companies that were internet first.",
+      "source_time_s": 611,
+      "compressed_time_s": 155
+    },
+    {
+      "speaker": "bill",
+      "name": "Bill Gurley",
+      "text": "I do think if you listen at the margin, people that have been around it a lot longer, the debugging is taking longer than it did before. It was writing code I don't understand, but now I got to go fully understand the code. The expectations have gotten to a place where the most AI optimists start talking about universal basic income and productivity gains forever. I just think that's so impossible, so wrong, just based on the stuff you and I have talked about over the years, Michael. Competition is ever present. Just because you get a gain doesn't mean you get to hold on to it forever.",
+      "source_time_s": 686,
+      "compressed_time_s": 194
+    },
+    {
+      "speaker": "michael",
+      "name": "Michael Mauboussin",
+      "text": "The Magnificent Seven generated about 45% of the economic profit for the US stock market. Economic profit is return on capital less cost of capital spread times the invested capital in your business. The market caps got 25 or 30%, and that was actually below their economic profit contribution. The returns on capital for smaller companies used to be bigger than larger companies. Starting around the year 2000, that flipped. Now larger companies are not only growing at pretty decent clips, but have very high returns on capital.",
+      "source_time_s": 834,
+      "compressed_time_s": 243
+    },
+    {
+      "speaker": "bill",
+      "name": "Bill Gurley",
+      "text": "Brian Arthur's original thesis on increasing returns and network effects \u2014 probably no other theory affected my venture career more than that. The perfect example is Uber, where David Sachs had this incredible napkin picture which just showed the loop. If you have more drivers, pickup times fall. If pickup times fall, the consumer value proposition gets better. More people want to use it. If more people want to use it in more places, the availability spreads. You end up with more coverage, quicker pickup times, more money for the drivers themselves. It's literally a win for all sides.",
+      "source_time_s": 1097,
+      "compressed_time_s": 282
+    },
+    {
+      "speaker": "bill",
+      "name": "Bill Gurley",
+      "text": "I look for increasing returns all the time. I think it's such an unfair competitive advantage. I think it's just such a great way to win.",
+      "source_time_s": 1393,
+      "compressed_time_s": 326
+    }
+  ]
+}
