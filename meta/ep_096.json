@@ -1,0 +1,70 @@
+{
+  "id": "ep_096",
+  "source_url": "https://rss.art19.com/episodes/ea77e17e-0afa-402a-adf0-4354e0e9fa85.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+  "source_title": "Advice Line with Joe Gebbia of Airbnb",
+  "source_duration_s": 3492,
+  "compressed_duration_s": 303,
+  "speakers": [
+    "Guy Raz",
+    "Joe Gebbia"
+  ],
+  "audio_url": "/audio/ep_096.mp3",
+  "paragraphs": [
+    {
+      "speaker": "guy",
+      "name": "Guy Raz",
+      "text": "Welcome to the Advice Line on How I Built This Lab. I'm Guy Raz. Each week, I'm joined by a legendary founder who helps me try to solve your business challenges. Joining me this week is Joe Gebbia, co-founder of Airbnb. Joe was one of our very first guests back in 2016, sharing the origin story of Airbnb\u2014building a website where people would post pictures of the most intimate spaces inside their homes on the internet and then complete strangers would book their homes and pay them money to stay there. Today, no brainer. But of course, that wasn't the case in 2007 and 8.",
+      "source_time_s": 139,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "joe",
+      "name": "Joe Gebbia",
+      "text": "I'm now an advisor to Airbnb, and more recently I launched a new startup called Samara that builds backyard guest houses\u2014accessory dwelling units popping up all over California because of the housing crisis. It started as an R&D group inside Airbnb. I noticed hosts were listing ADUs on Airbnb, and people were staying there for 30, 60, 90 day stays\u2014rotations at the company they work at. I thought there's got to be a high-end, prefab, factory-made version. When I looked at the market, there was nothing\u2014fairly cheap, not well designed. I was in the market for one myself and thought, well, I'm just going to wait for the Tesla or Apple of this category to emerge. Guess what? It didn't emerge. So why not build it myself?",
+      "source_time_s": 291,
+      "compressed_time_s": 46
+    },
+    {
+      "speaker": "guy",
+      "name": "Guy Raz",
+      "text": "Before we bring our first caller, I want to ask about your story. You mentioned that great ideas usually start out as polarizing, which is what Airbnb was. When a founder hears criticism\u2014sometimes it's warranted, sometimes it makes sense\u2014how do you know when to stick to your vision versus massively pivoting?",
+      "source_time_s": 437,
+      "compressed_time_s": 103
+    },
+    {
+      "speaker": "joe",
+      "name": "Joe Gebbia",
+      "text": "This is one of the toughest things about being an entrepreneur. You've got to nurture the connection with your heart and with your gut, because there are times where it gets really tough and the world is against you and really smart people are telling you you're crazy. If you don't have some signal coming from deep within you\u2014a conviction\u2014you're going to get sucked into what other people think. I'll tell you why we had conviction: we experienced it firsthand. We had those three guests stay with us that one weekend in San Francisco. For every person who said that will never work at scale, I just thought to myself, well, they haven't experienced it yet. We did.",
+      "source_time_s": 479,
+      "compressed_time_s": 125
+    },
+    {
+      "speaker": "guy",
+      "name": "Guy Raz",
+      "text": "Our first caller is Marina Little from Austin, Texas, founder of Luffy and Friends. Her mission is to get kids excited about learning a second language through the power of music. Her flagship collection features board books that sing, currently offered in French, German, Italian, Russian, Spanish, and Ukrainian. Each book has six different songs with illustrations to accompany them. She was born in Russia, immigrated to the U.S. when she was four, and her husband is from Argentina. When they had kids, they discovered it was harder than expected to get them excited about being multilingual. Music resonated with their kids, but they were terrified of exposing them to screens. So they developed Books that Sing. They started with a Kickstarter campaign for Spanish-language books, and this year they're on track to hit $200,000 in revenue.",
+      "source_time_s": 276,
+      "compressed_time_s": 178
+    },
+    {
+      "speaker": "guy",
+      "name": "Guy Raz",
+      "text": "Marina's question: she used to sell on Amazon, but moved away from it because the fee structure didn't pencil at her volume levels and it was cannibalizing website sales. But she knows when competitors come up on Amazon, people gravitate toward that option because of how easy Amazon makes everything. How can she build a brand to withstand potential Amazon competitors? Or should she embrace Amazon and find ways to thrive there?",
+      "source_time_s": 882,
+      "compressed_time_s": 239
+    },
+    {
+      "speaker": "joe",
+      "name": "Joe Gebbia",
+      "text": "I think you go everywhere. I would try to figure out how to get this in front of your core customers\u2014the grandparents and parents. If you appear on one of the morning shows where they're consuming content, that's huge. I'm reminded of Seth Godin's book, All Marketers Are Liars. It was my template back in 2005 or 2006. You might spark an idea of how to take the brand you already have and elevate it to the next level to get people's attention. What would get you on a morning show? You need something that's going to stop people in their tracks. The songs I saw are expected songs\u2014what if they were very unusual, something unexpected that would be in a children's book, translated into another language? People would turn their head and go, wait, what was that?",
+      "source_time_s": 1113,
+      "compressed_time_s": 271
+    },
+    {
+      "speaker": "guy",
+      "name": "Guy Raz",
+      "text": "I've got a whole kids' podcast and science business. We just released toys\u2014exploding volcanoes and stomp rockets sold in shops and on Amazon.",
+      "source_time_s": 1151,
+      "compressed_time_s": 332
+    }
+  ]
+}

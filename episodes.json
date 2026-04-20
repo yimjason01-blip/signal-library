@@ -1810,7 +1810,16 @@
     "duration_min": 380,
     "category": "acquired",
     "description": "<p>Meta is a company everyone knows (literally, everyone). But, somehow, it\u2019s also a company that few people feel they actually understand. Their products are used by more humans than any other\u2019s in history \u2014 almost half of the entire world\u2019s population daily. But\u2026 what is Meta? Why do they do what they do? <em>How</em> do they do what they do? Ask ten people and you\u2019ll likely get ten ver",
-    "source_show_url": "https://feeds.transistor.fm/acquired"
+    "source_show_url": "https://feeds.transistor.fm/acquired",
+    "compressed": {
+      "compressed_duration_s": 322,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Ben Gilbert",
+        "David Rosenthal"
+      ],
+      "mp3_size_mb": 5.16
+    }
   },
   {
     "id": "ep_087",
@@ -1964,7 +1973,16 @@
     "duration_min": 216,
     "category": "wildcard",
     "description": "<p>This giant episode collects every interview I've done on \"How to Get Rich.\" It includes 10 minutes of unreleased material\u2014at the end\u2014on \"Finding Time to Invest in Yourself.\"</p> <p>Transcript: http://nav.al/rich</p> <p>Seek Wealth, Not Money or Status 1:30</p> <p>Make Abundance for the World 6:40</p> <p>Free Markets Are Intrinsic to Humans 10:21</p> <p>Making Money Isn't About Luck 14:19</p> <p",
-    "source_show_url": "https://rss.libsyn.com/shows/166112/destinations/1103966.xml"
+    "source_show_url": "https://rss.libsyn.com/shows/166112/destinations/1103966.xml",
+    "compressed": {
+      "compressed_duration_s": 289,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Naval Ravikant",
+        "Nivi"
+      ],
+      "mp3_size_mb": 4.64
+    }
   },
   {
     "id": "ep_095",
@@ -1996,7 +2014,16 @@
     "duration_min": 52,
     "category": "wildcard",
     "description": "<p>Airbnb co-founder Joe Gebbia joins Guy on the Advice Line, where they answer questions from three early-stage founders. Plus, Joe shares an update on his latest entrepreneurial adventure: Samara.</p><p><br></p><p>Today we meet Marina in Texas, who\u2019s wondering if her language-teaching singing books <em>need</em> to be on Amazon. Then Ray in California, who\u2019s seeking fundraising guidance",
-    "source_show_url": "https://rss.art19.com/how-i-built-this"
+    "source_show_url": "https://rss.art19.com/how-i-built-this",
+    "compressed": {
+      "compressed_duration_s": 303,
+      "source_duration_s": 3492,
+      "speakers": [
+        "Guy Raz",
+        "Joe Gebbia"
+      ],
+      "mp3_size_mb": 4.85
+    }
   },
   {
     "id": "ep_097",
@@ -2008,7 +2035,16 @@
     "duration_min": 26,
     "category": "wildcard",
     "description": "We're taking a break for the holidays, so we bring you this favorite from the last year: Patagonia. In 1973, Yvon Chouinard started the company to make climbing gear he couldn't find elsewhere. Over decades of growth, he has implemented a unique philosophy about business, leadership and profit. PLUS for our postscript \"How You Built That\", we check back with Brett Johnson of Firedrops \u2014 c",
-    "source_show_url": "https://rss.art19.com/how-i-built-this"
+    "source_show_url": "https://rss.art19.com/how-i-built-this",
+    "compressed": {
+      "compressed_duration_s": 279,
+      "source_duration_s": 1959,
+      "speakers": [
+        "Guy Raz",
+        "Yvon Chouinard"
+      ],
+      "mp3_size_mb": 4.46
+    }
   },
   {
     "id": "ep_098",
@@ -2020,7 +2056,17 @@
     "duration_min": 67,
     "category": "ai",
     "description": "<p><em>All speakers are announced at </em><a target=\"_blank\" href=\"https://ai.engineer/europe\"><em>AIE EU</em></a><em>, schedule coming soon. Join us there or in </em><a target=\"_blank\" href=\"https://ai.engineer/miami\"><em>Miami</em></a><em> with the renowned organizers of React Miami! </em><a target=\"_blank\" href=\"https://www.ai.engineer/singapore\"><em>Singapore CFP</em></a><em> also open!</em></",
-    "source_show_url": "https://api.substack.com/feed/podcast/1084089.rss"
+    "source_show_url": "https://api.substack.com/feed/podcast/1084089.rss",
+    "compressed": {
+      "compressed_duration_s": 293,
+      "source_duration_s": 3998,
+      "speakers": [
+        "Jonas (Cursor)",
+        "Sam (Cursor)",
+        "Swyx"
+      ],
+      "mp3_size_mb": 4.7
+    }
   },
   {
     "id": "ep_099",
@@ -2032,6 +2078,15 @@
     "duration_min": 67,
     "category": "ai",
     "description": "What happens when AI agents can design experiments, collect data, and improve \u2014 without a human in the loop? Andrej Karpathy joins Sarah Guo on the state of models, the future of engineering and education, thinking about impact on jobs, and his project AutoResearch: where agents close the loop on a piece of AI research (experimentation, training, and optimization, autonomously).\n\n\n\n00:00 Andrej Ka",
-    "source_show_url": "https://feeds.megaphone.fm/nopriors"
+    "source_show_url": "https://feeds.megaphone.fm/nopriors",
+    "compressed": {
+      "compressed_duration_s": 280,
+      "source_duration_s": 3991,
+      "speakers": [
+        "Sarah Guo",
+        "Andrej Karpathy"
+      ],
+      "mp3_size_mb": 4.49
+    }
   }
 ]

@@ -1,0 +1,63 @@
+{
+  "id": "ep_086",
+  "source_url": "https://pscrb.fm/rss/p/media.transistor.fm/e7afa25f/df59e4a6.mp3",
+  "source_title": "Meta",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 322,
+  "speakers": [
+    "Ben Gilbert",
+    "David Rosenthal"
+  ],
+  "audio_url": "/audio/ep_086.mp3",
+  "paragraphs": [
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "We are your hosts. Today, we are studying a company whose products are used by more humans than any other company in history, Meta, of course, formerly known as Facebook. Meta has four billion monthly active users and daily active users are over three billion. There are only eight billion humans on Earth. So as I started to brainstorm what the closest competitors could be to serving half of the humans, I thought, surely I can find it in empires or governments from the past. Nope. The Roman Empire at its peak was only 40 percent of humans tops. The British Empire at its peak was only 23 percent of the global human population. So no government, tech company, or utility has ever addressed so much of the world.",
+      "source_time_s": 61,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "david",
+      "name": "David Rosenthal",
+      "text": "We got to start in 1984. Facebook has always started and ended with Mark Zuckerberg. So we start in May of 1984 when Mark Elliott Zuckerberg is born as the second of four children to Karen and Ed Zuckerberg in Dobbs Ferry, New York. Ed studied dentistry at NYU. He was always really into math and computers. After Ed finishes dental school, they move up to Dobbs Ferry in Westchester County. And Mark and his three sisters grow up as prototypical middle class suburban American kids in the 90s. Life is good. Your parents are professionals working hard to give opportunity to you. And the family is leveling up in America.",
+      "source_time_s": 299,
+      "compressed_time_s": 57
+    },
+    {
+      "speaker": "david",
+      "name": "David Rosenthal",
+      "text": "For Mark, those passions become threefold. One, turn based strategy video games, most particularly Sid Meier's Civilization. Two, programming computers. And three, ancient Greek and Latin history. September 1991, when Mark is seven years old, Civilization comes out for PCs and young Mark gets hooked. Civ is a very particular type of turn based strategy game, probably the foremost example of what is known as the 4X genre. That's the number four letter X and 4X stands for explore, expand, exploit, exterminate. There are multiple ways to win the game. You can win by defeating all the other players, but you can also win by completing a technology development tree and reaching the peak of technology. You can also win by diplomacy, by getting elected the leader of the UN.",
+      "source_time_s": 427,
+      "compressed_time_s": 106
+    },
+    {
+      "speaker": "david",
+      "name": "David Rosenthal",
+      "text": "When he's 10, Mark has his parents take him to the local Barnes and Noble one day and begs them to buy him C++ for dummies. He dives into the book, learns everything in there and he's like, I need more. His parents hire a local tutor to come and tutor him for an hour a week in programming. Mark has this quote that he says later: I'd go to school and I'd go to class and come home. And the way I think about it was awesome. I have five whole hours to just sit and play on my computer and write software. And then Friday afternoon would come along and it would be like, OK, wow, now I have two whole days to sit and write software. This is amazing.",
+      "source_time_s": 598,
+      "compressed_time_s": 164
+    },
+    {
+      "speaker": "david",
+      "name": "David Rosenthal",
+      "text": "In 1997, when Mark is 13 years old, AOL launches AIM, AOL Instant Messenger. By 2001, a couple years after launch, it has 36 million users, including basically every middle and high schooler with access to a computer. The other important thing about AIM and AOL here is it was pretty easy to hack. Kids and teenagers had a field day with AIM bots, punting software, hacking programs. You could add graphics, you could add emojis, you could draw pictures. This becomes such an important part of teenage culture on the internet. It's all this personalization of like, hey, I don't want just what AOL gives me. I want to control this. Mark is one of the kids that's writing this stuff.",
+      "source_time_s": 661,
+      "compressed_time_s": 223
+    },
+    {
+      "speaker": "david",
+      "name": "David Rosenthal",
+      "text": "After two years at the local public high school at Ardsley High School, Mark is like, I think I would enjoy just being in a sort of better school, like a higher level of competition, higher level of learning. I'm really into Latin and classics. And like, I'm going to tap out on that real fast here at Ardsley. That takes us to Phillips Exeter Academy in New Hampshire. Mark applies to Exeter, gets in, and the summer before he's about to go, the school hosts an event in New York City for incoming students to meet each other. There Mark meets another kid who's a lot like himself, who also is really into computers, really into AIM. And that person is Adam D'Angelo, future CTO of Facebook.",
+      "source_time_s": 1037,
+      "compressed_time_s": 277
+    },
+    {
+      "speaker": "david",
+      "name": "David Rosenthal",
+      "text": "By the end of their senior year, Mark one day is listening to music on his computer, I think probably on Winamp.",
+      "source_time_s": 1198,
+      "compressed_time_s": 334
+    }
+  ]
+}

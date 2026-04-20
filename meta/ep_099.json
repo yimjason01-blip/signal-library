@@ -1,0 +1,77 @@
+{
+  "id": "ep_099",
+  "source_url": "https://traffic.megaphone.fm/PDP8703207384.mp3",
+  "source_title": "Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI",
+  "source_duration_s": 3991,
+  "compressed_duration_s": 280,
+  "speakers": [
+    "Sarah Guo",
+    "Andrej Karpathy"
+  ],
+  "audio_url": "/audio/ep_099.mp3",
+  "paragraphs": [
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "I kind of feel like I was in this perpetual state of AI psychosis. There was a huge unlock in what you can achieve as a person, as an individual. In December is when it really flipped where I went from 80-20 to 20-80 of writing code by myself versus just delegating to agents. I don't think I've typed a line of code, probably since December, basically, which is an extremely large change. If you just find a random software engineer at their desk, their default workflow of building software is completely different as of basically December.",
+      "source_time_s": 90,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "Everything just feels like a skill issue. It's not that the capability is not there, it's that you just haven't found a way to string it together of what's available. I didn't give good enough instructions in the agent's MD file or whatever it may be. You want to be Peter Steinberg, basically. He has lots of codecs agents on a monitor and they all take about 20 minutes if you prompt them correctly. He's just going between them and giving them more. It's like, here's a new functionality and delegate it to agent one. Here's a new functionality that's not going to interfere with the other one, give it agent two. Everything just happens in these macro actions over your repository.",
+      "source_time_s": 213,
+      "compressed_time_s": 43
+    },
+    {
+      "speaker": "sarah",
+      "name": "Sarah Guo",
+      "text": "We have a team that we work with at Conviction where none of the engineers write code by hand and they're all microphoned and they just whisper to their agents all the time. It's the strangest work setting ever. I thought they were crazy and now I fully accept, I was like, oh, this was the way.",
+      "source_time_s": 186,
+      "compressed_time_s": 97
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "I think everyone is basically interested in going up the stack. The agent part is now taken for granted. Now the claw-like entities are taken for granted. And now you can have multiple of them. And now you can have instructions to them. And now you can have optimization of the instructions. This is why it gets to the psychosis, is that this is infinite and everything is skill issue.",
+      "source_time_s": 14,
+      "compressed_time_s": 122
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "In January, I had a claw. I built Dobby the Elf Claw that takes care of my home. I just told it that I think I have Sonos at home, can you try to find it? And it did an IP scan of all the computers on the local area network, and it found the Sonos system. It turned out that there's no password protection. It logged in, and it's like, oh, yeah, you have these Sonos systems installed. Let me try to reverse engineer how it's working. It does some web searches, and it finds the API endpoints. I can't believe I just typed in, can you find my Sonos, and suddenly it's playing music. Dobby controls everything in natural language, it's amazing.",
+      "source_time_s": 569,
+      "compressed_time_s": 153
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "The name of the game now is to increase your leverage. I put in just very few tokens just once in a while, and a huge amount of stuff happens on my behalf. Auto research is an example of an implication of that. I don't want to be the researcher in the loop, looking at results. I'm holding the system back. The question is, how do I refactor all the abstractions so that I'm not, I have to arrange it once and hit go? Here's an objective, here's a metric, here's your boundaries of what you can and cannot do, and go.",
+      "source_time_s": 1017,
+      "compressed_time_s": 208
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "I tuned NanoChat already quite a bit by hand in a good old-fashioned way. I've done this for two decades. I've trained this model thousands of times. I've done hyperparameter tuning, done all the things I'm very used to, and I've gotten to a certain point. I thought it was fairly well-tuned. Then I let auto-research go for overnight, and it came back with tunings that I didn't see. Yeah, I did forget the weight decay on the value embeddings, and my atom betas were not sufficiently tuned. I shouldn't be a bottleneck. I shouldn't be running these hyperparameters optimizations. I shouldn't be looking at the results. There's objective criteria in this case, so you just have to arrange it so that it can just go forever.",
+      "source_time_s": 1118,
+      "compressed_time_s": 254
+    },
+    {
+      "speaker": "sarah",
+      "name": "Sarah Guo",
+      "text": "You're saying our research efforts are gonna get more efficient. We're gonna have better direction for when we scale if we can do this experimentation better.",
+      "source_time_s": 1183,
+      "compressed_time_s": 310
+    },
+    {
+      "speaker": "andrej",
+      "name": "Andrej Karpathy",
+      "text": "You experiment on the smaller models, you try to make it as autonomous as possible, remove researchers from the loop. They shouldn't be touching any of this, really. You have to rewrite the whole thing. Because right now, they shouldn't actually be enacting those ideas.",
+      "source_time_s": 1194,
+      "compressed_time_s": 322
+    }
+  ]
+}

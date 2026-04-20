@@ -1,0 +1,92 @@
+{
+  "id": "ep_098",
+  "source_url": "https://api.substack.com/feed/podcast/190063769/104adabca6129bf33af673e58934a2ba.mp3",
+  "source_title": "Cursor's Third Era: Cloud Agents",
+  "source_duration_s": 3998,
+  "compressed_duration_s": 293,
+  "speakers": [
+    "Jonas (Cursor)",
+    "Sam (Cursor)",
+    "Swyx"
+  ],
+  "audio_url": "/audio/ep_098.mp3",
+  "paragraphs": [
+    {
+      "speaker": "jonas",
+      "name": "Jonas (Cursor)",
+      "text": "We ran an experiment last year we didn't ship at the time but may come back to. It was an LM that was agentic and could write code\u2014not just picking outputs from different models, but taking learnings from two models or N models and writing a new diff. What we found was there were strengths to using models from different model providers as the base level of this process. You could get almost a synergistic output that was better than having a very unified bottom model tier.",
+      "source_time_s": 0,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "jonas",
+      "name": "Jonas (Cursor)",
+      "text": "We think that over the coming months, the big unlock is not going to be one person with a model getting more done, like the water flowing faster. It will be making the pipe much wider. So paralyzing more, whether that's swarms of agents or parallel agents\u2014both contribute to getting much more done in the same amount of time.",
+      "source_time_s": 30,
+      "compressed_time_s": 38
+    },
+    {
+      "speaker": "jonas",
+      "name": "Jonas (Cursor)",
+      "text": "This week, one of the biggest launches Cursor's ever done is Cloud Agents. Cloud Agents already ran in their own computers, but they were site reading code. Those computers were blank VMs typically that were not set up for the DevEx for whatever repo the agent's working on. If you put yourself in the model shoes and all you could do was site read code and spit out tokens and hope you'd done the right thing\u2014no chance. Obviously you need to run the code.",
+      "source_time_s": 53,
+      "compressed_time_s": 64
+    },
+    {
+      "speaker": "jonas",
+      "name": "Jonas (Cursor)",
+      "text": "Giving the model the tools to onboard itself and then use full computer use end-to-end\u2014pixels in, coordinates out\u2014and have the cloud computer with different apps in it is the big unlock we've seen internally. It's gone from we use it for little copy changes to we're really driving new features with this new type of agentic workflow.",
+      "source_time_s": 143,
+      "compressed_time_s": 102
+    },
+    {
+      "speaker": "jonas",
+      "name": "Jonas (Cursor)",
+      "text": "The agent will test its changes. You can see here it worked for half an hour. That is because it not only took time to write the tokens of code, it also took time to test them end-to-end. So it started dev servers, iterate when needed. It comes back with not an 'I tried some things' PR, but an 'I tested it' PR that's ready for your review.",
+      "source_time_s": 144,
+      "compressed_time_s": 127
+    },
+    {
+      "speaker": "jonas",
+      "name": "Jonas (Cursor)",
+      "text": "Pillar two is the model coming back with a video of what it did. We found that in this new world where agents can end to end write much more code, reviewing the code is one of these new bottlenecks that crop up. Reviewing a video is not a substitute for reviewing code, but it is an entry point that is much easier to start with than glancing at some giant diff.",
+      "source_time_s": 233,
+      "compressed_time_s": 157
+    },
+    {
+      "speaker": "jonas",
+      "name": "Jonas (Cursor)",
+      "text": "Pillar number three is I have full remote control access to this VM. I can go in here, I can hover things, I can type, I have full control, and same thing for the terminal. That is really useful because sometimes the video is not perfect. The video will show you, is this worth either merging immediately or is this worth iterating with to get it to that final stage where I am ready to merge in.",
+      "source_time_s": 269,
+      "compressed_time_s": 189
+    },
+    {
+      "speaker": "sam",
+      "name": "Sam (Cursor)",
+      "text": "For me, the videos have been super helpful, especially in cases where a common problem with agents was underspecification in my requests. Similar to how human communication breaks down over time, you have this risk where when I go to the trouble of pulling down and running this branch locally, I'm gonna see that I said this should be a toggle and you have a checkbox. Having the video upfront just makes that alignment\u2014you're talking about a shared artifact with the agent\u2014very clear.",
+      "source_time_s": 324,
+      "compressed_time_s": 224
+    },
+    {
+      "speaker": "jonas",
+      "name": "Jonas (Cursor)",
+      "text": "Here's another example that's mostly a backend change in terms of error handling. Zero prompting on how to test this. Instead of typing out a character 5,000 times to hit the limit, it opens DevTools, writes JS to paste into the input 5,000 characters of the letter A, hits save, closes the DevTools, and gets the new error message. That is front-end, back-end, end-to-end feature.",
+      "source_time_s": 417,
+      "compressed_time_s": 260
+    },
+    {
+      "speaker": "jonas",
+      "name": "Jonas (Cursor)",
+      "text": "We started AutoTab in 2023. At the time it was browser use, DOM, all these different things. We ended up very AGI-pilled in the sense that just give the model pixels, give it a box. A brain in a box is what you want, and you want to remove limitations around context and capabilities such that the bottleneck should be the intelligence. Given how smart models are today, that's a very far-out bottleneck.",
+      "source_time_s": 487,
+      "compressed_time_s": 289
+    },
+    {
+      "speaker": "jonas",
+      "name": "Jonas (Cursor)",
+      "text": "We've had versions of this. The models weren't even good enough to do any of this stuff a year ago. Roundabout SONIC 4.5 is when this started being good enough to automate fully by pixel.",
+      "source_time_s": 524,
+      "compressed_time_s": 322
+    }
+  ]
+}
