@@ -1156,7 +1156,17 @@
     "duration_min": 156,
     "category": "business",
     "description": "<p><strong>Danny Hillis </strong>is an inventor, scientist, author, and engineer. While completing his doctorate at MIT, he pioneered the parallel computers that are the basis for the processors used for AI and most high-performance computer chips. He is now a founding partner with <a href=\"http://www.appliedinvention.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Applied Inventi",
-    "source_show_url": "https://rss.art19.com/tim-ferriss-show"
+    "source_show_url": "https://rss.art19.com/tim-ferriss-show",
+    "compressed": {
+      "compressed_duration_s": 314,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Tim Ferriss",
+        "Danny Hillis",
+        "Kevin Kelly"
+      ],
+      "mp3_size_mb": 5.03
+    }
   },
   {
     "id": "ep_056",
@@ -1189,7 +1199,17 @@
     "duration_min": 41,
     "category": "business",
     "description": "Today, we will be diving into Costco. Costco is a favorite business story and model for many operators and investors. It was founded in 1983 in Seattle, and it has grown into a juggernaut with over $169 billion in sales and almost 60 million members globally. To me, Costco is the best example of doing one thing for customers and getting better at it constantly for decades.\n\u00a0\nTo help me break down",
-    "source_show_url": "https://feeds.megaphone.fm/breakdowns"
+    "source_show_url": "https://feeds.megaphone.fm/breakdowns",
+    "compressed": {
+      "compressed_duration_s": 308,
+      "source_duration_s": 2398,
+      "speakers": [
+        "Patrick O'Shaughnessy",
+        "Zach Fuss",
+        "Chris Blumstrand"
+      ],
+      "mp3_size_mb": 4.93
+    }
   },
   {
     "id": "ep_058",
@@ -1201,7 +1221,16 @@
     "duration_min": 59,
     "category": "business",
     "description": "Today, we will be breaking down Invisalign. Founded in 1997, Invisalign pioneered clear aligners as an alternative to metal braces. Today, Invisalign generates over $2bn of revenue and accounts for roughly 20% of the orthodontic market.\n\u00a0\nTo break down Invisalign, I am joined by Nick Greenfield, CEO of Candid. Nick co-founded Candid in 2017 as an e-commerce solution to teeth aligners. Candid now o",
-    "source_show_url": "https://feeds.megaphone.fm/breakdowns"
+    "source_show_url": "https://feeds.megaphone.fm/breakdowns",
+    "compressed": {
+      "compressed_duration_s": 321,
+      "source_duration_s": 3530,
+      "speakers": [
+        "Jesse Pujji",
+        "Nick Greenfield"
+      ],
+      "mp3_size_mb": 5.15
+    }
   },
   {
     "id": "ep_059",
@@ -1225,7 +1254,16 @@
     "duration_min": 48,
     "category": "business",
     "description": "This is Zack Fuss. Today, we are breaking down Exor. The origins of Exor date back to the end of the 19th century when Giovanni Agnelli founded the Auto Company Fiat. Over the company's 100-year-old history, a lot has changed. While some of the core assets remain the same today, Exor serves as an investment holding company. Its largest and most notable assets include Ferrari, CNH, Stellantis, Phi",
-    "source_show_url": "https://feeds.megaphone.fm/breakdowns"
+    "source_show_url": "https://feeds.megaphone.fm/breakdowns",
+    "compressed": {
+      "compressed_duration_s": 325,
+      "source_duration_s": 2880,
+      "speakers": [
+        "Zack Fuss",
+        "Krishna Mohanraj"
+      ],
+      "mp3_size_mb": 5.21
+    }
   },
   {
     "id": "ep_061",

@@ -1,0 +1,71 @@
+{
+  "id": "ep_055",
+  "source_url": "https://rss.art19.com/episodes/09428d6c-0504-4662-92b6-37155a0edfb2.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+  "source_title": "#782: Legendary Inventor Danny Hillis (Plus Kevin Kelly) \u2014 Unorthodox Lessons from 400+ Patents, Solving the Impossible, Real Al vs. \u201cAI\u201d, Hiring Richard Feynman, Working with Steve Jobs, Creating Parallel Computing, and Much More",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 314,
+  "speakers": [
+    "Tim Ferriss",
+    "Danny Hillis",
+    "Kevin Kelly"
+  ],
+  "audio_url": "/audio/ep_055.mp3",
+  "paragraphs": [
+    {
+      "speaker": "tim",
+      "name": "Tim Ferriss",
+      "text": "I've wanted to have Danny Hillis on the show for many years. I asked Kevin Kelly on two pilgrimage tours, who would you suggest as a podcast guest I must interview? We landed on Danny Hillis. Danny pioneered parallel computers that are the basis for processors used for AI and most high-performance computer chips while completing his doctorate at MIT. He has more than 400 issued patents covering parallel computers, disk arrays, cancer diagnostics, optical devices, and the pinch-to-zoom display interface. He's co-founder of the Long Now Foundation, designer of its 10,000-year mechanical clock inside a mountain in West Texas funded by Jeff Bezos. His only regular job was as the first Disney Fellow at Disney Imagineering. He's now founding partner with Applied Invention working on new ideas in cybersecurity, medicine, and agriculture.",
+      "source_time_s": 0,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "tim",
+      "name": "Tim Ferriss",
+      "text": "Danny, I thought I might begin with a Mogen clamp, this terrifying device in a silver briefcase full of devices. How does this fit into your story?",
+      "source_time_s": 608,
+      "compressed_time_s": 59
+    },
+    {
+      "speaker": "danny",
+      "name": "Danny Hillis",
+      "text": "I started a company called Applied Invention with Bran Ferren that worked on everything. How do you recruit people for a company like that? We had this box of weird stuff\u2014a space shuttle tile, synthetic diamond, that weird clamp cutter thing. Part of the interview process was opening the box. Immediately you could tell if a person was a likely fit because some would wait for instructions. But people we hired would say, 'Wow, is that a Mogen clamp? Is that a laser gyro?' They'd start picking up pieces, talking about them, asking about them. Those were the kind of people we wanted\u2014a test of curiosity, engagement, and ability to learn. It's basically the device used for circumcision to make sure you don't cut off too much. The funniest person who ever opened that box was Robin Williams. You can imagine where he went with space alien sex toys. He knew what everything was and gave elaborate descriptions.",
+      "source_time_s": 644,
+      "compressed_time_s": 71
+    },
+    {
+      "speaker": "tim",
+      "name": "Tim Ferriss",
+      "text": "Why on earth is Robin Williams looking through this briefcase?",
+      "source_time_s": 789,
+      "compressed_time_s": 141
+    },
+    {
+      "speaker": "danny",
+      "name": "Danny Hillis",
+      "text": "Bran and I met Robin at Walt Disney Company. It was actually the only job I ever had\u2014Disney Fellow and Vice President of Imagineering. I went to MIT knowing I wanted to work for Marvin Minsky. I studied AI under him in the early days, but realized AI wasn't going to happen without big fast parallel computers, which didn't exist. So I started building one\u2014designing chips, the operating system, everything from scratch. It rapidly became too big a project for a graduate student at a university. I did what was very unusual: started a company as a graduate student. MIT told me I couldn't do it. I said, 'I don't see how you can say that because I'm paying you money.' They forbade me. I just did it anyway. I started hiring faculty members, hired the ex-president of the university, Terry Wiesner. They stopped bothering me.",
+      "source_time_s": 796,
+      "compressed_time_s": 145
+    },
+    {
+      "speaker": "danny",
+      "name": "Danny Hillis",
+      "text": "We successfully built the first big parallel computer. All the experts said it was impossible for various reasons. It became the fastest computer in the world for many years. But we never made a great business out of it. Somebody who worked for one of our chip suppliers had a much better idea\u2014he took very similar chips and made them for video games. That company was Nvidia. When the company didn't work out, I got all the hardware people hired at Sun Microsystems, exchanged their Thinking Machines options for Sun options just before the web took off. That worked out well for them. I decided I had enough of the computer business. I had twin babies and a daughter born the day the company closed down. I just wanted a job for a while. I always had this childhood dream of being an Imagineer.",
+      "source_time_s": 1014,
+      "compressed_time_s": 210
+    },
+    {
+      "speaker": "kevin",
+      "name": "Kevin Kelly",
+      "text": "Could you say more about the artistic way of seeing things versus the engineering way?",
+      "source_time_s": 1394,
+      "compressed_time_s": 274
+    },
+    {
+      "speaker": "danny",
+      "name": "Danny Hillis",
+      "text": "The thing that really stuck was learning what they meant by storytelling. When Disney designs a theme park, they don't think of it as architecture or a map. They think of it as a story\u2014a sequence, a narrative of going into it and experiencing it so it makes sense to people. That way of thinking of things as an understandable emotional experience that connects with someone is very different from looking at mechanics of how rides work. After Disney, I started thinking about designing the 10,000-year clock that way. In the beginning, I thought about mechanical problems\u2014how do I keep it wound, what materials? But I realized the most important thing is what do people think about it, how do they experience it, what's the story? Instead of showing what time it is, it shows the time the last person was there.",
+      "source_time_s": 1424,
+      "compressed_time_s": 281
+    }
+  ]
+}

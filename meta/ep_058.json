@@ -1,0 +1,91 @@
+{
+  "id": "ep_058",
+  "source_url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/CLS3452705499.mp3?updated=1689749433",
+  "source_title": "Invisalign: Patents, Patients, and Profits - [Business Breakdowns, EP. 11]",
+  "source_duration_s": 3530,
+  "compressed_duration_s": 321,
+  "speakers": [
+    "Jesse Pujji",
+    "Nick Greenfield"
+  ],
+  "audio_url": "/audio/ep_058.mp3",
+  "paragraphs": [
+    {
+      "speaker": "jesse",
+      "name": "Jesse Pujji",
+      "text": "Today we're breaking down Invisalign, founded in 1997 as a clear aligner alternative to metal braces. Today Invisalign generates over two billion dollars of revenue and accounts for roughly 20 percent of the orthodontic market. I'm joined by Nick Greenfield, CEO of Candid, who co-founded Candid in 2017 as an e-commerce solution to teeth aligners.",
+      "source_time_s": 48,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "nick",
+      "name": "Nick Greenfield",
+      "text": "Align Technologies is a medical device company based in San Jose, California, started in the late nineties. They've evolved from making Invisalign to a multi-product business operating internationally. They sell three core components: their clear aligner system, the iTero scanner, and ExoCAD, a pure software company. This year they'll probably do over three billion dollars in revenue.",
+      "source_time_s": 120,
+      "compressed_time_s": 24
+    },
+    {
+      "speaker": "nick",
+      "name": "Nick Greenfield",
+      "text": "In the late nineties, Zia Chistie and Kelsey Wirth came up with the idea that rather than using wire bracket braces, you could use a clear aligner or piece of plastic instead. The idea was by using this piece of plastic across twenty, thirty, forty stages, they could customize and make the movement much more precise and predictable. They used 3D printing, really one of the first applications of true 3D printing in medical devices. Today, I believe Invisalign is the largest 3D printing company in the world by an order of magnitude.",
+      "source_time_s": 145,
+      "compressed_time_s": 49
+    },
+    {
+      "speaker": "nick",
+      "name": "Nick Greenfield",
+      "text": "Invisalign is doing well north of two million and approaching three million annual case starts in 2021. They're growing well north of 20 percent on an annual basis, some years up north of 30 percent. That's in the U.S., and internationally they're growing even faster in markets like China. Invisalign has shipped individually to over 100,000 doctors in the last year. That core market is really the orthodontist, which represents about 60 percent of their case starts.",
+      "source_time_s": 244,
+      "compressed_time_s": 91
+    },
+    {
+      "speaker": "nick",
+      "name": "Nick Greenfield",
+      "text": "The market is still dramatically underpenetrated. The average doctor's practice today will do well over 100 case starts for traditional orthodontics, and they'll submit anywhere between 20 and 30 percent Invisalign cases. Some practices do a thousand plus Invisalign case starts in a year and are paying upwards of a million dollars. The opportunity Invisalign has is not just to capture more of the traditional orthodontic side, but to actually grow the practice itself.",
+      "source_time_s": 305,
+      "compressed_time_s": 125
+    },
+    {
+      "speaker": "nick",
+      "name": "Nick Greenfield",
+      "text": "The braces market today in the US is estimated to be somewhere around twenty-five billion dollars, but expected to double over the course of the next 10 to 15 years. The market will double because all these companies are rolling out their own clear aligner solutions. The second reason is pricing from a consumer standpoint. Historically, orthodontics have been very expensive. Now consumers can access a lower price point product. The third is really just international underpenetration. You look at a market like China where you had north of a million case starts.",
+      "source_time_s": 488,
+      "compressed_time_s": 158
+    },
+    {
+      "speaker": "nick",
+      "name": "Nick Greenfield",
+      "text": "The key insight was computer aided design to move teeth would allow one company to 3D print and then adjust people's teeth with computers. Using software to move teeth was the key innovation and differentiator. You combine that with the power of custom manufacturing through 3D printing. The idea was, how do you take these clear aligners and predict within point one millimeters exactly how somebody's teeth are going to move?",
+      "source_time_s": 847,
+      "compressed_time_s": 199
+    },
+    {
+      "speaker": "nick",
+      "name": "Nick Greenfield",
+      "text": "When Invisalign patented the idea for computer aided design of moving teeth, it turned out that that patent was going to hold up. Until 2017, no one else could really enter the market. There's a fascinating business case study to be written all around Invisalign using litigation as a strategy. Invisalign famously sued SmileDirectClub. They wielded their intellectual property power and their robust patent portfolio, 400-plus patents.",
+      "source_time_s": 1235,
+      "compressed_time_s": 231
+    },
+    {
+      "speaker": "nick",
+      "name": "Nick Greenfield",
+      "text": "Invisalign invented 3D printing for clear aligners and really was the first and continues to be the largest 3D printing company in dental. They built a large facility in Juarez, Mexico, just across the border from El Paso. This allowed Invisalign to produce and scale automation over time and dramatically reduce their cost of goods. Align today has gone from making parts at ten, twelve dollars per tray down to sub three dollars to make a single part.",
+      "source_time_s": 1442,
+      "compressed_time_s": 260
+    },
+    {
+      "speaker": "nick",
+      "name": "Nick Greenfield",
+      "text": "Three core areas that Invisalign did well. The first is they built their own sales force from the ground up. Component two is they vertically integrated inside of the practice. They bought an intraoral scanning company, Cadent, which became the iTero. That scanner directly connected to Invisalign's own system. The third thing they did was create an entire industry in digital dentistry in Costa Rica. They hired hundreds and now thousands of dentists doing all the digital computer-aided design work.",
+      "source_time_s": 1498,
+      "compressed_time_s": 295
+    },
+    {
+      "speaker": "nick",
+      "name": "Nick Greenfield",
+      "text": "The original patent that Invisalign had expired in the fall of 2017. Everybody was getting into the space and people thought that Invisalign was a commodity.",
+      "source_time_s": 2705,
+      "compressed_time_s": 331
+    }
+  ]
+}
