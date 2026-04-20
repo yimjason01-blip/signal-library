@@ -1484,7 +1484,15 @@
     "duration_min": 115,
     "category": "philosophy",
     "description": "To celebrate 999, almost 1000, episodes of Modern Wisdom, I broke down some of my favourite lessons, insights and quotes from the last hundred episodes.\n\n\nExpect to learn how 999 episodes of Modern Wisdom have reshaped my understanding of happiness, success and relationships, what i've learned on losing points from Naval Ravikant & Roger Federer, the best isnights on self-belief from Vincent van G",
-    "source_show_url": "https://feeds.megaphone.fm/SIXMSB5088139739"
+    "source_show_url": "https://feeds.megaphone.fm/SIXMSB5088139739",
+    "compressed": {
+      "compressed_duration_s": 290,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Chris Williamson"
+      ],
+      "mp3_size_mb": 4.65
+    }
   },
   {
     "id": "ep_072",
@@ -1496,7 +1504,22 @@
     "duration_min": 117,
     "category": "philosophy",
     "description": "We look skyward for answers. But prophets walk among us.\nAllow me to indulge this truth with yet more timeless and timely wisdom courtesy of the amazing individuals that grace this third and final installment of my annual yearbook.\nOnce again, it\u2019s been an honor to share my conversations with so many extraordinary people over the course of 2020. Second listens brought new insights\u2014and more reminde",
-    "source_show_url": "https://feeds.megaphone.fm/the-rich-roll-podcast"
+    "source_show_url": "https://feeds.megaphone.fm/the-rich-roll-podcast",
+    "compressed": {
+      "compressed_duration_s": 282,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Rich Roll",
+        "Matthew McConaughey",
+        "Erin Brockovich",
+        "Shane Parrish",
+        "Chris Mosier",
+        "Hakim Tafari",
+        "Chris Houth",
+        "Doug Evans"
+      ],
+      "mp3_size_mb": 4.52
+    }
   },
   {
     "id": "ep_073",
@@ -1508,7 +1531,16 @@
     "duration_min": 145,
     "category": "philosophy",
     "description": "\u201cYou have to go to war with yourself before you can find peace\u201d\nDavid Goggins\n\nI can think of no better guest to usher in 2019 than the mighty one himself.\nIncontrovertibly the most inspirational person I have ever met, today David Goggins\u00a0returns for his second turn on the podcast \u2014 a conversation that will catapult you into the new year with the tools and hard truth you need to chase huge dreams",
-    "source_show_url": "https://feeds.megaphone.fm/the-rich-roll-podcast"
+    "source_show_url": "https://feeds.megaphone.fm/the-rich-roll-podcast",
+    "compressed": {
+      "compressed_duration_s": 289,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Rich Roll",
+        "David Goggins"
+      ],
+      "mp3_size_mb": 4.64
+    }
   },
   {
     "id": "ep_074",
@@ -1520,7 +1552,16 @@
     "duration_min": 100,
     "category": "philosophy",
     "description": "Michael Easter is a New York Times bestselling author, UNLV professor, and the mind behind \u201cWalk With Weight.\u201d\n\nThis conversation explores rucking, the evolutionary movement pattern humans are built for that modern fitness has largely overlooked. We discuss why it affects body composition differently, how GPS navigation impacts cognition, and why optimization culture can undermine resilience.\n\nPlu",
-    "source_show_url": "https://feeds.megaphone.fm/the-rich-roll-podcast"
+    "source_show_url": "https://feeds.megaphone.fm/the-rich-roll-podcast",
+    "compressed": {
+      "compressed_duration_s": 292,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Rich Roll",
+        "Michael Easter"
+      ],
+      "mp3_size_mb": 4.68
+    }
   },
   {
     "id": "ep_075",
@@ -1532,7 +1573,16 @@
     "duration_min": 124,
     "category": "philosophy",
     "description": "Arthur Brooks is a Harvard professor, bestselling author, and one of the world's leading authorities on human happiness.\n\nThis conversation explores what he calls a psychogenic epidemic \u2014 a crisis of meaning driven by the very technology we can't put down. We discuss the three macronutrients of happiness, why our brains have been rewired to miss what matters most, the striver's curse, and an ancie",
-    "source_show_url": "https://feeds.megaphone.fm/the-rich-roll-podcast"
+    "source_show_url": "https://feeds.megaphone.fm/the-rich-roll-podcast",
+    "compressed": {
+      "compressed_duration_s": 310,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Rich Roll",
+        "Arthur Brooks"
+      ],
+      "mp3_size_mb": 4.96
+    }
   },
   {
     "id": "ep_076",
