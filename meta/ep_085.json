@@ -1,0 +1,120 @@
+{
+  "id": "ep_085",
+  "source_url": "https://pscrb.fm/rss/p/media.transistor.fm/c100f364/6ce4bb67.mp3",
+  "source_title": "Charlie Munger",
+  "source_duration_s": 4005,
+  "compressed_duration_s": 292,
+  "speakers": [
+    "Ben Gilbert",
+    "David Rosenthal",
+    "Charlie Munger"
+  ],
+  "audio_url": "/audio/ep_085.mp3",
+  "paragraphs": [
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "This episode is a very unique one for David and I. Good friend of the show, Andrew Marks, organized a little dinner for us with Charlie Munger and a few other folks at Charlie's home in Los Angeles. We are pretty sure that this is the only podcast that Charlie has ever done. Charlie, aside from being one of the most prolific investors of all time alongside his partner Warren Buffett, is 99 years old. He will turn 100 on January 1st.",
+      "source_time_s": 55,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "Charlie, I was watching the NFL games last weekend, and it seems like every advertisement now is a sports betting advertisement. Is this good for America?",
+      "source_time_s": 345,
+      "compressed_time_s": 36
+    },
+    {
+      "speaker": "charlie",
+      "name": "Charlie Munger",
+      "text": "No, of course not. Are the dog tracks and racetracks of America and the casinos good for America? Of course not. They're just very popular. If I were running the world, I would have a tax on short term gains with no offset for losses on anything. And I would just drive this whole crowd of gambling business.",
+      "source_time_s": 355,
+      "compressed_time_s": 48
+    },
+    {
+      "speaker": "charlie",
+      "name": "Charlie Munger",
+      "text": "Renaissance's first algorithm was so simple. They sifted all this data from the past. And what did they decide? Up, up for two closing prices and down, down were more common than down, up or up, down. Man is a natural trend follower. The way they get their returns year after year is taking the leverage, the intraday leverage up higher and higher and higher. So they're making smaller and smaller profits on more and more volume, which gives them this big peak leverage risk.",
+      "source_time_s": 393,
+      "compressed_time_s": 73
+    },
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "I'm curious, how did you first come across Costco or Price Club at the time?",
+      "source_time_s": 509,
+      "compressed_time_s": 111
+    },
+    {
+      "speaker": "charlie",
+      "name": "Charlie Munger",
+      "text": "Rod Hills somehow knew Saul Price and knew what he was doing. He said, you have to go down and meet him. So I drove down and went through his store and talked with Saul. Saul was a very intelligent man. Saul was an ordinary lawyer until he was 39 years of age. Then he went out and formed a government employees discount company.",
+      "source_time_s": 524,
+      "compressed_time_s": 118
+    },
+    {
+      "speaker": "charlie",
+      "name": "Charlie Munger",
+      "text": "Senegal asked Warren to become a director of Costco. He was looking for somebody with a financial reputation as an independent. And Warren wouldn't do it. He said, well, you need to get Charlie to do it. I want shorter plane rides to directors meetings and so forth. So that's how that happened.",
+      "source_time_s": 574,
+      "compressed_time_s": 146
+    },
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "Did Berkshire ever try to become a shareholder or acquire Costco?",
+      "source_time_s": 599,
+      "compressed_time_s": 170
+    },
+    {
+      "speaker": "charlie",
+      "name": "Charlie Munger",
+      "text": "They tried to get Warren to buy out the French when they left Carrefour. And Warren wouldn't do it. Warren doesn't like retailing. He's afraid of retail. Practically everything that was once mighty in retail is gone. Sears Roebuck is gone. The big department stores are gone. It's just too damn difficult as far as he's concerned.",
+      "source_time_s": 604,
+      "compressed_time_s": 175
+    },
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "What was it about Costco that made you realize this is one of those few moments in a lifetime?",
+      "source_time_s": 788,
+      "compressed_time_s": 200
+    },
+    {
+      "speaker": "charlie",
+      "name": "Charlie Munger",
+      "text": "They really did sell cheaper than anybody else in America, and they did it in big, efficient stores and all the parking spaces were 10 feet wide instead of eight feet nine. They did a lot right. They kept out of their stores all these people that didn't do big volumes. And they gave special benefits to the people who did come to the stores in the way of reward points. It all worked. They make the suppliers wait until they've been paid and they're scheduled to pay only after they're scheduled to sell. They've got 900 warehouses around the world full of high quality merchandise, none of which they have sitting on their books.",
+      "source_time_s": 809,
+      "compressed_time_s": 208
+    },
+    {
+      "speaker": "charlie",
+      "name": "Charlie Munger",
+      "text": "Maybe five, six times in a lifetime, you get a chance where you know you're right and you know you have one that's really going to work wonderfully. And you've got to do it two or three times early or you'll go broke because it's very hard and rare. When you know you have an edge, you should bet heavily. Most people, they don't teach that in business school. It's insane. Of course, you got to bet heavily on your best bets.",
+      "source_time_s": 851,
+      "compressed_time_s": 260
+    },
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "After a 50-year partnership with Warren, what advice would you have for us interpersonally to make for an enduring partnership?",
+      "source_time_s": 1117,
+      "compressed_time_s": 296
+    },
+    {
+      "speaker": "charlie",
+      "name": "Charlie Munger",
+      "text": "Well, it helps if you like one another and enjoy the work you do. A lot of partnerships that work well for a long time happen because one's good at one thing and one's good at another. They just naturally divide it, and each one likes what he's doing. Warren still cares more about the safety of his shareholders than he cares about anything else.",
+      "source_time_s": 1127,
+      "compressed_time_s": 305
+    },
+    {
+      "speaker": "charlie",
+      "name": "Charlie Munger",
+      "text": "I think it's very difficult to invest money well.",
+      "source_time_s": 1263,
+      "compressed_time_s": 334
+    }
+  ]
+}

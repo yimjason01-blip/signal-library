@@ -1746,7 +1746,16 @@
     "duration_min": 290,
     "category": "acquired",
     "description": "<p>In 1999, Microsoft became the most valuable company in the world. And in 2019, Microsoft became the most valuable company in the world, <em>again</em>. But\u2026 what happened in the twenty years in between? The answer, as we discovered in our research, is probably not what you think.</p><p>In this episode we explore and analyze the browser wars and the DOJ case, Windows XP through 8, Surfa",
-    "source_show_url": "https://feeds.transistor.fm/acquired"
+    "source_show_url": "https://feeds.transistor.fm/acquired",
+    "compressed": {
+      "compressed_duration_s": 321,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Ben Gilbert",
+        "David Rosenthal"
+      ],
+      "mp3_size_mb": 5.14
+    }
   },
   {
     "id": "ep_084",
@@ -1779,7 +1788,17 @@
     "duration_min": 67,
     "category": "acquired",
     "description": "<p>We sit down with the legendary Charlie Munger in the only dedicated longform podcast interview that he has done in his 99 years on Earth. We\u2019ve gotten to have some special conversations on Acquired over the years, but this one truly takes the cake. Over dinner at his Los Angeles home, Charlie reflected with us on his own career and his nearly 50-year partnership at Berkshire Hathaway w",
-    "source_show_url": "https://feeds.transistor.fm/acquired"
+    "source_show_url": "https://feeds.transistor.fm/acquired",
+    "compressed": {
+      "compressed_duration_s": 292,
+      "source_duration_s": 4005,
+      "speakers": [
+        "Ben Gilbert",
+        "David Rosenthal",
+        "Charlie Munger"
+      ],
+      "mp3_size_mb": 4.68
+    }
   },
   {
     "id": "ep_086",
@@ -1803,7 +1822,16 @@
     "duration_min": 225,
     "category": "acquired",
     "description": "<p>To paraphrase Visa founder Dee Hock, how many of you know Visa? Great, all of you. Now, how many of you know how it started? Or, for that matter, <em>who</em> started it? Who runs and governs it? Where is it headquartered? What\u2019s its business model?</p><p>For the 11th largest market cap company in the world, Visa\u2019s history and strategy is almost shockingly unknown. A huge portion of th",
-    "source_show_url": "https://feeds.transistor.fm/acquired"
+    "source_show_url": "https://feeds.transistor.fm/acquired",
+    "compressed": {
+      "compressed_duration_s": 295,
+      "source_duration_s": 4500,
+      "speakers": [
+        "Ben Gilbert",
+        "David Rosenthal"
+      ],
+      "mp3_size_mb": 4.73
+    }
   },
   {
     "id": "ep_088",
@@ -1815,7 +1843,15 @@
     "duration_min": 32,
     "category": "wildcard",
     "description": "What I learned from reading Eternal Pursuit of Unhappiness: Being Very Good Is No Good,You Have to Be Very, Very, Very, Very, Very Good by David Ogilvy and Ogivly & Mather.\u00a0\n----\nGet access to the World\u2019s Most Valuable Notebook for Founders at Founders Notes\nSome questions other subscribers asked SAGE:\u00a0\nI need some unique ideas on how to find new customers. What advice do you have for me?\nWhat are",
-    "source_show_url": "https://feeds.megaphone.fm/DSLLC6297708582"
+    "source_show_url": "https://feeds.megaphone.fm/DSLLC6297708582",
+    "compressed": {
+      "compressed_duration_s": 328,
+      "source_duration_s": 1920,
+      "speakers": [
+        "David Senra"
+      ],
+      "mp3_size_mb": 5.25
+    }
   },
   {
     "id": "ep_089",
@@ -1827,7 +1863,15 @@
     "duration_min": 58,
     "category": "wildcard",
     "description": "This episode covers the insanely valuable company-building principles of John D. Rockefeller\u2014and nothing else. \n\nI spent over 40 hours reading (and rereading) this obscure biography of Rockefeller that costs $1,000 \n\nI then spent several days editing down 25 pages of notes from the book. I deleted everything that was not How Rockefeller Works \n\nEpisode sponsors: \u2060\n\nRamp\u2060\u2060\u2060\u2060\u2060\u2060\u2060 gives you everything",
-    "source_show_url": "https://feeds.megaphone.fm/DSLLC6297708582"
+    "source_show_url": "https://feeds.megaphone.fm/DSLLC6297708582",
+    "compressed": {
+      "compressed_duration_s": 307,
+      "source_duration_s": 3465,
+      "speakers": [
+        "David Senra"
+      ],
+      "mp3_size_mb": 4.92
+    }
   },
   {
     "id": "ep_090",

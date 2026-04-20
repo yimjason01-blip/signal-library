@@ -1,0 +1,70 @@
+{
+  "id": "ep_083",
+  "source_url": "https://pscrb.fm/rss/p/media.transistor.fm/54402842/6376d479.mp3",
+  "source_title": "Microsoft Volume II",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 321,
+  "speakers": [
+    "Ben Gilbert",
+    "David Rosenthal"
+  ],
+  "audio_url": "/audio/ep_083.mp3",
+  "paragraphs": [
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "Welcome to Season 14, Episode 6, the season finale of Acquired, the podcast about great companies and the stories and playbooks behind them. I'm Ben Gilbert, and we are your hosts. Well listeners, here we are, Microsoft Volume 2 at long last. After the ancient history of Volume 1, we now get to the stuff that you grew up with, the Internet, Windows XP, Xbox, the browser, search, and mobile. And in this era, Microsoft had a lot of the right ideas with a lot of the wrong timing and execution on everything from the Zoom to Bing. But despite that, from 1995, where we start our story, to 2014, where we will end this episode, Microsoft grew their annual revenue from $6 billion to $80 billion.",
+      "source_time_s": 27,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "david",
+      "name": "David Rosenthal",
+      "text": "I think everybody kind of knows the narrative about what happened to Microsoft between call it 1995 and 2014 when Satya took over. There's even a quote from Satya himself in the very first paragraph of the book that he wrote in 2017 called Hit Refresh. He writes, I joined Microsoft in 1992 because I wanted to work for a company filled with people who believed they were on a mission to change the world. But after years of outdistancing all our competitors, something was changing, and not for the better. Innovation was being replaced by bureaucracy, teamwork was being replaced by internal politics, and we were falling behind.",
+      "source_time_s": 22,
+      "compressed_time_s": 56
+    },
+    {
+      "speaker": "david",
+      "name": "David Rosenthal",
+      "text": "On the last episode, we left off with the unabashed celebration of software that was the Windows 95 consumer launch in August of 1995. It had everything. It had Jay Leno. It had the Rolling Stones. It had the start button. But there was one thing that was missing from Windows 95 at launch that if you were a consumer user of technology, of software, of products, of operating systems, maybe you kind of wanted to have, and that was an internet browser.",
+      "source_time_s": 57,
+      "compressed_time_s": 104
+    },
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "In January 1994, a young Windows networking engineer named James Allard, or J as he goes by, writes a memo to Bill Gates and to the senior leadership at Microsoft entitled Windows, the next killer application for the Internet. And in this memo, he points to a new piece of software coming out of the National Center for Supercomputing Applications at the University of Illinois that is spreading like wildfire and appears to be written by some like kid programmer there by the name of Mark Andreessen. It is called Mosaic. And in this memo, J argues that the Internet and this software instantiation of it in the Mosaic web browser kind of looks like it is going to become an exponential phenomenon given the rate at which it is growing.",
+      "source_time_s": 228,
+      "compressed_time_s": 141
+    },
+    {
+      "speaker": "david",
+      "name": "David Rosenthal",
+      "text": "The very next month in February 1994, Bill's technical assistant, a man named Steven Sinofsky goes on a recruiting trip to his alma mater at Cornell University. And while he's there, there's a big snowstorm. He gets stuck on campus. He has to stay on campus for a few extra days. He notices that all these kids, especially when the campus is snowed in, they're all using the Internet. He gets so excited that he writes another memo to Bill and the leadership team entitled Cornell is wired, exclamation point. When I heard Steven talk about what was happening at Cornell, I began to take the Internet quite seriously.",
+      "source_time_s": 286,
+      "compressed_time_s": 200
+    },
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "Bill totally gets religion that the Internet is actually an exponential phenomenon. And as Bill puts it to the team gathered there and then the whole company later, it is a core Microsoft company value that exponential phenomena cannot be ignored. The whole concept of Microsoft is founded on the idea that Moore's law is a thing and therefore we can develop software that people have never dreamed of that in just a few years will be usable.",
+      "source_time_s": 314,
+      "compressed_time_s": 248
+    },
+    {
+      "speaker": "david",
+      "name": "David Rosenthal",
+      "text": "Marc Andreessen famously said in the Netscape IPO press cycle that Netscape will soon reduce Windows to a poorly debugged set of device drivers. If you really dwell in that quote, what does it mean? What he's saying is Windows is a platform upon which independent software vendors write applications. If we are going to reduce Windows to a poorly debugged set of device drivers, what I'm implying is the web will be a way that developers write their applications. And that scared the hell out of Microsoft.",
+      "source_time_s": 612,
+      "compressed_time_s": 283
+    },
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "On December 7th, 1995, Bill Gates announces that Internet Explorer is now free and it will be bundled in with every single copy of Windows 95 going forward. And on that day, Netscape stock drops by about a third and never recovers. That was the high watermark for Netscape.",
+      "source_time_s": 720,
+      "compressed_time_s": 322
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "ep_087",
+  "source_url": "https://pscrb.fm/rss/p/media.transistor.fm/e6dc5879/6c10261a.mp3",
+  "source_title": "Visa",
+  "source_duration_s": 4500,
+  "compressed_duration_s": 295,
+  "speakers": [
+    "Ben Gilbert",
+    "David Rosenthal"
+  ],
+  "audio_url": "/audio/ep_087.mp3",
+  "paragraphs": [
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "Welcome to Season 13, Episode 4 of Acquired. Today we tell the story of an absolutely incredible system. You can show up anywhere in the entire world with a piece of plastic and transact for anything you want in any currency. The merchant doesn't need to know you or trust you, and you do not need to know or trust the merchant. Visa, along with just one other competitor, MasterCard, has tirelessly spent decades stitching together all the banks, merchants, and the relationships with consumers to make this possible.",
+      "source_time_s": 28,
+      "compressed_time_s": 0
+    },
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "Here are some astonishing stats on Visa. It is the 11th most valuable company in the world. It is worth more than any bank in the world, including every bank involved in creating it. Visa's brand is among the very most trusted in the world associated with reliability and security. But if you asked most people what Visa does, they could not actually articulate it. Visa does not extend credit. They do not issue cards. They do not work directly with merchants. They do not work directly with consumers. They are not a bank or a financial institution. They don't ever bear any risk. They are merely a network connecting banks to other banks.",
+      "source_time_s": 96,
+      "compressed_time_s": 39
+    },
+    {
+      "speaker": "david",
+      "name": "David Rosenthal",
+      "text": "D. Hawk, the founder of Visa, would start his speaking engagements with a little thought exercise. He would get up on stage, he'd hold up his Visa card, and he would ask, how many of you recognize this? Every single hand in the room would go up. Then he would say, OK, now how many of you can tell me who owns this company? And every single hand in the room would always go down. How did this company start? No hands. Who runs it and who governs it? No hands. Where is it headquartered? No hands. It's just wild how important this company is, and yet still to this day, maybe a few more people know the answer to these questions, but not many.",
+      "source_time_s": 239,
+      "compressed_time_s": 90
+    },
+    {
+      "speaker": "david",
+      "name": "David Rosenthal",
+      "text": "We start in 1958 in Fresno, California, with The Drop. The then largest bank in America, the San Francisco based Bank of America, decides that they are going to mail out little rectangular pieces of plastic to every single one of their 65,000 customers in the city of Fresno. Completely unsolicited. Obviously, these are credit cards. People don't know what they are. They have no idea what to use them. Mass chaos ensues.",
+      "source_time_s": 299,
+      "compressed_time_s": 145
+    },
+    {
+      "speaker": "david",
+      "name": "David Rosenthal",
+      "text": "B of A was the biggest bank in America in the 1950s. But it was not like all the other big banks at the time. It was a consumer bank. The other large and influential banks in America back then were the JP Morgans. They were white shoe corporate banks based in New York. California was unique in that you could actually have branches all over the state and California happened to have quite a large population. So it was kind of the only place you could pull off a large consumer bank.",
+      "source_time_s": 337,
+      "compressed_time_s": 178
+    },
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "The business of banking is you take deposits, you make loans, you make your money on the loans. B of A was doing tons and tons of small, little and disparate consumer loans and lending. Obviously mortgages and car loans. But they were doing like washing machine loans. You would go to your local bank branch, you would sit down with the bank manager, and he would authorize you to go spend $150 at some merchant and make you a loan that you would come pay back over the next few months in installments. And every single time that you wanted to buy something now and pay for it later, you would repeat this very physical one-off manual process.",
+      "source_time_s": 549,
+      "compressed_time_s": 219
+    },
+    {
+      "speaker": "david",
+      "name": "David Rosenthal",
+      "text": "For a bank like Bank of America that is doing this at such large scale, the idea of a consumer credit card is pretty awesome because you can take all of these disparate lending programs, consolidate it into just one card, cut out a ton of overhead fees and make it way more efficient. So this is what they are launching first in Fresno as the pilot market. And they call it the Bank AmeriCard.",
+      "source_time_s": 628,
+      "compressed_time_s": 272
+    },
+    {
+      "speaker": "ben",
+      "name": "Ben Gilbert",
+      "text": "When you mail sixty five thousand cards indiscriminately with the same credit limit to every single customer and say, have at it, guys, you're going to lose a lot of money at first. Twenty million dollars of fraud within the first pilot program. Twenty two percent of the credit that they issued to that initial Fresno cohort ends up being default or delinquent, which is like five or six times what their delinquency rate was before on traditional lending.",
+      "source_time_s": 1973,
+      "compressed_time_s": 305
+    },
+    {
+      "speaker": "david",
+      "name": "David Rosenthal",
+      "text": "B of A can absorb this loss.",
+      "source_time_s": 2115,
+      "compressed_time_s": 340
+    }
+  ]
+}
